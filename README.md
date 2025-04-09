@@ -23,7 +23,9 @@ I'm a DevOps fresher with a strong passion for automation, cloud computing, and 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/>
 
   <!-- OS & Shell -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_2022.svg" alt="Ubuntu" width="60" height="60"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60" style="background:white; border-radius:10px; padding:5px"/>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
 
