@@ -14,8 +14,6 @@ I'm a DevOps fresher with a strong passion for automation, cloud computing, and 
 
 ## 🔧 Tech Stack & Tools
 
-## 🔧 Tech Stack & Tools
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
