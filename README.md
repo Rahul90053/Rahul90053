@@ -1,68 +1,18 @@
-## Hi there 👋
-
-  # 👋 Hello World! I'm Jha Rahul Kumar
+# 👋 Hello World! I'm Jha Rahul Kumar
 
 🚀 **Aspiring DevOps Engineer | Cloud Enthusiast | Lifelong Learner**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&color=blueviolet&style=flat-square)
 
 ---
 
 ## 🛠️ About Me
 
-I'm a DevOps fresher with hands-on experience from personal and academic projects. I'm passionate about automation, cloud computing, and continuous integration/deployment (CI/CD). I enjoy exploring modern DevOps tools and best practices to build scalable and reliable systems.
+I'm a DevOps fresher with a strong passion for automation, cloud computing, and CI/CD pipelines. I’ve completed hands-on projects using Docker, Kubernetes, GitHub Actions, and AWS. I'm always exploring new tools and practices to build modern, scalable, and resilient systems.
 
 ---
 
 ## 🔧 Tech Stack & Tools
-
-- **Cloud Platforms**: AWS (EC2, S3, IAM)
-- **CI/CD**: GitHub Actions, Jenkins (basics)
-- **Containerization**: Docker
-- **Orchestration**: Kubernetes (basics)
-- **Version Control**: Git, GitHub
-- **Scripting**: Bash, Python (beginner)
-- **Operating Systems**: Ubuntu, AWS Linux
-
----
-
-## 📂 Projects
-
-- 🔸 **CI/CD Pipeline with GitHub Actions & Docker**  
-  *Set up an automated pipeline to build, test, and deploy a containerized application.*
-
-- 🔸 **Kubernetes Deployment on AWS EC2**  
-  *Deployed a sample app using Docker and Kubernetes on a cloud environment.*
-
-- 🔸 **Static Website Hosting on S3 with CloudFront**  
-  *Hosted a static portfolio website with high availability using AWS S3 and CloudFront.*
-
----
-
-## 📈 Currently Learning
-
-- AWS Certified Cloud Practitioner Path
-- Terraform for Infrastructure as Code (IaC)
-- Monitoring with Prometheus & Grafana
-
----
-
-## 💡 Goals for 2025
-
-- Contribute to open-source DevOps projects  
-- Earn AWS and DevOps certifications  
-- Land a DevOps role and grow with real-world experience
-
----
-
-## 📫 Let’s Connect
-
-- 🌐 **Portfolio**: _[Add your portfolio link here]_  
-- 📧 **Email**: [jha702251@gmail.com](mailto:jha702251@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/jha-rahulkumar](https://linkedin.com/in/jha-rahulkumar)
-## 📊 GitHub Stats
-
-![Jha Rahul Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jha702251&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jha702251&layout=compact&theme=radical)
-## 🛠️ Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -72,18 +22,53 @@ I'm a DevOps fresher with hands-on experience from personal and academic project
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=jha702251&color=blueviolet&style=flat-square)
-<!--
-**Rahul90053/Rahul90053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+- 🔸 **CI/CD Pipeline with GitHub Actions & Docker**  
+  *Automated build, test, and deployment pipeline for a sample web app.*
+
+- 🔸 **Kubernetes Deployment on AWS EC2**  
+  *Deployed and managed a containerized application with Kubernetes on AWS EC2.*
+
+- 🔸 **Static Website Hosting on S3 with CloudFront**  
+  *Hosted a static portfolio website using AWS S3, Route 53, and CloudFront.*
+
+---
+
+## 📈 Currently Learning
+
+- Terraform for Infrastructure as Code (IaC)  
+- Monitoring with Prometheus & Grafana  
+- AWS Certified Cloud Practitioner Course
+
+---
+
+## 🎯 Goals for 2025
+
+- ✅ Contribute to Open Source DevOps projects  
+- 🎓 Earn AWS/DevOps Certifications  
+- 💼 Land a DevOps role & continue learning  
+- 📘 Write DevOps blog posts on real-world challenges
+
+---
+
+## 📊 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul90053&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jha-rahulkumar)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha702251@gmail.com)
+
+---
+
+_“Always learning, always building — one commit at a time!”_
