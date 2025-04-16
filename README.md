@@ -1,95 +1,53 @@
-# 👋 Hello World! I'm Jha Rahul Kumar
-
-🚀 **Aspiring DevOps Engineer | Cloud Enthusiast | Lifelong Learner**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&color=blueviolet&style=flat-square)
-
----
-
-## 🛠️ About Me
-
-I'm a DevOps fresher with a strong passion for automation, cloud computing, and CI/CD pipelines. I’ve completed hands-on projects using Docker, Kubernetes, GitHub Actions, and AWS. I'm always exploring new tools and practices to build modern, scalable, and resilient systems.
-
----
-
-## 🔧 Tech Stack & Tools
+<h1 align="center">Hey there 👋, I'm Rahul Kumar Jha</h1>
+<h3 align="center">🚀 A passionate Software Engineer and MERN Stack Developer</h3>
 
 <p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="60" height="60" style="background:white; border-radius:50%; padding:5px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="60" height="60"/>
-
-  <!-- OS & Shell -->
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60" style="background:white; border-radius:10px; padding:5px"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
-
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  
-  <!-- Web Dev -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-
-  <!-- Monitoring -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="60" height="60" style="background:white; border-radius:10px; padding:3px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="60" height="60" style="background:white; border-radius:10px; padding:3px"/>
+  <img src="https://i.pinimg.com/originals/2a/7e/5d/2a7e5d4ff8dfbbf6f6e5d29223d3ee4b.gif" width="100%" alt="Banner" />
 </p>
 
+---
 
-
-
+> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
-## 📂 Projects
-
-- 🔸 **CI/CD Pipeline with GitHub Actions & Docker**  
-  *Automated build, test, and deployment pipeline for a sample web app.*
-
-- 🔸 **Kubernetes Deployment on AWS EC2**  
-  *Deployed and managed a containerized application with Kubernetes on AWS EC2.*
-
-- 🔸 **Static Website Hosting on S3 with CloudFront**  
-  *Hosted a static portfolio website using AWS S3, Route 53, and CloudFront.*
+- 🛠️ Currently building **full-stack web applications using MERN Stack**
+- 🌱 Always learning **new frameworks, clean architecture, and performance optimization**
+- 💻 Check out my projects: [GitHub Portfolio](https://github.com/Rahul90053)
+- 📬 Email me: **jha702251@gmail.com**
+- 🧠 Fun fact: I love solving real-world problems with code and caffeine ☕
 
 ---
 
-## 📈 Currently Learning
-
-- Terraform for Infrastructure as Code (IaC)  
-- Monitoring with Prometheus & Grafana  
-- AWS Certified Cloud Practitioner Course
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Contribute to Open Source DevOps projects  
-- 🎓 Earn AWS/DevOps Certifications  
-- 💼 Land a DevOps role & continue learning  
-- 📘 Write DevOps blog posts on real-world challenges
+### 🧰 Tech Stack & Tools:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul90053&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jha-rahulkumar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha702251@gmail.com)
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul90053&theme=tokyonight" />
+</p>
 
 ---
 
-_“Always learning, always building — one commit at a time!”_
+### 🌐 Let's Connect!
+<p>
+  <a href="https://linkedin.com/in/rahul-kumar-jha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rahulkumarjha.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
