@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 style="text-align: center; font-size: 3.5em; color: #333;">Hi 👋, I'm Rahul Kumar Jha</h1>
-<h3 style="text-align: center; font-size: 2.5em; color: #555;">🚀 MERN Stack Developer | JavaScript Enthusiast | Full Stack Explorer</h3>
+<h3 style="text-align: center; font-size: 2.5em; color: #555;">🚀 Aspiring DevOps Engineer | Passionate about Automation, CI/CD, and Cloud Technologies 🌐</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053)
 
