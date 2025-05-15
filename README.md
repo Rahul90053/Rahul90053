@@ -8,9 +8,6 @@
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jha-rahulkumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jha702251@gmail.com) 
-
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
