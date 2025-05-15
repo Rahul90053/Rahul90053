@@ -1,6 +1,8 @@
 # 💫 About Me:
-<h1 style="text-align: center; font-size: 3.5em; color: #333;">Hi 👋, I'm Rahul Kumar Jha</h1>
-<h3 style="text-align: center; font-size: 2.5em; color: #555;">🎯 Data Analyst passionate about uncovering insights, visualizing data, and enabling data-driven decisions. Skilled in Python, SQL, Excel, Power BI, and Tableau. Always curious to explore the "why" behind the data.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Rahul+Jha+👨🏻‍💻;" />
+</h1>
+<h2 align="center">A Passionate DevOps Engineer & Student From India💻🎥
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053)
 
@@ -9,19 +11,12 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jha-rahulkumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jha702251@gmail.com) 
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
+    <img src="https://skillicons.dev/icons?i=css,postgresql,supabase,html,firebase,mongodb,nextjs,mysql,php,laravel,jenkins,terraform,aws,ansible,grafana" /><br>
+</div>
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=radical" alt="GitHub Stats" />
