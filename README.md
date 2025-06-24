@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Rahul+Jha+👨🏻‍💻;" />
 </h1>
-<h2 align="center">A Passionate DevOps Engineer & Student From India💻🎥
+<h2 align="center">A Passionate Software Engineer & Student From India💻🎥
 
 <div align="center"> 
   <a href="mailto:jha702251@gmail.com">
@@ -19,8 +19,8 @@
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab,azure" />
-    <img src="https://skillicons.dev/icons?i=css,postgresql,supabase,html,firebase,mongodb,nextjs,mysql,php,laravel,jenkins,terraform,aws,ansible,grafana" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=css,postgresql,supabase,html,firebase,mongodb,nextjs,mysql,php,laravel,jenkins,aws,ansible,grafana" /><br>
 </div>
 # 📊 GitHub Stats:
 <p align="center">
