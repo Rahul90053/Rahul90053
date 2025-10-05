@@ -2,13 +2,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Rahul+Jha+👨🏻‍💻;" />
 </h1>
-<h2 align="center"> **Aspiring Software Engineer & DevOps Engineer (Fresher)**  
+<h2 align="center"> Aspiring SDET | Software Engineer in Test | QA Automation | Problem Solver</h2>
 
 # 💫 About Me:
-- 💻 Skilled in **C++ , DevOps, Cloud, and Automation** 
-- 🌐 Interested in **Networking & System Programming**
-- ⚙️ Skilled in **DevOps tools** for automation & CI/CD
-- 📚 Always learning and contributing to open source
+- 🎓**B.Tech in Computer Engineering** (2025)
+- 💻 Passionate about **Software Testing, QA, and Automation**
+- 🔍 Exploring **SDET, Test Automation, and Software Engineering**
+-  🚀 Strong in **DSA (C++)** and **Problem Solving**
+-  📫 Reach me at: **jha702251@gmail.com**
     
 <div align="center"> 
   <a href="mailto:jha702251@gmail.com">
@@ -23,18 +24,29 @@
 </div>
 
 <h2 align="center">🚀💥 Tools & Technologies 💥🚀</h2>
+
+--- ### 🚀 Featured Projects 
+- 🧪 **Automation Frameworks**: Selenium + TestNG | PyTest | JUnit
+- 🔍 **Testing Tools**: Postman (API Testing), JMeter (Performance)
+- 📦 **DSA & Coding Practice**: [LeetCode Profile](https://leetcode.com/jha702251) ---
 <br/>
 
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js" height="45" alt="Languages"/>
+  <!-- Testing -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=python&logoColor=white" height="28"/>
+  <!-- API & DB -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github" height="45"/>
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=linux,vscode" height="45"/>
 </p>
 
 ### Monitoring & Automation  
@@ -71,3 +83,14 @@
 [![](https://visitcount.itsvg.in/api?id=Rahul90053&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:jha702251@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jha-rahulkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/jha702251"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://github.com/Rahul90053"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
