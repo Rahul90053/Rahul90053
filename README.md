@@ -1,116 +1,78 @@
 * ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053\&label=Profile%20Views\&color=0e75b6\&style=flat)
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Rahul+Jha+👨🏻‍💻;" />
-</h1>
-
-<h2 align="center">🚀 Software Developer | Full Stack Enthusiast | Problem Solver</h2>
-
-# 💫 About Me
-
-<p>💻 Passionate about building scalable and efficient software applications.</p>
-<p>🧠 Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming.</p>
-<p>🌱 Currently exploring MERN stack, REST APIs, and backend architecture.</p>
-<p>⚡ I enjoy solving problems on LeetCode, GFG, and CodeChef.</p>
-<p>🎓 B.Tech in Computer Engineering (Aditya Silver Oak University, Ahmedabad).</p>
-
-<div align="center"> 
-  <a href="mailto:jha702251@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@TheTechzeen" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-D71313?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jha-rahulkumar/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-<h2 align="center">🚀💥 Tech Stack 💥🚀</h2>
-
-### 💻 Languages & Frameworks
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,express,mongodb" height="45" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=7e15f7&center=true&vCenter=true&width=600&lines=Jha+Rahul+Kumar;DevOps+Engineer+%7C+Cloud+Enthusiast" />
 </p>
 
-### ⚙️ Tools & Technologies
+<h1 align="center">👋 Hey, I'm Jha Rahul Kumar</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" height="28"/>
+🚀 <b>DevOps Enthusiast | Cloud Learner | Software Engineer</b> ☁️  
 </p>
 
 ---
 
-### 🧩 Featured Projects
-
-* 🛒 **MERN E-Commerce App** – Full-stack microservices app for product, cart & user modules.
-  *Tech:* MongoDB | Express | React | Node.js
-* 🚀 **CI/CD Automation Pipeline** – Automated build & deployment using GitHub Actions and Docker.
-  *Tech:* Docker | GitHub Actions | Kubernetes
-* 💼 **Portfolio Website** – Personal website to showcase my projects and achievements.
-  *Tech:* HTML | CSS | JavaScript
+### 🧠 About Me
+- 🎓 Pursuing **B.Tech in Computer Engineering**  
+- ⚙️ Passionate about **DevOps, Automation, and Cloud Infrastructure**  
+- 🧩 Learning **Docker | Kubernetes | Jenkins | AWS | Terraform**  
+- 💻 Exploring **CI/CD Pipelines, Linux Administration, and Infrastructure as Code**  
+- 🌱 Believer in continuous learning and automation-first mindset  
 
 ---
 
-## 📊 GitHub Stats
-
+### 🧰 Tools & Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul90053&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,aws,terraform,bash,python,cpp,nginx,linux,vscode" />
+</p>
+
+- **Version Control & Collaboration:** Git, GitHub  
+- **CI/CD & Automation:** Jenkins, GitHub Actions  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **Cloud Platforms:** AWS (EC2, S3, IAM, EKS)  
+- **Infrastructure as Code (IaC):** Terraform  
+- **Monitoring & Logging:** Grafana, Prometheus (Basics)  
+- **Scripting & Programming:** Bash, Python, C++  
+- **Web & Server Tools:** Nginx  
+- **Operating Systems:** Linux (Ubuntu, AWS Linux)  
+
+---
+
+### 💼 Featured Projects
+
+#### 🧩 DevOps CI/CD Pipeline
+- Built a **complete CI/CD pipeline** using **GitHub Actions**, **Docker**, and **Kubernetes**  
+- Automated build, test, and deployment on **AWS EKS**  
+- Reduced manual deployment effort by introducing container-based automation  
+🔗 [View Project](https://github.com/Rahul90053)  
+
+#### ☁️ AWS Infrastructure Deployment
+- Deployed a **3-tier web application** on AWS using **EC2, S3, and IAM**  
+- Configured **Nginx reverse proxy** and automated provisioning using **Terraform**  
+🔗 [View Project](https://github.com/Rahul90053)  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=tokyonight" height="160px"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rahul90053\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
-
-## 🧮 DSA & Coding Profiles
-
-<p>
-  <a href="https://leetcode.com/jha702251"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/jha702251/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/jharahulkumar >"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-</p>
-
-
+### 🎯 2025 Goals
+- 🚀 Master **AWS & Terraform**  
+- 🧩 Build **3 full CI/CD pipeline projects**  
+- ☸️ Deep dive into **Kubernetes & Observability tools**  
+- 🌍 Contribute to **Open Source DevOps Projects**  
 
 ---
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Rahul90053\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Rahul90053\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----
-
-### 🌐 Connect with Me
-
+### 🤝 Connect With Me
 <p align="center">
-  <a href="mailto:jha702251@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jha-rahulkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/jha702251"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://github.com/Rahul90053"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jha-rahul-kumar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jha702251@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rahul90053"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 </p>
 
 <p align="left">
