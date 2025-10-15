@@ -1,65 +1,76 @@
-* ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053\&label=Profile%20Views\&color=0e75b6\&style=flat)
+* ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;📊+Data+%26+Business+Analyst+%7C+Turning+Data+into+Actionable+Insights" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;☁️+DevOps+%26+Cloud+Engineer;Building+Scalable+Infrastructure" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 👨‍💼 About Me
-- 🎯 Passionate about **Data Analytics, Business Insights, and Automation**
-- 🧠 Skilled in **Data Cleaning, Visualization, and Storytelling**
-- 📚 Always learning new tools like **Power BI, SQL, Python, and Excel**
-- 💬 Ask me about **Data Analysis, Dashboard Building, and Predictive Insights**
-- 🌱 Currently exploring **AI-powered Analytics (ChatGPT, Gemini, Copilot)**
-- 📍 Based in Ahmedabad, India
-- 📫 Reach me at **jha702251@gmail.com**
+- 🎯 Passionate about **DevOps, Cloud Computing & Automation**  
+- 🧠 Skilled in **CI/CD, Containerization, IaC, and Cloud Architecture**  
+- 📚 Learning **AWS, Azure, Docker, Kubernetes, Terraform, Jenkins**  
+- 💬 Ask me about **Cloud Deployment, Pipeline Automation & Scalable Systems**  
+- 🌱 Exploring **AI-driven DevOps & Cloud Optimization**  
+- 📍 Based in Ahmedabad, India  
+- 📫 Reach me at **jha702251@gmail.com**  
 
 ---
 
 <h2 align="center">🚀 Tools & Technologies 🚀</h2>
 
-<!-- Typing animation heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Languages:+Python%2C+SQL%2C+R%2C+Excel;Visualization:+Power+BI%2C+Tableau%2C+Matplotlib%2C+Seaborn;Databases:+MySQL%2C+PostgreSQL%2C+BigQuery;Other+Tools:+Jira%2C+Notion%2C+GitHub%2C+PowerPoint" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Cloud:+AWS%2C+Azure%2C+GCP;DevOps:+Docker%2C+Kubernetes%2C+Terraform%2C+Jenkins;Monitoring:+Prometheus%2C+Grafana;Version+Control:+Git%2C+GitHub" alt="Typing SVG" />
 </p>
 
-<!-- Animated tech icons -->
 <p align="center">
-
-  <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,github,notion" height="70" style="margin: 10px; animation: float 3s ease-in-out infinite;" />
-
-  <!-- ✅ Excel (GitHub-hosted image) -->
-  <img src="assets/excel.png" height="70" style="margin: 10px; background-color: white; border-radius: 10px; padding: 5px; animation: float 3s ease-in-out infinite;" title="Microsoft Excel" />
-
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="70" style="margin: 10px; background-color: white; border-radius: 10px; padding: 5px; animation: float 3s ease-in-out infinite;" title="Power BI" />
-
-  <!-- Tableau -->
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="70" style="margin: 10px; background-color: white; border-radius: 10px; padding: 5px; animation: float 3s ease-in-out infinite;" title="Tableau" />
+  <!-- Floating Cloud & DevOps Icons -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,github" height="70" style="margin: 10px; animation: float 3s ease-in-out infinite;" />
 </p>
 
-<!-- Animated badges -->
 <p align="center" style="animation: glow 2s infinite alternate;">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-FD4F25.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git- F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
+### 💻 Projects
+
+Here are some DevOps & Cloud projects I’m working on:
+
+- **CI/CD Pipeline for Microservices-based Application**  
+  🔗 [Link Coming Soon](#)  
+
+- **AWS Infrastructure Automation with Terraform**  
+  🔗 [Link Coming Soon](#)  
+
+- **Docker & Kubernetes Deployment for Web App**  
+  🔗 [Link Coming Soon](#)  
+
+- **Monitoring & Logging Setup using Prometheus & Grafana**  
+  🔗 [Link Coming Soon](#)  
+
+- **Serverless Application on AWS Lambda**  
+  🔗 [Link Coming Soon](#)  
+
+- **Cloud Cost Optimization Dashboard**  
+  🔗 [Link Coming Soon](#)
+  
+---
 
 ### 🏅 Certifications
-- 🎓 **Google Data Analytics Professional Certificate** *(Coursera)*
-- 📊 **Power BI for Business Analytics** *(Udemy)*
-- 🧠 **DevOps Master Course** *(Ducat Institute)*
+- 🎓 **AWS Certified Solutions Architect – Associate**  
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)**  
+- 🛠️ **Docker & Kubernetes Mastery**  
 
 ---
 
@@ -72,11 +83,10 @@
 
 ---
 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
 
-⭐ *“Data is the new oil, but insights are the fuel that drives business decisions.”*  
+⭐ *“Infrastructure as Code is the backbone, and automation is the heartbeat of modern IT.”*  
