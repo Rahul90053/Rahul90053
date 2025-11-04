@@ -1,76 +1,76 @@
-* ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;☁️+DevOps+%26+Cloud+Engineer;Building+Scalable+Infrastructure" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;🧪+QA+Engineer+(Manual+%26+Automation);Ensuring+Bug-Free+and+Quality+Software" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 👨‍💼 About Me
-- 🎯 Passionate about **DevOps, Cloud Computing & Automation**  
-- 🧠 Skilled in **CI/CD, Containerization, IaC, and Cloud Architecture**  
-- 📚 Learning **AWS, Azure, Docker, Kubernetes, Terraform, Jenkins**  
-- 💬 Ask me about **Cloud Deployment, Pipeline Automation & Scalable Systems**  
-- 🌱 Exploring **AI-driven DevOps & Cloud Optimization**  
+- 🎯 Passionate about **Software Testing, Quality Assurance & Automation**  
+- 🧠 Skilled in **Manual Testing, Selenium, TestNG, and Agile Methodologies**  
+- 🧩 Familiar with **SDLC, STLC, Bug Life Cycle & Defect Tracking Tools**  
+- 💬 Ask me about **Test Case Design, Automation Frameworks & API Testing**  
+- 🌱 Exploring **Cypress, Playwright & Performance Testing Tools**  
 - 📍 Based in Ahmedabad, India  
 - 📫 Reach me at **jha702251@gmail.com**  
 
 ---
 
-<h2 align="center">🚀 Tools & Technologies 🚀</h2>
+<h2 align="center">🧰 Tools & Technologies 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Cloud:+AWS%2C+Azure%2C+GCP;DevOps:+Docker%2C+Kubernetes%2C+Terraform%2C+Jenkins;Monitoring:+Prometheus%2C+Grafana;Version+Control:+Git%2C+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Manual+Testing%2C+Agile%2C+JIRA;Automation:+Selenium%2C+TestNG%2C+Postman;Programming:+Java%2C+Python;Tools:+Git%2C+Jenkins%2C+Maven%2C+VS+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Floating Cloud & DevOps Icons -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,github" height="70" style="margin: 10px; animation: float 3s ease-in-out infinite;" />
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,git,github,jenkins,vscode,postman" height="70" style="margin: 10px;" />
 </p>
 
-<p align="center" style="animation: glow 2s infinite alternate;">
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-FD4F25.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-FF6F00?style=for-the-badge&logo=testcafe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-F7DF1E.svg?style=for-the-badge&logo=testng&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git- F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 ---
+
 ### 💻 Projects
 
-Here are some DevOps & Cloud projects I’m working on:
+Here are some QA projects I’m working on:
 
-- **CI/CD Pipeline for Microservices-based Application**  
+- **Manual Testing of E-Commerce Web App**  
   🔗 [Link Coming Soon](#)  
+  🧩 *Includes Test Case Design, Bug Reporting, and Test Execution*
 
-- **AWS Infrastructure Automation with Terraform**  
+- **Automation Framework using Selenium & TestNG**  
   🔗 [Link Coming Soon](#)  
+  ⚙️ *Page Object Model, Maven Integration & Jenkins CI Setup*
 
-- **Docker & Kubernetes Deployment for Web App**  
+- **API Testing using Postman**  
   🔗 [Link Coming Soon](#)  
+  📡 *REST API Functional & Regression Testing*
 
-- **Monitoring & Logging Setup using Prometheus & Grafana**  
+- **End-to-End Test Automation Pipeline**  
   🔗 [Link Coming Soon](#)  
+  🔄 *Integrating GitHub, Jenkins & Selenium Automation*
 
-- **Serverless Application on AWS Lambda**  
+- **Bug Tracking & Reporting Dashboard**  
   🔗 [Link Coming Soon](#)  
+  🐞 *JIRA & Excel-based defect management*
 
-- **Cloud Cost Optimization Dashboard**  
-  🔗 [Link Coming Soon](#)
-  
 ---
 
 ### 🏅 Certifications
-- 🎓 **AWS Certified Solutions Architect – Associate**  
-- ☁️ **Microsoft Azure Fundamentals (AZ-900)**  
-- 🛠️ **Docker & Kubernetes Mastery**  
+- 🧾 **Software Testing Mastery – Manual & Automation (Selenium + Java)**  
+- 🧠 **Postman API Testing Certification**  
+- 💡 **Agile Testing & Scrum Foundation**  
 
 ---
 
@@ -89,4 +89,4 @@ Here are some DevOps & Cloud projects I’m working on:
 
 ---
 
-⭐ *“Infrastructure as Code is the backbone, and automation is the heartbeat of modern IT.”*  
+⭐ *“Testing is not just finding bugs — it's ensuring confidence in every release.”*
