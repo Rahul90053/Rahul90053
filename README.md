@@ -1,41 +1,41 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;🧪+QA+Engineer+(Manual+%26+Automation);Ensuring+Bug-Free+and+Quality+Software" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;💻+Software+Development+Engineer+(Fresher);" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👨‍💼 About Me
-- 🎯 Passionate about **Software Testing, Quality Assurance & Automation**  
-- 🧠 Skilled in **Manual Testing, Selenium, TestNG, and Agile Methodologies**  
-- 🧩 Familiar with **SDLC, STLC, Bug Life Cycle & Defect Tracking Tools**  
-- 💬 Ask me about **Test Case Design, Automation Frameworks & API Testing**  
-- 🌱 Exploring **Cypress, Playwright & Performance Testing Tools**  
+### 👨‍💻 About Me
+- 🚀 Passionate about **Software Engineering, Full-Stack Development & Problem Solving**  
+- 💻 Skilled in **Java, Python, MySQL, and Object-Oriented Programming (OOPs)**  
+- 🧩 Hands-on with **Frontend, Backend, and Database Design**  
+- ⚙️ Familiar with **Data Structures & Algorithms, REST APIs, and System Design Basics**  
+- 🌱 Currently exploring **Spring Boot, React.js & Cloud Deployment (AWS)**  
 - 📍 Based in Ahmedabad, India  
-- 📫 Reach me at **jha702251@gmail.com**  
+- 📫 Reach me at **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 Tools & Technologies 🧰</h2>
+<h2 align="center">🧰 Tech Stack & Tools 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Manual+Testing%2C+Agile%2C+JIRA;Automation:+Selenium%2C+TestNG%2C+Postman;Programming:+Java%2C+Python;Tools:+Git%2C+Jenkins%2C+Maven%2C+VS+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Frontend:+HTML%2C+CSS%2C+JavaScript%2C+React.js;Backend:+Java+(SpringBoot)%2C+Python+(Flask%2FDjango);Database:+MySQL%2C+MongoDB;DevOps:+Git%2C+GitHub%2C+Docker%2C+VS+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,selenium,git,github,jenkins,vscode,postman" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,mongodb,git,github,docker,vscode,postman" height="70" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Testing-FF6F00?style=for-the-badge&logo=testcafe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-F7DF1E.svg?style=for-the-badge&logo=testng&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -43,34 +43,37 @@
 
 ### 💻 Projects
 
-Here are some QA projects I’m working on:
-
-- **Manual Testing of E-Commerce Web App**  
+- **Full-Stack E-Commerce Web App (React + Spring Boot + MySQL)**  
   🔗 [Link Coming Soon](#)  
-  🧩 *Includes Test Case Design, Bug Reporting, and Test Execution*
+  🧩 *Developed user authentication, product catalog & payment integration*
 
-- **Automation Framework using Selenium & TestNG**  
+- **Blog Management System (Python Flask + MongoDB)**  
   🔗 [Link Coming Soon](#)  
-  ⚙️ *Page Object Model, Maven Integration & Jenkins CI Setup*
+  📝 *CRUD operations, JWT-based authentication & RESTful APIs*
 
-- **API Testing using Postman**  
+- **Portfolio Website (React + Tailwind CSS)**  
   🔗 [Link Coming Soon](#)  
-  📡 *REST API Functional & Regression Testing*
+  🌐 *Responsive design showcasing projects and skills*
 
-- **End-to-End Test Automation Pipeline**  
+- **CI/CD Automation for Web App (Docker + GitHub + Jenkins)**  
   🔗 [Link Coming Soon](#)  
-  🔄 *Integrating GitHub, Jenkins & Selenium Automation*
-
-- **Bug Tracking & Reporting Dashboard**  
-  🔗 [Link Coming Soon](#)  
-  🐞 *JIRA & Excel-based defect management*
+  ⚙️ *Automated testing and deployment pipeline for full-stack app*
 
 ---
 
 ### 🏅 Certifications
-- 🧾 **Software Testing Mastery – Manual & Automation (Selenium + Java)**  
-- 🧠 **Postman API Testing Certification**  
-- 💡 **Agile Testing & Scrum Foundation**  
+- 🧾 **Full Stack Web Development (Java + React)**  
+- 🧠 **Python for Software Engineers**  
+- 💡 **DevOps Master Course – Docker, Jenkins & AWS (Ducat Institute)**  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=radical" height="160"/>
+</p>
 
 ---
 
@@ -89,4 +92,4 @@ Here are some QA projects I’m working on:
 
 ---
 
-⭐ *“Testing is not just finding bugs — it's ensuring confidence in every release.”*
+⭐ *“Great software is built by writing clean code and solving real problems — one commit at a time.”*
