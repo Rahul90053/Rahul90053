@@ -1,70 +1,70 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;💻+Software+Development+Engineer+(Fresher);" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;⚙️+DevOps+Engineer+(Fresher);Automating+Deployment+and+Building+Reliable+Systems" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🚀 Passionate about **Software Engineering, Full-Stack Development & Problem Solving**  
-- 💻 Skilled in **Java, Python, MySQL, and Object-Oriented Programming (OOPs)**  
-- 🧩 Hands-on with **Frontend, Backend, and Database Design**  
-- ⚙️ Familiar with **Data Structures & Algorithms, REST APIs, and System Design Basics**  
-- 🌱 Currently exploring **Spring Boot, React.js & Cloud Deployment (AWS)**  
+- 🚀 Passionate about **DevOps, Cloud Infrastructure & CI/CD Automation**  
+- 💻 Skilled in **Linux, Docker, Jenkins, GitHub Actions, and Shell Scripting**  
+- 🧠 Programming knowledge in **Python & Java** for automation and backend scripts  
+- ⚙️ Familiar with **CI/CD Pipelines, Containerization & Monitoring Tools**  
+- 🌱 Currently exploring **Kubernetes, Terraform & AWS Cloud Services**  
 - 📍 Based in Ahmedabad, India  
 - 📫 Reach me at **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 Tech Stack & Tools 🧰</h2>
+<h2 align="center">🧰 Tools & Technologies 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Frontend:+HTML%2C+CSS%2C+JavaScript%2C+React.js;Backend:+Java+(SpringBoot)%2C+Python+(Flask%2FDjango);Database:+MySQL%2C+MongoDB;DevOps:+Git%2C+GitHub%2C+Docker%2C+VS+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Languages:+Python%2C:DevOps:+Git%2C+Jenkins%2C+Docker%2C+Kubernetes%2C+Ansible;Cloud:+AWS%2C+EC2%2C+S3%2C+IAM;Monitoring:+Grafana%2C+Prometheus;CI%2FCD:+GitHub+Actions%2C+Maven%2C+Nexus;OS:+Linux%2C+Ubuntu" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,spring,mysql,mongodb,git,github,docker,vscode,postman" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,jenkins,kubernetes,aws,bash,vscode,terraform,prometheus,grafana" height="70" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
 </p>
 
 ---
 
-### 💻 Projects
+### 🧩 Projects
 
-- **Full-Stack E-Commerce Web App (React + Spring Boot + MySQL)**  
+- **CI/CD Pipeline for Microservices App (Jenkins + Docker + Kubernetes)**  
   🔗 [Link Coming Soon](#)  
-  🧩 *Developed user authentication, product catalog & payment integration*
+  ⚙️ *Automated build, test, and deploy workflow using Jenkins and K8s*
 
-- **Blog Management System (Python Flask + MongoDB)**  
+- **AWS Infrastructure Setup (Terraform + EC2 + S3)**  
   🔗 [Link Coming Soon](#)  
-  📝 *CRUD operations, JWT-based authentication & RESTful APIs*
+  ☁️ *Infrastructure as Code (IaC) for scalable cloud deployment*
 
-- **Portfolio Website (React + Tailwind CSS)**  
+- **Monitoring Stack (Prometheus + Grafana + Node Exporter)**  
   🔗 [Link Coming Soon](#)  
-  🌐 *Responsive design showcasing projects and skills*
+  📊 *Real-time performance monitoring and alerting system*
 
-- **CI/CD Automation for Web App (Docker + GitHub + Jenkins)**  
+- **Automation Script for Backup & Deployment (Python + Bash)**  
   🔗 [Link Coming Soon](#)  
-  ⚙️ *Automated testing and deployment pipeline for full-stack app*
+  🧠 *Automated file backup and service restart with logging support*
 
 ---
 
 ### 🏅 Certifications
-- 🧾 **Full Stack Web Development (Java + React)**  
-- 🧠 **Python for Software Engineers**  
-- 💡 **DevOps Master Course – Docker, Jenkins & AWS (Ducat Institute)**  
+- 🧾 **DevOps Master Course – Docker, Jenkins, Kubernetes & AWS (Ducat Institute)**  
+- 🧠 **AWS Cloud Practitioner Essentials**  
+- 💡 **Linux & Shell Scripting for Automation**  
 
 ---
 
@@ -92,4 +92,4 @@
 
 ---
 
-⭐ *“Great software is built by writing clean code and solving real problems — one commit at a time.”*
+⭐ *“DevOps isn’t just automation — it’s the culture of delivering faster, safer, and smarter.”*
