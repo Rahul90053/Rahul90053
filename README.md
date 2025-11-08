@@ -1,18 +1,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;⚙️+DevOps+Engineer+(Fresher);Automating+Deployment+and+Building+Reliable+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;🧪+Manual+Testing+%7C+QA+Engineer+(Fresher);Ensuring+Quality+Through+Precision+and+Dedication" alt="Typing Animation" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 Passionate about **DevOps, Cloud Infrastructure & CI/CD Automation**  
-- 💻 Skilled in **Linux, Docker, Jenkins, GitHub Actions, and Shell Scripting**  
-- 🧠 Programming knowledge in **Python & Java** for automation and backend scripts  
-- ⚙️ Familiar with **CI/CD Pipelines, Containerization & Monitoring Tools**  
-- 🌱 Currently exploring **Kubernetes, Terraform & AWS Cloud Services**  
-- 📍 Based in Ahmedabad, India  
+### 👨‍💻 About Me  
+- 🧠 Passionate about **Software Quality Assurance & Manual Testing**  
+- 🧩 Skilled in **Test Case Design, Defect Tracking, and SDLC/STLC Processes**  
+- 💻 Familiar with tools like **JIRA, TestLink, Bugzilla, and Postman (Basic API Testing)**  
+- 🗄️ Knowledge of **MySQL** for backend testing and data validation  
+- 🧠 Basic understanding of **Java**, **OOPs Concepts**, and **Agile Methodology**  
+- 🌱 Constantly learning **Automation Concepts** and **Testing Best Practices**  
+- 📍 Based in Noida, India  
 - 📫 Reach me at **jha702251@gmail.com**
 
 ---
@@ -20,56 +21,46 @@
 <h2 align="center">🧰 Tools & Technologies 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Languages:+Python%2C:DevOps:+Git%2C+Jenkins%2C+Docker%2C+Kubernetes%2C+Ansible;Cloud:+AWS%2C+EC2%2C+S3%2C+IAM;Monitoring:+Grafana%2C+Prometheus;CI%2FCD:+GitHub+Actions%2C+Maven%2C+Nexus;OS:+Linux%2C+Ubuntu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Testing:+Manual+Testing%2C+Test+Case+Design%2C+Defect+Tracking;Tools:+JIRA%2C+TestLink%2C+Bugzilla%2C+Postman;Database:+MySQL;Languages:+Java+(Core)%2C+SQL;Concepts:+OOPs%2C+SDLC%2C+STLC%2C+Agile" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,jenkins,kubernetes,aws,bash,vscode,terraform,prometheus,grafana" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,linux,vscode,postman" height="70" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual_Testing-FF6F00.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestLink-0A0A0A.svg?style=for-the-badge&logo=testlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugzilla-E84D31.svg?style=for-the-badge&logo=bugzilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-### 🧩 Projects
+### 🧩 Projects  
 
-- **CI/CD Pipeline for Microservices App (Jenkins + Docker + Kubernetes)**  
-  🔗 [Link Coming Soon](#)  
-  ⚙️ *Automated build, test, and deploy workflow using Jenkins and K8s*
+- **E-Commerce Web Application Testing**  
+  🧪 *Designed and executed functional & regression test cases.*  
+  🐞 *Tracked and reported bugs using JIRA and TestLink.*  
+  🧠 *Validated UI and backend functionality using MySQL.*  
 
-- **AWS Infrastructure Setup (Terraform + EC2 + S3)**  
-  🔗 [Link Coming Soon](#)  
-  ☁️ *Infrastructure as Code (IaC) for scalable cloud deployment*
-
-- **Monitoring Stack (Prometheus + Grafana + Node Exporter)**  
-  🔗 [Link Coming Soon](#)  
-  📊 *Real-time performance monitoring and alerting system*
-
-- **Automation Script for Backup & Deployment (Python + Bash)**  
-  🔗 [Link Coming Soon](#)  
-  🧠 *Automated file backup and service restart with logging support*
+- **Banking Web Application Testing**  
+  💳 *Performed test case design, defect reporting, and retesting.*  
+  📊 *Verified transaction accuracy and data consistency.*  
+  ⚙️ *Collaborated with developers for bug resolution and documentation.*  
 
 ---
 
-### 🏅 Certifications
-- 🧾 **DevOps Master Course – Docker, Jenkins, Kubernetes & AWS (Ducat Institute)**  
-- 🧠 **AWS Cloud Practitioner Essentials**  
-- 💡 **Linux & Shell Scripting for Automation**  
+### 🏅 Certifications  
+- 🧾 **Software Testing Training – Ducat Institute**  
+  *Covered SDLC, STLC, Test Case Design, Defect Tracking, JIRA, TestLink, MySQL & Postman.*  
+- 💡 **Core Java & OOPs Concepts Certification**  
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=radical" height="160"/>
@@ -77,7 +68,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/jha-rahul-kumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jha702251@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -92,4 +83,4 @@
 
 ---
 
-⭐ *“DevOps isn’t just automation — it’s the culture of delivering faster, safer, and smarter.”*
+⭐ *“Testing is not just finding bugs — it’s ensuring quality, reliability, and user satisfaction.”*
