@@ -1,18 +1,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Jha+Rahul+Kumar;🧪+Manual+Testing+%7C+QA+Engineer+(Fresher);Ensuring+Quality+Through+Precision+and+Dedication" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;%E2%9A%99%EF%B8%8F%20DevOps%20Engineer%20(Fresher);%20Automating%20Deployment%20and%20Delivering%20Reliability" alt="Typing Animation" />
 </p>
+
+
 
 ---
 
 ### 👨‍💻 About Me  
-- 🧠 Passionate about **Software Quality Assurance & Manual Testing**  
-- 🧩 Skilled in **Test Case Design, Defect Tracking, and SDLC/STLC Processes**  
-- 💻 Familiar with tools like **JIRA, TestLink, Bugzilla, and Postman (Basic API Testing)**  
-- 🗄️ Knowledge of **MySQL** for backend testing and data validation  
-- 🧠 Basic understanding of **Java**, **OOPs Concepts**, and **Agile Methodology**  
-- 🌱 Constantly learning **Automation Concepts** and **Testing Best Practices**  
+- 🚀 Enthusiastic **DevOps Engineer (Fresher)** passionate about automation and cloud infrastructure  
+- 🧠 Strong foundation in **CI/CD, Docker, Kubernetes, Git, and AWS**  
+- 💻 Skilled in **Linux, Jenkins pipelines, and version control (Git/GitHub)**  
+- 🧩 Familiar with **Ansible, Terraform, and container orchestration**  
+- ☁️ Hands-on knowledge of **AWS services (EC2, S3, IAM, EKS)**  
+- 🧠 Basic scripting knowledge in **Bash** and **Python**  
+- 🌱 Currently exploring **Infrastructure as Code (IaC)** and **Monitoring Tools**  
 - 📍 Based in Noida, India  
 - 📫 Reach me at **jha702251@gmail.com**
 
@@ -21,42 +24,43 @@
 <h2 align="center">🧰 Tools & Technologies 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Testing:+Manual+Testing%2C+Test+Case+Design%2C+Defect+Tracking;Tools:+JIRA%2C+TestLink%2C+Bugzilla%2C+Postman;Database:+MySQL;Languages:+Java+(Core)%2C+SQL;Concepts:+OOPs%2C+SDLC%2C+STLC%2C+Agile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=DevOps:+CI/CD%2C+Automation%2C+Monitoring;Tools:+GitHub%2C+Jenkins%2C+Docker%2C+Kubernetes%2C+Ansible%2C+Terraform;Cloud:+AWS(EC2%2C+S3%2C+IAM%2C+EKS);Scripting:+Bash%2C+Python;Concepts:+IaC%2C+Linux%2C+Networking" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github,linux,vscode,postman" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux,python,bash,vscode" height="70" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual_Testing-FF6F00.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestLink-0A0A0A.svg?style=for-the-badge&logo=testlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bugzilla-E84D31.svg?style=for-the-badge&logo=bugzilla&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 ---
 
 ### 🧩 Projects  
 
-- **E-Commerce Web Application Testing**  
-  🧪 *Designed and executed functional & regression test cases.*  
-  🐞 *Tracked and reported bugs using JIRA and TestLink.*  
-  🧠 *Validated UI and backend functionality using MySQL.*  
+- **CI/CD Pipeline for E-Commerce Application**  
+  🚀 *Built an automated CI/CD pipeline using GitHub Actions and Jenkins.*  
+  🐳 *Containerized application with Docker and deployed on Kubernetes (EKS).*  
+  ☁️ *Used AWS EC2 and S3 for hosting and storage.*  
 
-- **Banking Web Application Testing**  
-  💳 *Performed test case design, defect reporting, and retesting.*  
-  📊 *Verified transaction accuracy and data consistency.*  
-  ⚙️ *Collaborated with developers for bug resolution and documentation.*  
+- **Infrastructure Automation with Ansible and Terraform**  
+  ⚙️ *Automated infrastructure provisioning using Terraform.*  
+  🔁 *Configured servers with Ansible playbooks for consistent deployment.*  
+  📊 *Deployed monitoring setup using Prometheus and Grafana.*  
 
 ---
 
 ### 🏅 Certifications  
-- 🧾 **Software Testing Training – Ducat Institute**  
-  *Covered SDLC, STLC, Test Case Design, Defect Tracking, JIRA, TestLink, MySQL & Postman.*  
-- 💡 **Core Java & OOPs Concepts Certification**  
+- 🧾 **DevOps Master Course – Ducat Institute**  
+  *Covered Git, Jenkins, Docker, Kubernetes, AWS, Ansible, Terraform, and CI/CD concepts.*  
+- 💡 **AWS Cloud Fundamentals Certification (Self-Learning Project)**  
 
 ---
 
@@ -83,4 +87,4 @@
 
 ---
 
-⭐ *“Testing is not just finding bugs — it’s ensuring quality, reliability, and user satisfaction.”*
+⭐ *“DevOps is not just automation — it’s collaboration, innovation, and continuous improvement.”*
