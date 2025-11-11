@@ -1,20 +1,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;%F0%9F%94%8D%20QA%20Engineer%20(Fresher);Ensuring%20Quality%20through%20Testing%20and%20Automation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;🚀%20DevOps%20Engineer%20(Fresher);Automating%20Build%2C%20Deployment%2C%20and%20Monitoring" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🚀 Enthusiastic **QA Engineer (Fresher)** passionate about ensuring software quality and performance  
-- 🧠 Strong foundation in **Manual & Automation Testing** concepts (SDLC, STLC, Bug Life Cycle)  
-- 💻 Skilled in **Test Case Design, Defect Tracking, and Test Execution**  
-- 🧩 Hands-on with **Selenium WebDriver (Java)** for automation  
-- 🧠 Familiar with **TestNG, Maven, Git, and Jenkins**  
-- ☁️ Basic knowledge of **API Testing using Postman** and **Database Testing with MySQL**  
-- 📋 Experienced in **Agile (Scrum)** methodology  
-- 🌱 Currently learning **Advanced Selenium Frameworks & Automation Tools**  
+- 🔧 Enthusiastic **DevOps Engineer (Fresher)** passionate about automation, CI/CD, and cloud deployment.  
+- 🧠 Strong understanding of **DevOps principles** and **software delivery pipelines**.  
+- ⚙️ Hands-on experience with **Docker, Jenkins, GitHub Actions, Kubernetes (Basics), and AWS (EC2, S3, IAM)**.  
+- 🧩 Skilled in **CI/CD pipeline setup, containerization, and monitoring tools**.  
+- 💻 Familiar with **Linux (Ubuntu, AWS Linux)** and **scripting using Bash & Python**.  
+- ☁️ Knowledge of **Infrastructure as Code (IaC)** with **Terraform** and **Ansible**.  
+- 📈 Experienced in **source control management** using **Git & GitHub**.  
+- 🌱 Currently learning **Kubernetes, Prometheus, and Grafana** for cloud-native monitoring.  
 - 📍 Based in Noida, India  
 - 📫 Reach me at **jha702251@gmail.com**
 
@@ -23,43 +23,44 @@
 <h2 align="center">🧰 Tools & Technologies 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Testing:+Manual+%26+Automation;Automation:+Selenium%2C+TestNG%2C+Maven;API:+Postman%2C+RestAssured;Version+Control:+Git%2C+GitHub;CI/CD:+Jenkins;Database:+MySQL;Concepts:+SDLC%2C+STLC%2C+Bug+Life+Cycle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Version+Control:+Git%2C+GitHub;CI/CD:+Jenkins%2C+GitHub+Actions;Containers:+Docker%2C+Kubernetes;Configuration:+Ansible%2C+Terraform;Cloud:+AWS+(EC2%2C+S3%2C+IAM);Monitoring:+Prometheus%2C+Grafana;Scripting:+Bash%2C+Python;OS:+Linux+(Ubuntu%2C+AWS+Linux)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,mysql,postman,vscode" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,jenkins,aws,ansible,terraform,python,bash,vscode" height="70" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Testing-0078D7?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
 ### 🧩 Projects  
 
-- **E-Commerce Web Application Testing**  
-  🧪 *Performed end-to-end manual testing covering functional, UI, and regression scenarios.*  
-  🧰 *Designed and executed test cases, logged defects using Jira.*  
-  ⚙️ *Automated key test scenarios using Selenium with Java and TestNG.*
+- **CI/CD Pipeline for a Web Application**  
+  ⚙️ *Built an end-to-end CI/CD pipeline using Jenkins and GitHub Actions.*  
+  🐳 *Containerized the application using Docker and deployed it on AWS EC2.*  
+  🔁 *Integrated automated testing and notifications for build success/failure.*
 
-- **Banking Application Automation Framework**  
-  🔁 *Developed a hybrid automation framework using Selenium, TestNG, and Maven.*  
-  🧠 *Integrated Jenkins for continuous test execution and reporting.*  
-  💾 *Validated backend data through SQL queries (MySQL).*
+- **Microservices Deployment on Kubernetes**  
+  🚀 *Deployed a sample microservices app using Kubernetes (Minikube).*  
+  🧠 *Used Docker for image creation, configured pods, services, and deployments.*  
+  ☁️ *Monitored container health using Prometheus and Grafana.*
 
 ---
 
 ### 🏅 Certifications  
-- 🧾 **Software Testing (Manual & Automation) – Ducat Institute**  
-  *Covered SDLC, STLC, Test Case Design, Selenium, TestNG, Jenkins, and Bug Tracking Tools.*  
-- 💡 **ISTQB Foundation Level (In Progress)**  
+- 🧾 **DevOps Master Course – Ducat Institute**  
+  *Covered Git, Jenkins, Docker, Kubernetes, Ansible, Terraform, AWS, and CI/CD concepts.*  
+- ☁️ **AWS Cloud Practitioner (In Progress)**  
 
 ---
 
@@ -86,4 +87,4 @@
 
 ---
 
-⭐ *“Testing is not just finding bugs — it’s ensuring confidence in every release.”*
+⭐ *“DevOps is not just automation — it’s a culture of collaboration, continuous improvement, and delivery.”*
