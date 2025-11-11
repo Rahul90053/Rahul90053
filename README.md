@@ -1,21 +1,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;%E2%9A%99%EF%B8%8F%20DevOps%20Engineer%20(Fresher);%20Automating%20Deployment%20and%20Delivering%20Reliability" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;%F0%9F%94%8D%20QA%20Engineer%20(Fresher);Ensuring%20Quality%20through%20Testing%20and%20Automation" alt="Typing Animation" />
 </p>
-
-
 
 ---
 
 ### 👨‍💻 About Me  
-- 🚀 Enthusiastic **DevOps Engineer (Fresher)** passionate about automation and cloud infrastructure  
-- 🧠 Strong foundation in **CI/CD, Docker, Kubernetes, Git, and AWS**  
-- 💻 Skilled in **Linux, Jenkins pipelines, and version control (Git/GitHub)**  
-- 🧩 Familiar with **Ansible, Terraform, and container orchestration**  
-- ☁️ Hands-on knowledge of **AWS services (EC2, S3, IAM, EKS)**  
-- 🧠 Basic scripting knowledge in **Bash** and **Python**  
-- 🌱 Currently exploring **Infrastructure as Code (IaC)** and **Monitoring Tools**  
+- 🚀 Enthusiastic **QA Engineer (Fresher)** passionate about ensuring software quality and performance  
+- 🧠 Strong foundation in **Manual & Automation Testing** concepts (SDLC, STLC, Bug Life Cycle)  
+- 💻 Skilled in **Test Case Design, Defect Tracking, and Test Execution**  
+- 🧩 Hands-on with **Selenium WebDriver (Java)** for automation  
+- 🧠 Familiar with **TestNG, Maven, Git, and Jenkins**  
+- ☁️ Basic knowledge of **API Testing using Postman** and **Database Testing with MySQL**  
+- 📋 Experienced in **Agile (Scrum)** methodology  
+- 🌱 Currently learning **Advanced Selenium Frameworks & Automation Tools**  
 - 📍 Based in Noida, India  
 - 📫 Reach me at **jha702251@gmail.com**
 
@@ -24,43 +23,43 @@
 <h2 align="center">🧰 Tools & Technologies 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=DevOps:+CI/CD%2C+Automation%2C+Monitoring;Tools:+GitHub%2C+Jenkins%2C+Docker%2C+Kubernetes%2C+Ansible%2C+Terraform;Cloud:+AWS(EC2%2C+S3%2C+IAM%2C+EKS);Scripting:+Bash%2C+Python;Concepts:+IaC%2C+Linux%2C+Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Testing:+Manual+%26+Automation;Automation:+Selenium%2C+TestNG%2C+Maven;API:+Postman%2C+RestAssured;Version+Control:+Git%2C+GitHub;CI/CD:+Jenkins;Database:+MySQL;Concepts:+SDLC%2C+STLC%2C+Bug+Life+Cycle" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux,python,bash,vscode" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,git,github,jenkins,mysql,postman,vscode" height="70" style="margin: 10px;" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual%20Testing-0078D7?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ### 🧩 Projects  
 
-- **CI/CD Pipeline for E-Commerce Application**  
-  🚀 *Built an automated CI/CD pipeline using GitHub Actions and Jenkins.*  
-  🐳 *Containerized application with Docker and deployed on Kubernetes (EKS).*  
-  ☁️ *Used AWS EC2 and S3 for hosting and storage.*  
+- **E-Commerce Web Application Testing**  
+  🧪 *Performed end-to-end manual testing covering functional, UI, and regression scenarios.*  
+  🧰 *Designed and executed test cases, logged defects using Jira.*  
+  ⚙️ *Automated key test scenarios using Selenium with Java and TestNG.*
 
-- **Infrastructure Automation with Ansible and Terraform**  
-  ⚙️ *Automated infrastructure provisioning using Terraform.*  
-  🔁 *Configured servers with Ansible playbooks for consistent deployment.*  
-  📊 *Deployed monitoring setup using Prometheus and Grafana.*  
+- **Banking Application Automation Framework**  
+  🔁 *Developed a hybrid automation framework using Selenium, TestNG, and Maven.*  
+  🧠 *Integrated Jenkins for continuous test execution and reporting.*  
+  💾 *Validated backend data through SQL queries (MySQL).*
 
 ---
 
 ### 🏅 Certifications  
-- 🧾 **DevOps Master Course – Ducat Institute**  
-  *Covered Git, Jenkins, Docker, Kubernetes, AWS, Ansible, Terraform, and CI/CD concepts.*  
-- 💡 **AWS Cloud Fundamentals Certification (Self-Learning Project)**  
+- 🧾 **Software Testing (Manual & Automation) – Ducat Institute**  
+  *Covered SDLC, STLC, Test Case Design, Selenium, TestNG, Jenkins, and Bug Tracking Tools.*  
+- 💡 **ISTQB Foundation Level (In Progress)**  
 
 ---
 
@@ -87,4 +86,4 @@
 
 ---
 
-⭐ *“DevOps is not just automation — it’s collaboration, innovation, and continuous improvement.”*
+⭐ *“Testing is not just finding bugs — it’s ensuring confidence in every release.”*
