@@ -1,72 +1,79 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;🧪%20QA%20Manual%20%26%20Automation%20Engineer%20(Fresher);Ensuring%20Quality%2C%20Performance%2C%20and%20Reliability" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;💻%20Java%20Full%20Stack%20Developer%20(Fresher);Building%20Scalable%20Web%20Apps%20with%20Java%20%26%20Modern%20Tech" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎯 Dedicated **QA Manual & Automation Engineer (Fresher)** with a passion for ensuring software quality, performance, and user satisfaction.  
-- 🧠 Strong understanding of **SDLC**, **STLC**, **Bug Life Cycle**, and **Agile Methodologies**.  
-- 🧩 Skilled in **Manual Testing**, **Test Case Design**, and **Defect Tracking** using industry-standard tools.  
-- ⚙️ Proficient in **Automation Testing** using **Selenium WebDriver, TestNG, and Cucumber (BDD)**.  
-- 🌐 Experienced in **API Testing** using **Postman** and **Rest Assured**.  
-- 📊 Familiar with **Performance Testing (JMeter)** and **Database Testing (MySQL)**.  
-- 🔁 Knowledge of **CI/CD integration with Jenkins & GitHub Actions** for continuous testing.  
-- ☁️ Basic understanding of **AWS Cloud** for test environment setup (EC2, S3).  
-- 🐧 Comfortable with **Linux commands**, **Git version control**, and **GitHub workflows**.  
-- 🌱 Currently exploring **Playwright**, **Cypress**, and **Test Automation Framework Design**.  
+- 🎯 Aspiring **Java Full Stack Developer (Fresher)** focused on building scalable, high-performance applications.  
+- 🔧 Strong command over **Core Java, OOPs, Collections, Exception Handling, Multithreading**.  
+- ☕ Hands-on experience with **Spring Boot**, **REST APIs**, **JPA/Hibernate**, and **Microservices basics**.  
+- 🌐 Frontend skills in **HTML5, CSS3, JavaScript, Bootstrap** and learning **React.js**.  
+- 🗄️ Good understanding of **MySQL**, **JDBC**, and **Spring Data JPA**.  
+- 🔁 Familiar with **CI/CD (GitHub Actions, Jenkins)** for continuous integration & deployments.  
+- 🐳 Knowledge of **Docker**, **Linux**, and **AWS EC2** for hosting full-stack apps.  
+- 🧪 Comfortable with **Postman** for API testing and **JUnit/TestNG** for Unit Testing.  
+- 🌱 Currently exploring **Spring Security, Microservices, React.js, and DevOps integration**.  
 - 📍 Based in Noida, India  
 - 📫 Reach me at **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 Tools & Technologies 🧰</h2>
+<h2 align="center">🧰 Tech Stack & Tools 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Manual+Testing%2C+Automation+Testing;Selenium%2C+TestNG%2C+Cucumber;Postman%2C+RestAssured;JMeter%2C+MySQL;CI%2FCD%3A+Jenkins%2C+GitHub+Actions;Version+Control%3A+Git%2C+GitHub;OS%3A+Windows%2C+Linux(Ubuntu);Programming%3A+Java%2C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Java+8%2F11%2F17;Spring+Boot+%7C+REST+API+%7C+JPA%2FHibernate;MySQL+%7C+JDBC;HTML+CSS+JavaScript+Bootstrap;React.js+(Basics);Git+%7C+GitHub+%7C+GitHub+Actions;Docker+%7C+Linux+(Ubuntu);AWS+(EC2%2C+S3%2C+IAM)" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,selenium,git,github,jenkins,postman,linux,mysql,vscode" height="70" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css,bootstrap,react,git,github,docker,linux,postman,idea,vscode" height="70" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-### 🧩 Projects  
+### 🚀 Projects  
 
-- **Automated Web Application Testing with Selenium & TestNG**  
-  🧪 *Designed and executed automated test scripts for login and registration modules.*  
-  🔁 *Integrated with Jenkins for continuous execution after every code commit.*  
-  📈 *Generated detailed HTML and Extent Reports for test results.*
+#### **1️⃣ Spring Boot REST API – Employee Management System**  
+- Built CRUD REST APIs using **Spring Boot + Spring Data JPA**.  
+- Integrated **MySQL** for data persistence.  
+- Implemented **Exception Handling**, **DTOs**, and **Lombok** to reduce boilerplate code.  
+- Tested using **Postman** and documented APIs with **Swagger**.
 
-- **Manual Testing of E-commerce Web App**  
-  📝 *Performed requirement analysis and test case design for major user journeys.*  
-  🐞 *Logged and tracked defects using Jira and collaborated with developers for resolution.*  
-  ✅ *Conducted regression and usability testing for final product validation.*
+---
 
-- **API Testing using Postman & Rest Assured**  
-  ☁️ *Tested RESTful APIs for functionality, response validation, and schema accuracy.*  
-  🧠 *Implemented data-driven testing and automated assertions in Rest Assured.*
+#### **2️⃣ Full Stack Web Application – Task Tracker**  
+**Frontend:** HTML, CSS, JS  
+**Backend:** Spring Boot  
+**Database:** MySQL  
+- Users can Add / Update / Delete tasks.  
+- Designed REST endpoints and connected UI using Fetch API.  
+- Deployed on AWS EC2 using **Docker + Jenkins pipeline**.
+
+---
+
+#### **3️⃣ Java + JDBC Mini Project – Student Result System**  
+- Developed using **Core Java, JDBC, MySQL**.  
+- Implemented modular architecture, input validations, and relational mapping.
 
 ---
 
 ### 🏅 Certifications  
-- 🧾 **Software Testing Master Course – Ducat Institute**  
-  *Covered Manual Testing, Automation (Selenium, TestNG, Cucumber), API, and Performance Testing.*  
-- ☁️ **AWS Cloud Practitioner (In Progress)**  
+- 🧾 **Java Full Stack Developer – Ducat Institute**  
+- 🧾 **DevOps Essentials (Git, Docker, CI/CD)**  
+- ☁️ **AWS Cloud Practitioner (Pursuing)**
 
 ---
 
@@ -93,4 +100,4 @@
 
 ---
 
-⭐ *“Testing is not just about finding defects — it’s about ensuring excellence and confidence in every release.”*
+⭐ *“Code with consistency, build with clarity, and deliver with confidence.”*
