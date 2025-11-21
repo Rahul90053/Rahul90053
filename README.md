@@ -1,79 +1,77 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;🚀%20DevOps%20%26%20Cloud%20Engineer;CI%2FCD%20%7C%20Docker%20%7C%20AWS%20%7C%20Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;🚀%20QA+Automation%20Engineer;Manual+Testing+%7C+Selenium+%7C+API+Testing" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎯 Aspiring **DevOps & Cloud Engineer (Fresher)** passionate about automation and infrastructure.  
-- ⚙️ Skilled in **Linux, Git, GitHub Actions, Jenkins, Shell Scripting, Maven, Docker**.  
-- ☁️ Hands-on with **AWS services**: EC2, S3, IAM, VPC, Security Groups.  
-- 🐳 Experience in **Containerization (Docker)** and **Container Orchestration basics (Kubernetes)**.  
-- 🔁 Built multiple **CI/CD pipelines** using GitHub Actions & Jenkins.  
-- 🛠️ Familiar with **Monitoring (Prometheus/Grafana), Nginx, Terraform basics**.  
-- 📦 Understanding of **Microservices, REST APIs, and Deployment strategies**.  
+- 🎯 Aspiring **QA Manual & Automation Engineer (Fresher)** focused on delivering high-quality software.  
+- 🧪 Strong understanding of **SDLC, STLC, Bug Life Cycle, Test Design Techniques**.  
+- 🛠️ Experienced in **Manual Testing**, including Functional, Regression, Integration & Smoke Testing.  
+- 🤖 Automation enthusiast with hands-on in **Java, Selenium WebDriver, TestNG, POM Frameworks**.  
+- 🌐 Skilled in **API Testing** using **Postman** & basic **REST Assured**.  
+- 🔄 CI/CD basics using **Jenkins & GitHub Actions**.  
+- 💾 Knowledge of **MySQL database testing** & writing SQL queries.  
 - 📍 Based in Noida, India  
 - 📫 Reach me: **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 DevOps Tech Stack & Tools 🧰</h2>
+<h2 align="center">🧰 QA & Automation Tech Stack 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Linux+%7C+Shell+Scripting;Git+%7C+GitHub;Docker+%7C+Kubernetes;Jenkins+%7C+GitHub+Actions;AWS+(EC2%2C+S3%2C+IAM);Nginx+%7C+Prometheus+%7C+Grafana;Terraform+(Basics)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Manual+Testing;Selenium+WebDriver+%7C+Java;TestNG+%7C+POM+Framework;API+Testing+%7C+Postman;Jenkins+%7C+GitHub+Actions;MySQL+%7C+JIRA+%7C+Agile" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,jenkins,aws,terraform,nginx,prometheus,grafana,bash,vscode" height="70" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,jenkins,mysql,vscode,idea" height="70" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-### **1️⃣ CI/CD Pipeline for Dockerized Web Application**  
-- Built a complete **CI/CD pipeline** using **GitHub Actions + Docker + AWS EC2**.  
-- Automated build, test, and deployment workflow.  
-- Containerized the application using a **Dockerfile**.  
-- Used **Nginx** as a reverse proxy in VM.  
-- Implemented rollback strategy on failure.
+### **1️⃣ Automation Testing Framework – Selenium + TestNG**  
+- Built a **Hybrid Automation Framework** using **Java, Selenium, TestNG & POM**.  
+- Implemented reusable utilities for WebElement interaction.  
+- Added **Data-Driven testing** using Excel (Apache POI).  
+- Generated detailed **HTML test reports**.  
+- Automated core flows like Login, Search, Checkout, etc.
 
 ---
 
-### **2️⃣ Kubernetes Deployment – Microservice App**  
-- Created **Deployment, Service & ConfigMap** files.  
-- Used **Minikube** & **kubectl** to manage pods and scaling.  
-- Configured **Liveness & Readiness probes**.  
-- Pushed Docker images to **Docker Hub** for Kubernetes cluster pulls.
+### **2️⃣ Manual Testing – E-Commerce Website**  
+- Created **Test Scenarios, Test Cases** & **RTM**.  
+- Performed **Functional, Smoke, Sanity & Regression** testing.  
+- Logged and tracked bugs in **JIRA**.  
+- Prepared **Bug Reports**, **Test Summary Reports**.  
+- Executed cross-browser testing (Chrome, Firefox).
 
 ---
 
-### **3️⃣ AWS Infrastructure Setup (EC2 + S3 + IAM + Security Groups)**  
-- Launched and managed **EC2 instances** for hosting applications.  
-- Configured **IAM Users, Roles & Policies** for secure access.  
-- Created S3 buckets for artifacts and logs.  
-- Automated server provisioning using shell scripts.
+### **3️⃣ API Testing – Postman Collection**  
+- Created & executed **REST API test cases**.  
+- Validated JSON responses using **Assertions**.  
+- Built **Postman Collections & Environments**.  
+- Performed **CRUD API testing**, token-based authentication testing.  
+- Automated API tests using **Postman Runner**.
 
 ---
 
-### **4️⃣ Jenkins Declarative Pipeline (End-to-End Automation)**  
-- Built a **Jenkins pipeline** with:  
-  - Git checkout  
-  - Build automation  
-  - Docker image creation  
-  - Push to Docker Hub  
-  - Deploy on EC2  
-- Added email & Slack-style notifications (optional).
+### **4️⃣ Database Testing (MySQL)**  
+- Wrote SQL queries to validate backend data.  
+- Verified **CRUD operations**, joins, constraints.  
+- Performed **data validation** between UI and DB.  
 
 ---
 
 ## 🏅 Certifications  
-- 🧾 **DevOps Master Course**  
-- 🧾 **Git & GitHub Fundamentals**  
-- 🐳 **Docker Essentials**  
-- ☁️ **AWS Cloud Practitioner (Pursuing)**  
+- 🧾 **Software Testing (Manual + Automation) Course**  
+- 🧾 **Java Fundamentals for Test Automation**  
+- 🧪 **Selenium & TestNG Automation Training**  
+- 📊 **SQL + Database Testing Essentials**  
 
 ---
 
@@ -100,4 +98,4 @@
 
 ---
 
-⭐ *“Automate everything. Deploy everywhere. Scale without fear.”*
+⭐ *“Test with purpose. Automate with precision. Ship with confidence.”*
