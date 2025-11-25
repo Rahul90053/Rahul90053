@@ -1,75 +1,73 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;🧪%20QA+Manual+%26+Automation%20Engineer;Selenium+%7C+API+Testing+%7C+Java+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha%20Rahul%20Kumar;💻%20Full+Stack+Developer+Fresher;MERN+Stack+%7C+JavaScript+%7C+Node.js+%7C+React" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎯 Aspiring **QA Manual & Automation Engineer (Fresher)** passionate about testing and automation.  
-- 📝 Strong understanding of **SDLC, STLC, Test Scenarios, Test Cases, and Bug Life Cycle**.  
-- 🐞 Experience in **Manual Testing**, Functional, Regression, Smoke, and Compatibility Testing.  
-- 🤖 Hands-on with **Automation using Selenium WebDriver + Java**.  
-- 🔍 API Testing using **Postman**, Newman & Basic API automation.  
-- 🛠️ Knowledge of **JIRA, TestLink, Git, GitHub**.  
-- 🧪 Familiar with **TestNG, Page Object Model (POM), Locators & Waits**.  
-- 📊 Basic knowledge of **SQL** for database testing.  
+- 🎯 Aspiring **Full Stack Developer (Fresher)** passionate about building scalable web applications.  
+- 💡 Strong in **HTML, CSS, JavaScript, React, Node.js & Express**.  
+- 🛢️ Hands-on experience with **MongoDB**, REST APIs & backend logic.  
+- 🧩 Familiar with **Authentication, JWT, MVC Architecture & CRUD Operations**.  
+- 🧪 Knowledge of **Postman**, API testing & debugging.  
+- 🛠️ Version control using **Git & GitHub**.  
+- 📦 Understanding of **NPM, Modules, Hooks, Routing, Middleware**.  
+- 📊 Basic knowledge of **SQL**.  
 - 📍 Based in Noida, India  
 - 📫 Reach me: **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 QA & Automation Tech Stack 🧰</h2>
+<h2 align="center">🧰 Full Stack Tech Stack 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Manual+Testing+%7C+SDLC+%7C+STLC;Selenium+WebDriver+%7C+Java;TestNG+%7C+POM+Framework;API+Testing+with+Postman;MySQL+%7C+JIRA+%7C+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express;MongoDB+%7C+REST+API+Development;Git+%7C+GitHub+%7C+Postman;Frontend+%7C+Backend+%7C+Full+Stack+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,idea,mysql,vscode" height="70" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" height="70" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-### **1️⃣ Automation Framework – Selenium WebDriver + Java + TestNG**
-- Built a **Page Object Model (POM)** based automation framework.  
-- Implemented **TestNG**, Assertions, Reporting, and Parameterization.  
-- Automated Login, Dashboard, and Form Validation modules.  
-- Integrated framework with Git for version control.
+### **1️⃣ Full Stack – MERN Authentication System**
+- Built a full-stack Authentication system (Register/Login).  
+- Implemented **JWT, bcrypt, Protected Routes & Middleware**.  
+- User data stored in **MongoDB**.  
+- Frontend developed in **React with Axios**.
 
 ---
 
-### **2️⃣ Manual Testing – E-Commerce Website**
-- Prepared **Test Scenarios & 100+ Test Cases** for Login, Product Search & Cart modules.  
-- Performed Functional, UI, Regression & Negative Testing.  
-- Logged defects using **JIRA** and tracked them to closure.  
-- Prepared Test Summary Report at the end of testing.
+### **2️⃣ React Project – E-Commerce UI**
+- Designed modern **E-Commerce product UI** using React.  
+- Used **React Hooks, Props, State Management, Context API**.  
+- Integrated product filters, cart page & UI components.
 
 ---
 
-### **3️⃣ API Testing – Postman + Newman**
-- Tested REST APIs using **Postman** (GET, POST, PUT, DELETE).  
-- Validated Status Codes, Response Time & JSON Schema.  
-- Created collections & automated runs via **Newman**.  
-- Generated HTML reports for API test results.
+### **3️⃣ Node.js + Express REST API**
+- Developed modular REST APIs with **Controllers & Routes**.  
+- Implemented CRUD operations with MongoDB.  
+- Added error handling & Postman API documentation.
 
 ---
 
-### **4️⃣ Database Testing – MySQL**
-- Wrote SQL queries to verify backend data.  
-- Performed CRUD operations validations.  
-- Ensured UI data and database data consistency.
+### **4️⃣ Frontend Projects – HTML/CSS/JS**
+- Created responsive landing pages, portfolios & dashboards.  
+- Built projects using modern CSS (Flexbox, Grid).  
+- Added JavaScript functionality & form validation.
 
 ---
 
 ## 🏅 Certifications  
-- 🧾 **Manual + Automation Testing – Selenium (Ducat Institute)**  
-- 🧾 **API Testing using Postman**  
-- 🧾 **Core Java for Testers**  
-- 🧾 **SDLC, STLC & Agile Methodology**  
+- 🧾 **Full Stack Web Development – MERN**  
+- 🧾 **JavaScript & ES6**  
+- 🧾 **React Frontend Development**  
+- 🧾 **Node.js + Express Backend Development**  
 
 ---
 
@@ -96,4 +94,4 @@
 
 ---
 
-⭐ *“Test with purpose. Automate with precision. Deliver with confidence.”*
+⭐ *“Code with logic. Build with creativity. Deploy with confidence.”*
