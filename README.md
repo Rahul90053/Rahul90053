@@ -1,71 +1,64 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;🚀+DevOps+Engineer+Fresher;Linux+%7C+Cloud+%7C+Docker+%7C+CI%2FCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;🧪+QA+Manual+%26+Automation+Engineer+Fresher;Testing+%7C+Automation+%7C+Selenium" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎯 Aspiring **DevOps Engineer (Fresher)** passionate about automation & cloud infrastructure.  
-- 💻 Strong understanding of **Linux Administration, Git, Shell Scripting & CI/CD Pipelines**.  
-- 🐳 Hands-on experience with **Docker** for containerization & image management.  
-- ☁️ Knowledge of **AWS (EC2, S3, IAM)** and practical deployment experience.  
-- 🔧 Worked with **Jenkins**, GitHub Actions & basic pipeline creation.  
-- 📦 Familiar with **Terraform basics**, Infrastructure as Code concepts.  
-- 🚀 Experience with **Nginx, Apache, Networking, Firewalls & Monitoring basics**.  
+- 🎯 Aspiring **QA Manual & Automation Engineer (Fresher)** focused on high-quality software delivery.  
+- 📝 Strong understanding of **SDLC, STLC, Test Scenarios, Test Cases & Bug Life Cycle**.  
+- 🛠 Hands-on experience with **Selenium WebDriver**, writing automation scripts in **Java + TestNG**.  
+- 🔧 Knowledge of **Postman**, API Testing & Basic SQL queries.  
+- 🚦 Worked with **Jenkins** and GitHub for simple CI automation.  
+- 📦 Familiar with **JIRA**, Agile Methodology & Defect Tracking.  
+- 🧪 Skilled in **Functional Testing, Regression, Smoke, Integration & UI Testing**.  
 - 📍 Based in Noida, India  
 - 📫 Reach me: **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 DevOps Tech Stack 🧰</h2>
+<h2 align="center">🧰 QA Tech Stack 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Linux+%7C+Git+%7C+GitHub;Docker+%7C+Jenkins+%7C+CI%2FCD;AWS+EC2+%7C+S3+%7C+IAM;Shell+Scripting+%7C+Networking;Terraform+Basics+%7C+Monitoring" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Selenium+WebDriver+%7C+Java+%7C+TestNG;Manual+Testing+%7C+SDLC%2FSTLC;Postman+%7C+API+Testing;MySQL+%7C+JIRA+%7C+Git;Automation+Framework+Basics" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,jenkins,aws,terraform,git,github,bash,nginx,vscode" height="70" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,idea,vscode,linux" height="70" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-### **1️⃣ CI/CD Pipeline – GitHub Actions + Docker**
-- Automated CI pipeline for Node.js app using GitHub Actions.  
-- Integrated Docker build & push workflow.  
-- Deployed containerized app on **AWS EC2**.
+### **2️⃣ API Testing Project – Postman**
+- Created collections for CRUD API testing.  
+- Tested response codes, headers, JSON body & authentication.  
+- Automated tests using **Postman Runner**.
 
 ---
 
-### **2️⃣ Jenkins Pipeline for Web App**
-- Built Jenkins freestyle & pipeline jobs.  
-- Implemented **Build → Test → Deploy** stages.  
-- Automated deployment to an EC2 instance.
+### **3️⃣ Manual Testing Project (E-Commerce App)**
+- Wrote test scenarios & 200+ test cases for web/mobile flow.  
+- Performed **Regression, Smoke, Functional & UI Testing**.  
+- Prepared bug reports & tracked defects using **JIRA**.
 
 ---
 
-### **3️⃣ Dockerized Web Application**
-- Containerized a React/Node full stack project.  
-- Created Dockerfiles, managed images & optimized containers.  
-- Worked with Docker Compose for multi-container setup.
-
----
-
-### **4️⃣ Linux + Shell Scripting Project**
-- Wrote automation scripts for system monitoring & backup.  
-- Implemented cron jobs & permission management.  
-- Troubleshooting experience with logs & network tools.
+### **4️⃣ Automation Framework Basics**
+- Built a mini hybrid automation framework.  
+- Used **Java + TestNG + Maven + POM**.  
+- Added reporting, assertions & parameterization.
 
 ---
 
 ## 🏅 Certifications  
-- 🧾 **DevOps Master Course – Ducat Institute**  
-- 🧾 **Linux Administration**  
-- 🧾 **Docker & CI/CD Fundamentals**  
-- 🧾 **AWS Cloud Basics**
+- 🧾 **Software Testing & Automation**  
+- 🧾 **Selenium WebDriver with Java**  
+- 🧾 **API Testing with Postman**  
+- 🧾 **Basics of DevOps for QA**
 
 ---
 
@@ -92,4 +85,4 @@
 
 ---
 
-⭐ *“Automate everything. Break nothing. Build reliable systems.”*
+⭐ *“Test smarter. Automate faster. Deliver quality.”*
