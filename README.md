@@ -1,64 +1,72 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;🧪+QA+Manual+%26+Automation+Engineer+Fresher;Testing+%7C+Automation+%7C+Selenium" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;💻+Software+Engineer+Fresher;DSA+%7C+Full+Stack+%7C+Problem+Solving" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎯 Aspiring **QA Manual & Automation Engineer (Fresher)** focused on high-quality software delivery.  
-- 📝 Strong understanding of **SDLC, STLC, Test Scenarios, Test Cases & Bug Life Cycle**.  
-- 🛠 Hands-on experience with **Selenium WebDriver**, writing automation scripts in **Java + TestNG**.  
-- 🔧 Knowledge of **Postman**, API Testing & Basic SQL queries.  
-- 🚦 Worked with **Jenkins** and GitHub for simple CI automation.  
-- 📦 Familiar with **JIRA**, Agile Methodology & Defect Tracking.  
-- 🧪 Skilled in **Functional Testing, Regression, Smoke, Integration & UI Testing**.  
-- 📍 Based in Noida, India  
+- 🎯 Aspiring **Software Engineer (Fresher)** passionate about building scalable applications.  
+- 🔥 Strong in **DSA (java), OOPS, Operating Systems, DBMS & Networking basics**.  
+- 🧩 Solved coding problems on **LeetCode, HackerRank & GfG**.  
+- 💻 Hands-on experience with **MERN, Java, Python & API development basics**.  
+- 🚀 Familiar with Git, GitHub, basic CI/CD, and Linux commands.  
+- 📦 Knowledge of **MySQL, MongoDB, REST APIs & JSON**.  
+- ✨ Quick learner focused on writing clean, maintainable & optimized code.  
+- 📍 Based in Ahmedabad, India  
 - 📫 Reach me: **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 QA Tech Stack 🧰</h2>
+<h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Selenium+WebDriver+%7C+Java+%7C+TestNG;Manual+Testing+%7C+SDLC%2FSTLC;Postman+%7C+API+Testing;MySQL+%7C+JIRA+%7C+Git;Automation+Framework+Basics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=C%2B%2B+%7C+Java+%7C+Python;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express;MySQL+%7C+MongoDB;Git+%7C+GitHub+%7C+Linux" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,idea,vscode,linux" height="70" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode" height="70" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-### **2️⃣ API Testing Project – Postman**
-- Created collections for CRUD API testing.  
-- Tested response codes, headers, JSON body & authentication.  
-- Automated tests using **Postman Runner**.
+### **1️⃣ Full-Stack Project – MERN App**
+- Built authentication-based full-stack application.  
+- Created REST APIs using **Node.js + Express**.  
+- Integrated **MongoDB** for CRUD operations.  
+- Created responsive UI using **React + Tailwind**.
 
 ---
 
-### **3️⃣ Manual Testing Project (E-Commerce App)**
-- Wrote test scenarios & 200+ test cases for web/mobile flow.  
-- Performed **Regression, Smoke, Functional & UI Testing**.  
-- Prepared bug reports & tracked defects using **JIRA**.
+### **2️⃣ DSA Practice Repository**
+- Solved 300+ coding problems.  
+- Covers **Arrays, Strings, Recursion, LinkedList, Trees, DP & Graphs**.  
+- Added clean explanations & optimized solutions in **C++**.
 
 ---
 
-### **4️⃣ Automation Framework Basics**
-- Built a mini hybrid automation framework.  
-- Used **Java + TestNG + Maven + POM**.  
-- Added reporting, assertions & parameterization.
+### **3️⃣ Portfolio Website**
+- Developed a personal portfolio using **HTML, CSS, JS**.  
+- Added animations & responsive design.
+
+---
+
+### **4️⃣ Mini Backend API Project**
+- Node.js REST API with JWT auth.  
+- Used **Express Router**, error handling, and middleware.  
+- API tested using **Postman**.
 
 ---
 
 ## 🏅 Certifications  
-- 🧾 **Software Testing & Automation**  
-- 🧾 **Selenium WebDriver with Java**  
-- 🧾 **API Testing with Postman**  
-- 🧾 **Basics of DevOps for QA**
+- 🧾 **B.Tech in Computer Engineering (Pursuing)**  
+- 🧾 **Diploma in Computer Engineering**  
+- 🧾 **DevOps Master Course – Ducat**  
+- 🧾 **Full Stack (MERN) – Beginner to Intermediate**  
+- 🧾 **Java + DSA Essentials**
 
 ---
 
@@ -85,4 +93,4 @@
 
 ---
 
-⭐ *“Test smarter. Automate faster. Deliver quality.”*
+⭐ *“Code. Debug. Learn. Build.”*
