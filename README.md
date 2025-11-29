@@ -1,80 +1,72 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;💻+Software+Engineer+Fresher;DSA+%7C+Full+Stack+%7C+Problem+Solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;👨‍💻+Java+Full+Stack+Developer+Fresher;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎯 Aspiring **Software Engineer (Fresher)** passionate about building scalable applications.  
-- 🔥 Strong in **DSA (java), OOPS, Operating Systems, DBMS & Networking basics**.  
-- 🧩 Solved coding problems on **LeetCode, HackerRank & GfG**.  
-- 💻 Hands-on experience with **MERN, Java, Python & API development basics**.  
-- 🚀 Familiar with Git, GitHub, basic CI/CD, and Linux commands.  
-- 📦 Knowledge of **MySQL, MongoDB, REST APIs & JSON**.  
-- ✨ Quick learner focused on writing clean, maintainable & optimized code.  
-- 📍 Based in Ahmedabad, India  
+- 🎯 Aspiring **Java Full Stack Developer (Fresher)** passionate about building scalable web applications.  
+- 💡 Strong understanding of **Core Java, OOP, Collections, JDBC, Servlets & JSP**.  
+- 🚀 Hands-on experience with **Spring Boot (REST APIs), Hibernate/JPA & Microservices basics**.  
+- 🌐 Frontend skills in **HTML, CSS, JavaScript & React.js**.  
+- 🛢 Good knowledge of **MySQL**, writing queries, joins & stored procedures.  
+- 🔧 Familiar with **Git, GitHub, Maven & Linux basics**.  
+- 🛠 Comfortable working with **Postman**, JSON & API testing.  
+- 📍 Based in Noida, India  
 - 📫 Reach me: **jha702251@gmail.com**
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center">🧰 Full Stack Tech Stack 🧰</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=C%2B%2B+%7C+Java+%7C+Python;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express;MySQL+%7C+MongoDB;Git+%7C+GitHub+%7C+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=780&lines=Java+%7C+Spring+Boot+%7C+Hibernate;MySQL+%7C+REST+APIs;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Git+%7C+Maven" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode" height="70" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,javascript,react,postman,git,github,maven,vscode,idea,linux" height="70" />
 </p>
 
 ---
 
 ## 🚀 Projects  
 
-### **1️⃣ Full-Stack Project – MERN App**
-- Built authentication-based full-stack application.  
-- Created REST APIs using **Node.js + Express**.  
-- Integrated **MongoDB** for CRUD operations.  
-- Created responsive UI using **React + Tailwind**.
+### **1️⃣ Spring Boot REST API – Employee Management**
+- Built CRUD APIs using **Spring Boot + Hibernate + MySQL**  
+- Implemented service, controller & repository layers  
+- Validations, exception handling & global error responses  
 
 ---
 
-### **2️⃣ DSA Practice Repository**
-- Solved 300+ coding problems.  
-- Covers **Arrays, Strings, Recursion, LinkedList, Trees, DP & Graphs**.  
-- Added clean explanations & optimized solutions in **C++**.
+### **2️⃣ React + Spring Boot Full Stack Project**
+- Frontend developed using **React (Hooks + Axios + Routing)**  
+- Backend using **Spring Boot REST APIs**  
+- Integrated frontend & backend for seamless user experience  
 
 ---
 
-### **3️⃣ Portfolio Website**
-- Developed a personal portfolio using **HTML, CSS, JS**.  
-- Added animations & responsive design.
-
----
-
-### **4️⃣ Mini Backend API Project**
-- Node.js REST API with JWT auth.  
-- Used **Express Router**, error handling, and middleware.  
-- API tested using **Postman**.
+### **3️⃣ Java Web Application – JSP / Servlets**
+- Developed MVC-based web app using **JSP, Servlets & JDBC**  
+- Integrated MySQL database for backend operations  
+- Added login/registration module with validation  
 
 ---
 
 ## 🏅 Certifications  
-- 🧾 **B.Tech in Computer Engineering (Pursuing)**  
-- 🧾 **Diploma in Computer Engineering**  
-- 🧾 **DevOps Master Course – Ducat**  
-- 🧾 **Full Stack (MERN) – Beginner to Intermediate**  
-- 🧾 **Java + DSA Essentials**
+- 🧾 **Java Programming**  
+- 🧾 **Spring Boot & REST APIs**  
+- 🧾 **MySQL Database Essentials**  
+- 🧾 **Full Stack Web Development Basics**
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=radical" height="160"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jha-rahul-kumar/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jha702251@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Rahul90053)
+
 
 ---
 
@@ -93,4 +85,4 @@
 
 ---
 
-⭐ *“Code. Debug. Learn. Build.”*
+⭐ *“Code with logic. Build with passion. Deliver with quality.”*
