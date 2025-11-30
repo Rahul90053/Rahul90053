@@ -1,5 +1,4 @@
-# 👨‍💻 Jha Rahul Kumar — Software Developer (Frontend • Backend • Database • Cloud)
-
+<h1 align="center">👨‍💻 Jha Rahul Kumar — Software Developer (Frontend • Backend • Database • Cloud)</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;💻+Software+Developer+%7C+Full+Stack+Engineer;Frontend+%7C+Backend+%7C+Database+%7C+Cloud" />
 </p>
