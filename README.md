@@ -24,20 +24,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=800&lines=Testing+Tech+Stack+🧪;Manual+Testing+%7C+Automation+%7C+API+%7C+DevTools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=800&lines=Testing+Tech+Stack+🧪;Manual+Testing+%7C+Automation+%7C+API+%7C+DevTools" alt="Testing Tech Stack"/>
 
-<div style="border: 2px solid transparent; padding: 20px; border-radius: 20px;
-background: linear-gradient(#0d1117, #0d1117) padding-box, 
-            linear-gradient(90deg,#00F5FF,#00A8FF,#9D4EDD,#F72585) border-box;
-animation: glow 4s ease-in-out infinite;">
-  
-<img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,linux,mysql&theme=light" height="75"/>
-
-</div>
+  <div style="margin-top:16px; border: 2px solid transparent; padding: 20px; border-radius: 20px;
+              background: linear-gradient(#0d1117, #0d1117) padding-box,
+                          linear-gradient(90deg,#00F5FF,#00A8FF,#9D4EDD,#F72585) border-box;">
+    <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,linux,mysql,jenkins,docker,aws&theme=light" height="75" alt="tech icons"/>
+  </div>
 
 </div>
 
----
+-----
 
 ## 🧩 Projects (QA Testing — Replace with real links)
 
