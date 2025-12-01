@@ -1,21 +1,21 @@
-<h1 align="center">👨‍💻 Jha Rahul Kumar — Software Developer (Frontend • Backend • Database • Cloud)</h1>
+<h1 align="center">🧪 Jha Rahul Kumar — QA Manual & Automation Engineer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;💻+Software+Developer+%7C+Full+Stack+Engineer;Frontend+%7C+Backend+%7C+Database+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;🧪+QA+Manual+%26+Automation+Engineer;Manual+Testing+%7C+Automation+Testing+%7C+API+Testing" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Aspiring Software Developer / Full Stack Engineer** building responsive UIs and scalable backends.
-- 🔧 Comfortable with **Frontend:** HTML, CSS, JavaScript, React  
-- 🧩 **Backend:** Node.js, Express, Java (Spring Boot)  
-- 🗄️ **Databases:** MySQL, MongoDB — schema design, queries, indexing basics  
-- ☁️ **Cloud (AWS):** EC2, S3, IAM basics, deploying simple apps  
-- 🔁 Familiar with **REST APIs, Postman, Git & GitHub, CI/CD basics (GitHub Actions/Jenkins)**  
-- 🧰 Tools: **VS Code, IntelliJ IDEA, Docker (basic), Linux (basic)**  
+- 🔍 **QA Manual & Automation Engineer (Fresher)**  
+- 🧪 Strong knowledge of **SDLC, STLC, Test Case Design, Bug Life Cycle**  
+- ⚙️ **Manual Testing:** Functional, Regression, Smoke, Sanity  
+- 🤖 **Automation:** Selenium • Java • TestNG • Maven  
+- 🌐 **API Testing:** Postman, RestAssured (basics)  
+- 📁 **Tools:** JIRA, TestRail, Git & GitHub  
+- ☁️ Basic understanding of **CI/CD, Jenkins, Linux, MySQL**  
 - 📍 Based in Noida, India  
-- 📫 Reach me: **jha702251@gmail.com**  
+- 📫 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
@@ -24,106 +24,105 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=800&lines=My+Tech+Stack+💻;Frontend+%7C+Backend+%7C+Database+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=800&lines=Testing+Tech+Stack+🧪;Manual+Testing+%7C+Automation+%7C+API+%7C+DevTools" />
 
 <div style="border: 2px solid transparent; padding: 20px; border-radius: 20px;
 background: linear-gradient(#0d1117, #0d1117) padding-box, 
             linear-gradient(90deg,#00F5FF,#00A8FF,#9D4EDD,#F72585) border-box;
 animation: glow 4s ease-in-out infinite;">
   
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,spring,mysql,mongodb,aws,docker,git,github,linux&theme=light" height="75"/>
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,linux,mysql&theme=light" height="75"/>
 
 </div>
 
 </div>
 
+---
+
+## 🧩 Projects (QA Testing — Replace with real links)
+
+### **1) E-Commerce Web App — Manual Testing Project**
+**Overview:** Tested core features like login, product listing, cart, checkout.  
+**Documentation:**  
+- Test Scenarios  
+- Test Cases  
+- Bug Reports  
+- Requirement Traceability Matrix (RTM)  
+**Tools:** Excel / Google Sheets, JIRA  
+**Repo / Docs:** `ADD_LINK_HERE`
 
 ---
 
-## 🧩 Projects (Fresher — demonstrative / replace with live links)
-
-> Replace each `DEMO_LINK` and `CODE_LINK` with your deployed app link and repo link.
-
-### 1) Full Stack E-Commerce (React • Node • MongoDB)
-**Overview:** A demo e-commerce app with product listing, cart, and checkout flow.  
-**Frontend:** React, React Router, Context API, responsive layouts.  
-**Backend:** Node.js, Express — REST APIs for products, users, orders.  
-**Database:** MongoDB for products & orders.  
-**Cloud / Deploy:** Deployed on AWS EC2 (or Vercel/Netlify for frontend).  
-**What to show:** Project structure, API endpoints, sample requests in Postman.  
-**Repo / Demo:** `CODE_LINK` / `DEMO_LINK`
+### **2) Selenium Automation Framework (Java + TestNG + Maven)**
+**Overview:** Hybrid automation framework with Page Object Model (POM).  
+**Features:**  
+- TestNG annotations & assertions  
+- Parameterization  
+- PageFactory  
+- Cross-browser testing  
+- Screenshot capture  
+- TestNG HTML reports  
+**Repo:** `ADD_LINK_HERE`
 
 ---
 
-### 2) Blogging Platform (Spring Boot • MySQL • Thymeleaf)
-**Overview:** Simple CRUD blogging app with authentication and role-based access.  
-**Backend:** Spring Boot, Spring Security (basic auth), JPA/Hibernate.  
-**Database:** MySQL (schema design + sample queries).  
-**Frontend:** Server-side rendered pages with Thymeleaf (or React if preferred).  
-**What to show:** Entities, DTOs, controllers, sample SQL queries, README with run instructions.  
-**Repo / Demo:** `CODE_LINK` / `DEMO_LINK`
+### **3) API Testing — REST APIs Using Postman**
+**Overview:** Performed CRUD testing for demo user management API.  
+**Deliverables:**  
+- Collections  
+- Environment variables  
+- Assertions in Tests tab  
+- Negative and positive test cases  
+**Repo / Collection Link:** `ADD_LINK_HERE`
 
 ---
 
-### 3) REST API Microservice — User Management (Node • Express • MySQL)
-**Overview:** Microservice providing user create/read/update/delete endpoints with validation.  
-**Features:** Input validation, JWT-based auth (demo), unit tests (Jest / JUnit).  
-**CI/CD:** GitHub Actions workflow to run tests and lint on push.  
-**What to show:** Postman collection, example curl commands, GitHub Actions YAML.  
-**Repo / Demo:** `CODE_LINK` / `DEMO_LINK`
+### **4) Bug Reporting & Test Documentation Showcase**
+- Bug reports (with priority/severity)  
+- Sample test scenarios  
+- RTM document  
+- Test summary report  
+
+**Repo:** `ADD_LINK_HERE`
 
 ---
 
-### 4) Small Utilities & Scripts
-- **SQL scripts** for schema creation and sample data.
-- **Automation scripts** (npm scripts, Gradle/Maven commands).
-- **Mini projects**: Todo app, weather app, simple chat using WebSockets.
+## 🎯 What I Can Demonstrate in Interviews
 
----
-
-## ✅ What I Can Demonstrate In Interviews
-
-- Explaining project architecture (frontend ⇄ backend ⇄ DB).  
-- REST API design, status codes, and error handling.  
-- Database schema decisions and indexing basics.  
-- How to run the project locally (step-by-step).  
-- CI/CD basics — how tests and deployments are automated.  
-- Debugging & reproducing issues, writing clear README and run scripts.
+- Writing **high-quality test cases** and **test scenarios**  
+- Understanding of **SDLC**, **STLC**, and defect lifecycle  
+- Manual testing of UI, functional, regression, smoke  
+- **Postman API testing** & validations  
+- **Selenium automation** with POM + TestNG  
+- Understanding of **CI/CD**, **Git**, and basic Linux  
+- Bug reporting with priority/severity justification  
+- Explaining end-to-end QA process for any project  
 
 ---
 
 ## 🏅 Certifications & Learning
 
-- ISTQB Foundation Level (optional / mention if you have it)  
-- Courses: **Selenium Java, REST API Testing (Postman/RestAssured)** — helpful for API knowledge  
-- Ongoing learning: **Advanced JavaScript, React hooks, Spring Boot, Docker basics, AWS fundamentals**
+- **Automation Testing (Selenium + Java + TestNG)**  
+- **API Testing with Postman / RestAssured basics**  
+- Learning: **BDD (Cucumber), Jenkins, SQL Advanced Queries**
 
 ---
 
-## 📋 Resume Snippets (copy lines into resume)
+## 📋 Resume Snippets (Copy-Paste Ready)
 
-- **Role target:** Software Developer / Full Stack Engineer (Fresher)  
-- **Core skills:** JavaScript, React, Node.js, Express, Spring Boot, MySQL, MongoDB, REST APIs, Git, GitHub.  
-- **Tools:** VS Code, IntelliJ IDEA, Postman, Docker (basic), Linux basics.  
-- **Soft skills:** Analytical thinking, problem solving, quick learner, team player.  
-- **Contact:** jha702251@gmail.com | GitHub: github.com/Rahul90053
+- **Role Target:** QA Manual & Automation Engineer  
+- **Skills:** Manual Testing, Selenium, Java, TestNG, Postman, API Testing, Bug Reporting  
+- **Tools:** JIRA, GitHub, Maven, MySQL, Linux basics  
+- **Soft Skills:** Detail-oriented, analytical, fast learner, strong communicator  
+- **Contact:** Email – jha702251@gmail.com | GitHub – Rahul90053  
 
 ---
 
 ## 📞 Contact & Links
 
-- LinkedIn: https://www.linkedin.com/in/jha-rahul-kumar/  
-- Email: jha702251@gmail.com  
-- GitHub: https://github.com/Rahul90053
-
----
-
-## 📝 How to use this README
-
-1. Replace each `CODE_LINK` and `DEMO_LINK` with your actual repository and deployed links.  
-2. Replace project descriptions with real tech details and screenshots (add images in `/assets` and reference them).  
-3. Add `How to run` sections under each project with commands (e.g. `npm install`, `npm run dev`, `mvn spring-boot:run`).  
-4. Add badges (build, license) when you set up CI/CD.
+- **LinkedIn:** https://www.linkedin.com/in/jha-rahul-kumar/  
+- **Email:** jha702251@gmail.com  
+- **GitHub:** https://github.com/Rahul90053
 
 ---
 
@@ -133,4 +132,4 @@ animation: glow 4s ease-in-out infinite;">
 
 ---
 
-⭐ *“Build small, test often, and document everything.”*  
+⭐ *“Test smart, automate wisely, and debug with patience.”*
