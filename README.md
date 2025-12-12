@@ -1,77 +1,81 @@
-<h1 align="center">💻 Jha Rahul Kumar — Java Full Stack Developer</h1>
+<h1 align="center">📊 Jha Rahul Kumar — Data Analyst</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+API+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 **Java Full Stack Developer (Fresher)**
-* 🚀 Skilled in **Java, Spring Boot, React.js, MySQL, REST APIs**
-* 🏗 Experienced in building full-stack applications & microservice-based systems  
-* 🔧 Strong understanding of **OOP, DSA, MVC Architecture, API development**
-* 🛠 Tools: Java, Spring Boot, React, Node.js, MySQL, MongoDB, Docker, Git, GitHub
+* 📊 **Data Analyst (Fresher)**  
+* 🧠 Skilled in **Data Cleaning, Data Analysis, Visualization, Dashboarding**
+* 📈 Strong knowledge of **SQL, Excel, Python (Pandas, NumPy), Power BI**
+* 🛠 Hands-on experience in **ETL, KPI reporting, and business insights**
+* 🔍 Passionate about solving real-world problems using data  
 * 📍 Based in **Ahmedabad, India**
 * 📫 Email: **jha702251@gmail.com**
 * 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🧰 Tech Stack — Java Full Stack
+## 🧰 Tech Stack — Data Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,docker,git,github,aws&theme=light" height="80" />
+
+  <!-- Skillicons (Supported) -->
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,git,github,aws&theme=light" height="80" />
+
+  <br/><br/>
+
+  <!-- Custom Icons -->
+  <img src="https://img.icons8.com/color/96/pandas.png" height="60" title="Pandas"/>
+  <img src="https://img.icons8.com/color/96/ms-excel.png" height="60" title="Excel"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="60" title="Power BI"/>
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="60" title="Tableau"/>
+
 </div>
 
+
 ---
 
-## 📂 Projects — Java Full Stack
+## 📂 Projects — Data Analytics
 
-### **1️⃣ Full Stack E-Commerce App (React + Spring Boot + MySQL)**
+###8️⃣ YouTube Channel Growth Analysis | Python
 
-**Overview:**
-* Built complete e-commerce system with authentication & cart functionality  
-* Backend APIs using **Spring Boot, JPA, Hibernate**
-* Frontend developed using **React.js + Redux + Tailwind CSS**  
+Perfect if you want to analyze your own or sample channels.
+You will do:
+✔ Data scraping
+✔ EDA
+✔ Growth predictions
 
-**Features:**
-* JWT-based Login/Signup  
-* Product listing & filtering  
-* Cart & Order Management  
-* Admin Dashboard  
+Insights:
+
+Viewer retention
+
+Most engaging topics
+
+Upload frequency vs views  
 
 **Repo:** `ADD_LINK_HERE`
 
 ---
 
-### **2️⃣ Spring Boot REST API — Employee Management System**
+###7️⃣ IPL Cricket Analytics | Python + Power BI
 
-**Overview:**
-* Developed a fully functional REST API for employee CRUD operations  
-* Used **Spring Data JPA**, **Hibernate**, and **MySQL**  
-* Implemented proper exception handling, DTO, and validation  
+Trending dataset + fun project
+You will do:
+✔ Match analysis
+✔ Player performance metrics
+✔ Team winning patterns
 
-**Features:**
-* Create/Update/Delete Employees  
-* Global exception handling  
-* Layered architecture (Controller-Service-Repo)  
+Insights:
 
-**Repo:** `ADD_LINK_HERE`
+Most valuable players
 
----
+Best chasing/batting teams
 
-### **3️⃣ React Frontend Project — Portfolio + Dashboard**
-
-**Overview:**
-* Built a modular portfolio website using React  
-* Added admin dashboard with editable sections  
-
-**Includes:**
-* Responsive UI  
-* React Router  
-* Reusable components  
+Stadium-wise performance
 
 **Repo:** `ADD_LINK_HERE`
 
@@ -79,41 +83,45 @@
 
 ## 🛠 Skills (Detailed)
 
-### 🔹 Backend (Java)
-* Core Java, OOP, Collections, Multithreading  
-* Spring Boot, Spring MVC, Spring Data JPA  
-* Hibernate, Maven, JUnit  
-* REST API Development  
+### 🔹 Data Analysis
+* Exploratory Data Analysis (EDA)  
+* KPI & Metrics Reporting  
+* Trend and Pattern Detection  
 
-### 🔹 Frontend
-* React.js, Redux, Tailwind CSS  
-* HTML5, CSS3, JavaScript (ES6)  
+### 🔹 Tools
+* Excel (Pivot Tables, Lookup, Power Query)  
+* Power BI (DAX, dashboards, data modeling)  
+* MySQL (Joins, CTE, Window Functions)  
+* Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
-### 🔹 Database
-* MySQL, MongoDB  
-* Joins, indexing, optimization basics  
+### 🔹 Data Handling
+* Data Cleaning  
+* Data Transformation  
+* ETL Basics  
 
-### 🔹 DevOps & Tools
-* Git, GitHub, Docker, Jenkins  
-* Postman for API testing  
-* AWS (EC2, S3, IAM basics)  
+### 🔹 Soft Skills
+* Problem-solving  
+* Logical Thinking  
+* Storytelling with Data  
+* Communication  
 
 ---
 
 ## 🏅 Certifications
 
-* **DevOps Master Course – Ducat Institute**
-* **Java Programming Certification** (Add issuer)
-* **Full Stack Development Course** (Add issuer)
+* **Data Analytics Certification** (Add issuer)  
+* **Python for Data Analysis** (Add issuer)  
+* **SQL Advanced** (Add issuer)  
+* **DevOps Master Course – Ducat Institute**  
 
 ---
 
 ## 📞 Contact
 
-* **LinkedIn:** https://www.linkedin.com/in/jha-rahul-kumar/
+* **LinkedIn:** https://www.linkedin.com/in/jha-rahul-kumar/  
 * **Email:** jha702251@gmail.com  
 * **GitHub:** https://github.com/Rahul90053  
 
 ---
 
-<p align="center"><b>🚀 Always building. Always learning.</b></p>
+<p align="center"><b>📊 Turning data into decisions.</b></p>
