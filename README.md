@@ -1,81 +1,85 @@
-<h1 align="center">📊 Jha Rahul Kumar — Data Analyst</h1>
+<h1 align="center">🧪 Jha Rahul Kumar — QA Engineer (Manual & Automation)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;QA+Engineer;Manual+%7C+Automation+Testing;Selenium+WebDriver+%7C+API+Testing+%7C+JMeter" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 📊 **Data Analyst (Fresher)**  
-* 🧠 Skilled in **Data Cleaning, Data Analysis, Visualization, Dashboarding**
-* 📈 Strong knowledge of **SQL, Excel, Python (Pandas, NumPy), Power BI**
-* 🛠 Hands-on experience in **ETL, KPI reporting, and business insights**
-* 🔍 Passionate about solving real-world problems using data  
+* 🧪 **QA Engineer — Manual & Automation Testing (Fresher)**
+* 🧠 Strong knowledge of **SDLC, STLC, BLC, Test Planning, Test Strategy**
+* 🧹 Experienced in **Test Case Design, Bug Reporting & Regression Testing**
+* 🤖 Hands-on automation with **Selenium WebDriver (Java), TestNG, Maven**
+* 🌐 API testing using **Postman, REST Assured basics**
+* ⚡ Performance testing exposure with **JMeter**
+* 🔍 Passionate about ensuring product quality & improving user experience
 * 📍 Based in **Ahmedabad, India**
 * 📫 Email: **jha702251@gmail.com**
 * 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🧰 Tech Stack — Data Analytics
+## 🧰 Tech Stack — QA (Manual + Automation)
 
 <div align="center">
 
-  <!-- Skillicons (Supported) -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,git,github,aws&theme=light" height="80" />
-
-  <br/><br/>
-
-  <!-- Custom Icons -->
-  <img src="https://img.icons8.com/color/96/pandas.png" height="60" title="Pandas"/>
-  <img src="https://img.icons8.com/color/96/ms-excel.png" height="60" title="Excel"/>
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="60" title="Power BI"/>
-  <img src="https://img.icons8.com/color/96/tableau-software.png" height="60" title="Tableau"/>
+<img src="https://skillicons.dev/icons?i=java,python,selenium,postman,maven,jenkins,git,github,linux,mysql,vscode,eclipse,idea,chrome&theme=light" height="80" />
 
 </div>
 
 
+
+
 ---
 
-## 📂 Projects — Data Analytics
+## 📂 QA Projects — Manual & Automation
 
-###8️⃣ YouTube Channel Growth Analysis | Python
-
-Perfect if you want to analyze your own or sample channels.
-You will do:
-✔ Data scraping
-✔ EDA
-✔ Growth predictions
-
-Insights:
-
-Viewer retention
-
-Most engaging topics
-
-Upload frequency vs views  
+### 1️⃣ **Web Automation Framework — Selenium (Java) + TestNG**
+A complete hybrid automation framework.  
+You will do:  
+✔ Page Object Model (POM)  
+✔ TestNG test suites  
+✔ Maven project structure  
+✔ Reporting (Allure/Extent)  
 
 **Repo:** `ADD_LINK_HERE`
 
 ---
 
-###7️⃣ IPL Cricket Analytics | Python + Power BI
+### 2️⃣ **API Testing Collection — Postman**
+Perfect for beginners to advanced.
 
-Trending dataset + fun project
-You will do:
-✔ Match analysis
-✔ Player performance metrics
-✔ Team winning patterns
+You will do:  
+✔ GET, POST, PUT, DELETE testing  
+✔ Auth token testing  
+✔ End-to-end API workflow validation  
+✔ Newman collection for CI/CD  
 
-Insights:
+**Repo:** `ADD_LINK_HERE`
 
-Most valuable players
+---
 
-Best chasing/batting teams
+### 3️⃣ **Manual Test Case + Bug Report Project**
+Ideal for showing your manual testing skills.
 
-Stadium-wise performance
+You will do:  
+✔ Requirement Analysis  
+✔ Test Plan + Test Scenarios  
+✔ Test Cases + Test Execution  
+✔ Bug Report (JIRA format)  
+
+**Repo:** `ADD_LINK_HERE`
+
+---
+
+### 4️⃣ **Performance Testing — JMeter**
+You will do:  
+✔ Load test  
+✔ Stress test  
+✔ Throughput analysis  
+✔ Graphs & reporting  
 
 **Repo:** `ADD_LINK_HERE`
 
@@ -83,36 +87,49 @@ Stadium-wise performance
 
 ## 🛠 Skills (Detailed)
 
-### 🔹 Data Analysis
-* Exploratory Data Analysis (EDA)  
-* KPI & Metrics Reporting  
-* Trend and Pattern Detection  
+### 🔹 Manual Testing
+* SDLC / STLC  
+* Test Case Design  
+* Boundary Value Analysis  
+* Equivalence Partitioning  
+* Regression & Smoke Testing  
+* Defect Reporting (JIRA Style)  
 
-### 🔹 Tools
-* Excel (Pivot Tables, Lookup, Power Query)  
-* Power BI (DAX, dashboards, data modeling)  
-* MySQL (Joins, CTE, Window Functions)  
-* Python (Pandas, NumPy, Matplotlib, Seaborn)  
+### 🔹 Automation Testing
+* Selenium WebDriver (Java)  
+* TestNG  
+* Maven / POM  
+* Locators & XPath  
+* WebDriver Waits  
+* Automation Frameworks  
 
-### 🔹 Data Handling
-* Data Cleaning  
-* Data Transformation  
-* ETL Basics  
+### 🔹 API + Performance
+* Postman / Newman  
+* REST APIs  
+* JMeter basics  
+* Assertions & validation  
+
+### 🔹 Tools Expertise
+* Git / GitHub  
+* Jenkins  
+* VS Code / Eclipse  
+* Chrome DevTools  
 
 ### 🔹 Soft Skills
-* Problem-solving  
-* Logical Thinking  
-* Storytelling with Data  
-* Communication  
+* Team Collaboration  
+* Analytical Thinking  
+* Problem Solving  
+* Attention to Detail  
 
 ---
 
 ## 🏅 Certifications
 
-* **Data Analytics Certification** (Add issuer)  
-* **Python for Data Analysis** (Add issuer)  
-* **SQL Advanced** (Add issuer)  
+* **Manual & Automation Testing** (Add issuer)  
+* **Selenium WebDriver with Java** (Add issuer)  
+* **API Testing – Postman**  
 * **DevOps Master Course – Ducat Institute**  
+* **JMeter Performance Testing** (Add issuer)
 
 ---
 
@@ -124,4 +141,4 @@ Stadium-wise performance
 
 ---
 
-<p align="center"><b>📊 Turning data into decisions.</b></p>
+<p align="center"><b>🧪 Ensuring Quality. Automating Excellence.</b></p>
