@@ -1,154 +1,119 @@
-<h1 align="center">🧪 Jha Rahul Kumar — QA Engineer (Manual & Automation)</h1>
+<h1 align="center">💻 Jha Rahul Kumar — Java Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;QA+Engineer;Manual+%7C+Automation+%7C+API+%7C+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Jha+Rahul+Kumar;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+API+Dev" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🧪 **QA Engineer — Manual & Automation (Fresher)**
-* ✅ Strong foundation in **manual testing methodologies** and **automation frameworks**
-* 🔎 Skilled in **test case design, bug reporting, API testing, and performance testing**
-* 🛠 Tools: Selenium, Cypress, Postman, JMeter, TestNG, Maven, Java, Python, Git, GitHub, Jenkins
+* 💻 **Java Full Stack Developer (Fresher)**
+* 🚀 Skilled in **Java, Spring Boot, React.js, MySQL, REST APIs**
+* 🏗 Experienced in building full-stack applications & microservice-based systems  
+* 🔧 Strong understanding of **OOP, DSA, MVC Architecture, API development**
+* 🛠 Tools: Java, Spring Boot, React, Node.js, MySQL, MongoDB, Docker, Git, GitHub
 * 📍 Based in **Ahmedabad, India**
-* 📫 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
-* 🔗 GitHub: **[https://github.com/Rahul90053](https://github.com/Rahul90053)**
+* 📫 Email: **jha702251@gmail.com**
+* 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🧰 Tech Stack — QA
+## 🧰 Tech Stack — Java Full Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,jenkins,vscode,pycharm&theme=light" height="80" />
-  <br/>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height="60" title="JMeter" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,mongodb,docker,git,github,aws&theme=light" height="80" />
 </div>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/test-passed.png" height="70" />
-  <img src="https://img.icons8.com/color/96/robot-2.png" height="70" />
-  <img src="https://img.icons8.com/color/96/api.png" height="70" />
-</p>
-
 ---
 
-## 📂 Projects (QA Manual & Automation)
+## 📂 Projects — Java Full Stack
 
-### **1️⃣ Manual Test Plan & Execution — E-Commerce Web App**
-
-**Overview:**
-
-* Created full test plan including test scenarios, test cases, and traceability matrix for an e-commerce application.
-* Performed functional testing, UI/UX checks, regression testing, and cross-browser testing.
-
-**Includes:**
-
-* Test cases (positive & negative)
-* Bug reports with reproduction steps, severity, priority
-* Test execution reports
-
-**Repo:** `ADD_LINK_HERE`
-
----
-
-### **2️⃣ Automation Framework — Selenium with Java & TestNG**
+### **1️⃣ Full Stack E-Commerce App (React + Spring Boot + MySQL)**
 
 **Overview:**
-
-* Built a modular Selenium automation framework using Java, TestNG, and Maven.
-* Implemented Page Object Model (POM), reusable utilities, and data-driven tests using Excel/CSV.
+* Built complete e-commerce system with authentication & cart functionality  
+* Backend APIs using **Spring Boot, JPA, Hibernate**
+* Frontend developed using **React.js + Redux + Tailwind CSS**  
 
 **Features:**
-
-* Parallel execution with TestNG
-* HTML reports and logs
-* CI integration with GitHub Actions / Jenkins
+* JWT-based Login/Signup  
+* Product listing & filtering  
+* Cart & Order Management  
+* Admin Dashboard  
 
 **Repo:** `ADD_LINK_HERE`
 
 ---
 
-### **3️⃣ API Testing — Postman & Newman**
+### **2️⃣ Spring Boot REST API — Employee Management System**
 
 **Overview:**
+* Developed a fully functional REST API for employee CRUD operations  
+* Used **Spring Data JPA**, **Hibernate**, and **MySQL**  
+* Implemented proper exception handling, DTO, and validation  
 
-* Designed and executed API test suites for REST endpoints using Postman.
-* Automated collection runs via Newman and integrated them into CI.
-
-**Includes:**
-
-* Positive & negative API tests
-* Schema validation and response assertions
-* Environment variables and collection runner scripts
+**Features:**
+* Create/Update/Delete Employees  
+* Global exception handling  
+* Layered architecture (Controller-Service-Repo)  
 
 **Repo:** `ADD_LINK_HERE`
 
 ---
 
-### **4️⃣ Performance Testing — Apache JMeter**
+### **3️⃣ React Frontend Project — Portfolio + Dashboard**
 
 **Overview:**
-
-* Created load test plans to measure response time, throughput, and error rates for key APIs and web pages.
-* Analysed results and suggested performance improvements.
+* Built a modular portfolio website using React  
+* Added admin dashboard with editable sections  
 
 **Includes:**
-
-* Load & stress test scenarios
-* Summary and graphs of average response, peak load, and error distribution
+* Responsive UI  
+* React Router  
+* Reusable components  
 
 **Repo:** `ADD_LINK_HERE`
 
 ---
 
-## 📋 QA Skills
+## 🛠 Skills (Detailed)
 
-### 🔹 Manual Testing
+### 🔹 Backend (Java)
+* Core Java, OOP, Collections, Multithreading  
+* Spring Boot, Spring MVC, Spring Data JPA  
+* Hibernate, Maven, JUnit  
+* REST API Development  
 
-* Test Plan & Strategy
-* Test Case Design (Boundary, Equivalence, Exploratory)
-* Defect Life Cycle & Bug Reporting (JIRA)
-* Cross-browser & Mobile Testing
+### 🔹 Frontend
+* React.js, Redux, Tailwind CSS  
+* HTML5, CSS3, JavaScript (ES6)  
 
-### 🔹 Automation Testing
+### 🔹 Database
+* MySQL, MongoDB  
+* Joins, indexing, optimization basics  
 
-* Selenium WebDriver (Java) — POM, waits, locators
-* Cypress (JavaScript) for fast E2E tests
-* TestNG & JUnit — test suites, annotations, parallel runs
-* CI/CD integration (Jenkins / GitHub Actions)
-
-### 🔹 API & Performance
-
-* Postman & Newman for API validation
-* JMeter for load & performance testing
-* Basic knowledge of REST, JSON schema validation
-
-### 🔹 Tools & Practices
-
-* Version control: Git & GitHub
-* Build tools: Maven
-* Reporting: ExtentReports / Allure
-* Issue tracking: JIRA
+### 🔹 DevOps & Tools
+* Git, GitHub, Docker, Jenkins  
+* Postman for API testing  
+* AWS (EC2, S3, IAM basics)  
 
 ---
 
 ## 🏅 Certifications
 
-* **Cert. in Software Testing / QA** (Add issuer)
-* **Selenium WebDriver with Java** (Add issuer)
-* **Postman API Testing** (Add issuer)
 * **DevOps Master Course – Ducat Institute**
+* **Java Programming Certification** (Add issuer)
+* **Full Stack Development Course** (Add issuer)
 
 ---
 
 ## 📞 Contact
 
-* **LinkedIn:** [https://www.linkedin.com/in/jha-rahul-kumar/](https://www.linkedin.com/in/jha-rahul-kumar/)
-* **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
-* **GitHub:** [https://github.com/Rahul90053](https://github.com/Rahul90053)
+* **LinkedIn:** https://www.linkedin.com/in/jha-rahul-kumar/
+* **Email:** jha702251@gmail.com  
+* **GitHub:** https://github.com/Rahul90053  
 
 ---
 
-<p align="center"><b>⭐ Quality first — automation next. ⭐</b></p>
+<p align="center"><b>🚀 Always building. Always learning.</b></p>
