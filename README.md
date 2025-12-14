@@ -52,11 +52,9 @@
 </p>
 
 <p align="center">
-  <b>
-    Cloud Computing • Big Data • Python • SQL • Machine Learning • Statistics •
-    Visualization • LLMs • Jupyter • GitHub
-  </b>
+  ☁️ Cloud Computing • 🌊 Big Data • 🐍 Python • 🧮 SQL • 🤖 ML • 📊 Statistics • 📈 Visualization • 💬 LLMs • 📓 Jupyter • 🐙 GitHub
 </p>
+
 
 
 
