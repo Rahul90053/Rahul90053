@@ -1,83 +1,90 @@
-<h1 align="center">🔬 Jha Rahul Kumar — Data Scientist</h1>
+<h1 align="center">🔬 Jha Rahul Kumar — Data Scientist | Data Analyst</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=950&lines=Jha+Rahul+Kumar;Data+Scientist+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;From+Data+to+Intelligent+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=1050&lines=Jha+Rahul+Kumar;Data+Scientist+%7C+Data+Analyst+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning+%7C+Analytics;From+Raw+Data+to+Intelligent+Business+Decisions" />
 </p>
 
 ---
 
 ## 👨‍🔬 About Me
 
-* 🤖 Aspiring **Data Scientist** with a strong foundation in **data analysis, machine learning, and statistical modeling**.
-* 📊 Skilled at transforming raw data into **predictive insights, ML models, and data-driven solutions**.
-* 🧠 Hands-on experience with **Python, SQL, EDA, Feature Engineering, and Model Evaluation**.
-* 📈 Passionate about solving real-world problems using **data science & AI techniques**.
+* 🤖 Aspiring **Data Scientist & Data Analyst** with strong foundations in **data analysis, machine learning, statistics, and business analytics**.
+* 📊 Experienced in converting raw datasets into **actionable insights, dashboards, predictive models, and reports**.
+* 🧠 Hands-on with **Python, SQL, EDA, Feature Engineering, Statistical Analysis, and Model Evaluation**.
+* 📈 Adept at solving **business problems** using data-driven and analytical approaches.
 * 🌍 Based in **Ahmedabad, India** • Willing to relocate
 * 📫 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
-* 🔗 GitHub: **https://github.com/Rahul90053**
+* 🔗 GitHub: **[https://github.com/Rahul90053](https://github.com/Rahul90053)**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Data Science + Analytics)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=820&lines=Python+%7C+SQL+%7C+Machine+Learning;EDA+%7C+Statistics+%7C+Visualization;AI+Powered+Data+to+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=980&lines=Python+%7C+SQL+%7C+Machine+Learning+%7C+Analytics;EDA+%7C+Statistics+%7C+Business+Insights+%7C+Visualization" />
 </p>
 
 <p align="center">
-
-  <!-- Cloud & Big Data (FIXED SIZE) -->
   <img src="https://img.icons8.com/fluency/96/cloud.png" height="96" title="Cloud Computing"/>
-  <img src="https://img.icons8.com/fluency/96/server.png" height="96" title="Cloud Infrastructure"/>
-  <img src="https://img.icons8.com/fluency/96/database.png" height="96" title="Data Warehouse"/>
-
-  <!-- Programming & Data -->
-  <img src="https://img.icons8.com/fluency/96/python.png" height="96"/>
-  <img src="https://img.icons8.com/fluency/96/sql.png" height="96"/>
-
-  <!-- Data Science / ML -->
-  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" height="96"/>
-  <img src="https://img.icons8.com/fluency/96/brain.png" height="96"/>
-
-  <!-- AI / LLM -->
-  <img src="https://img.icons8.com/fluency/96/chat.png" height="96" title="ChatGPT / LLMs"/>
-
-  <!-- Analysis & Visualization -->
-  <img src="https://img.icons8.com/fluency/96/combo-chart.png" height="96"/>
-  <img src="https://img.icons8.com/fluency/96/line-chart.png" height="96"/>
-
-  <!-- Tools -->
-  <img src="https://img.icons8.com/fluency/96/jupyter.png" height="96"/>
-  <img src="https://img.icons8.com/fluency/96/github.png" height="96"/>
+  <img src="https://img.icons8.com/fluency/96/database.png" height="96" title="Databases"/>
+  <img src="https://img.icons8.com/fluency/96/python.png" height="96" title="Python"/>
+  <img src="https://img.icons8.com/fluency/96/sql.png" height="96" title="SQL"/>
+  <img src="https://img.icons8.com/fluency/96/combo-chart.png" height="96" title="Data Analysis"/>
+  <img src="https://img.icons8.com/fluency/96/line-chart.png" height="96" title="Business Analytics"/>
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" height="96" title="Machine Learning"/>
+  <img src="https://img.icons8.com/fluency/96/jupyter.png" height="96" title="Jupyter Notebook"/>
+  <img src="https://img.icons8.com/fluency/96/github.png" height="96" title="GitHub"/>
 </p>
 
 <p align="center">
-  ☁️ Cloud Computing • 🌊 Big Data • 🐍 Python • 🧮 SQL • 🤖 ML • 📊 Statistics • 📈 Visualization • 💬 LLMs • 📓 Jupyter • 🐙 GitHub
+  📊 Data Analytics • 📈 Business Analytics • 🐍 Python • 🧮 SQL • 📉 EDA • 📊 Statistics • 🤖 ML • 📓 Jupyter • 🐙 GitHub
 </p>
 
+---
 
+## 📊 Data Analytics & Business Analytics Expertise
 
-
+* 🔍 **Exploratory Data Analysis (EDA):** Data cleaning, missing value handling, outlier detection, trend analysis
+* 📈 **Business Analytics:** KPI tracking, performance analysis, revenue & growth insights
+* 📊 **Dashboarding & Reporting:** Data-driven reports for stakeholders (Excel / BI tools)
+* 🧮 **Statistical Analysis:** Hypothesis testing, probability, correlation & regression
+* 🧠 **Decision Support:** Translating data insights into **business recommendations**
 
 ---
-📂 Featured Data Science Projects
-🚀 Customer Churn Prediction (ML)
 
-Goal: Predict customers likely to churn and identify key retention drivers.
+## 📂 Featured Projects
 
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib
-Methods: EDA, Feature Engineering, Logistic Regression, Random Forest
-Outcome: Churn prediction model + data-driven business insights
+### 🚀 Customer Churn Prediction (ML + Analytics)
+
+**Goal:** Predict customers likely to churn and identify key business retention drivers
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, SQL, Matplotlib
+**Methods:** EDA, Feature Engineering, Logistic Regression, Random Forest
+**Outcome:** Churn prediction model + actionable retention strategies
 
 🔗 Repo: ADD_GITHUB_LINK
 
-📊 Sales Forecasting & Business Insights
+---
 
-Goal: Forecast sales trends to support business planning.
+### 📊 Sales Forecasting & Business Insights
 
-Tech Stack: Python, SQL, Pandas, NumPy, Excel, Matplotlib
-Methods: Time Series Analysis, Trend & Seasonality, Regression
-Outcome: Monthly forecasts + actionable growth insights
+**Goal:** Forecast sales trends to support strategic business planning
+
+**Tech Stack:** Python, SQL, Pandas, NumPy, Excel, Matplotlib
+**Methods:** Time Series Analysis, Trend & Seasonality, Regression
+**Outcome:** Monthly forecasts + executive-level insights
+
+🔗 Repo: ADD_GITHUB_LINK
+
+---
+
+### 📉 Business Performance Analysis (Data Analytics)
+
+**Goal:** Analyze company performance and identify growth opportunities
+
+**Tech Stack:** SQL, Python, Excel, Visualization Tools
+**Methods:** KPI analysis, dashboarding, descriptive & diagnostic analytics
+**Outcome:** Clear business insights to support decision-making
 
 🔗 Repo: ADD_GITHUB_LINK
 
@@ -85,40 +92,40 @@ Outcome: Monthly forecasts + actionable growth insights
 
 ## 📚 Education
 
-**B.Tech — Computer Engineering** (2025)  
+**B.Tech — Computer Engineering** (2025)
 Aditya Silver Oak University — **CGPA: 7.88**
 
-**Diploma — Computer Engineering** (2022)  
+**Diploma — Computer Engineering** (2022)
 SAL Institute of Technology — **CGPA: 7.55**
 
 ---
 
 ## 🏆 Certifications
 
-* Data Science with Python  
-* Machine Learning Fundamentals  
-* SQL for Data Science  
-* Statistics for Data Analysis  
-* Power BI / Tableau for Data Visualization  
+* Data Science with Python
+* Machine Learning Fundamentals
+* SQL for Data Science
+* Statistics for Data Analysis
+* Power BI / Tableau for Data Visualization
 
 ---
 
 ## 🎯 Currently Focusing On
 
-* Machine Learning algorithms & model tuning  
-* Statistics & probability for data science  
-* Feature engineering & model evaluation  
-* End-to-end data science case studies  
-* Real-world ML projects for portfolio  
+* Advanced **Data Analytics & Business Analytics** use cases
+* Machine Learning algorithms & model tuning
+* Statistics & probability for analytics
+* Dashboarding & storytelling with data
+* End-to-end real-world analytics projects
 
 ---
 
 ## 📫 Contact & Links
 
 * **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
-* **GitHub:** https://github.com/Rahul90053
-* **LinkedIn:** https://www.linkedin.com/in/jha-rahul-kumar/
+* **GitHub:** [https://github.com/Rahul90053](https://github.com/Rahul90053)
+* **LinkedIn:** [https://www.linkedin.com/in/jha-rahul-kumar/](https://www.linkedin.com/in/jha-rahul-kumar/)
 
 ---
 
-<p align="center"><b>Turning data into intelligent solutions 🔬📊✨</b></p>
+<p align="center"><b>Turning data into insights and insights into business impact 🔬📊✨</b></p>
