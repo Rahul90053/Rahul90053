@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,docker,kubernetes,aws,bash&theme=light" height="80"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,docker,kubernetes,aws,bash,terraform,ansible,helm&theme=light" height="80"/>
 </p>
 
 <p align="center">
@@ -34,8 +34,9 @@
 
 <p align="center">
   🐧 Linux • 🔧 Git/GitHub • 🔁 Jenkins CI/CD • 🐳 Docker • ☸️ Kubernetes • ☁️ AWS  
-  • 📊 Grafana • 📈 Prometheus • 🧱 Maven • ⚙️ Automation
+  • 🏗️ Terraform • 🤖 Ansible • ⛵ Helm • 📊 Grafana • 📈 Prometheus • 🧱 Maven • ⚙️ Automation
 </p>
+
 
 ---
 
