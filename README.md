@@ -1,107 +1,129 @@
-<h1 align="center">🧪 Jha Rahul Kumar — SDET | QA Automation Engineer</h1>
+<h1 align="center">⚙️ Jha Rahul Kumar — DevOps / Cloud Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;SDET+%7C+QA+Automation+Engineer;Automation+Testing+%7C+API+Testing+%7C+CI%2FCD;C%2B%2B+DSA+%7C+Problem+Solving+%7C+Quality+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;DevOps+%7C+Cloud+Engineer;CI%2FCD+%7C+Docker+%7C+Linux+%7C+AWS;Automation+%7C+Monitoring+%7C+Infrastructure" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🧪 Aspiring **SDET (Software Development Engineer in Test)** with hands-on experience in **automation testing, API testing, and CI/CD integration**.
-* 🧠 Strong **problem-solving skills using C++ (DSA)** for test logic, edge-case validation, and interview readiness.
-* 🔍 Skilled in designing **scalable and maintainable test frameworks**.
-* 🔁 Experienced across the **complete testing lifecycle** — test planning, automation, execution, and reporting.
-* ⚙️ Solid foundations in **C++, Java, Selenium, Linux, Git, and DevOps practices**.
-* ☁️ Exposure to **cloud-based testing environments on AWS**.
+* ⚙️ Aspiring **DevOps / Cloud Engineer** with hands-on experience in **Linux administration, CI/CD pipelines, containerization, and cloud infrastructure**.
+* 🐧 Strong foundation in **Linux system administration**, server management, logs analysis, and troubleshooting.
+* 🔁 Experienced in **automating build, test, and deployment workflows** using Jenkins & GitHub Actions.
+* 🐳 Hands-on with **Docker** for containerized application deployment.
+* ☁️ Working knowledge of **AWS Cloud (EC2, S3, IAM)** for hosting and managing applications.
+* 🔧 Familiar with **infrastructure automation, monitoring basics, and DevOps best practices**.
 * 🌍 Based in **Ahmedabad, India** • Willing to relocate  
 * 📫 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**  
 * 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ SDET / QA Automation & C++ DSA Tech Stack
+## 🛠️ DevOps / Cloud Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,selenium,postman,git,github,linux,jenkins,docker,aws,maven&theme=light" height="85"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,jenkins,githubactions,docker,kubernetes,terraform,ansible,aws,nginx,prometheus,grafana,python,vscode&theme=light" height="130"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=800&color=00CED1&center=true&vCenter=true&width=900&lines=DevOps+Engineering;Cloud+Automation;CI%2FCD+Pipelines;Linux+%7C+Docker+%7C+AWS" />
 </p>
 
 
 
 ---
 
-## ⚙️ SDET, Automation & C++ DSA Expertise
+## ⚙️ DevOps & Cloud Expertise
 
-* 🧪 **Automation Testing:** Selenium WebDriver, TestNG, Page Object Model (POM)
-* 🔗 **API Testing:** REST APIs, Postman, request/response validation
-* 🧠 **C++ DSA & Problem Solving:**
-  - Arrays, Strings, Recursion
-  - Linked List, Stack, Queue
-  - Trees, Graphs, Hashing
-  - Searching & Sorting Algorithms
-  - STL (vector, map, set, unordered_map)
-* 🔁 **CI/CD Integration:** Jenkins pipelines with automated test execution
-* 🐧 **Linux:** Logs analysis, process monitoring, test execution
-* ☁️ **AWS Testing:** EC2-hosted application testing
-* 🐞 **Quality Assurance:** Defect reporting, regression testing, RCA
+* 🐧 **Linux Administration**
+  - User & permission management
+  - Process & service monitoring
+  - Log analysis & troubleshooting
+  - Shell scripting basics
+
+* 🔁 **CI/CD Pipelines**
+  - Jenkins (Freestyle & Pipeline jobs)
+  - GitHub Actions
+  - Automated build & deployment
+
+* 🐳 **Docker & Containers**
+  - Dockerfile creation
+  - Image build & container management
+  - Containerized deployments
+
+* ☁️ **AWS Cloud**
+  - EC2 instance setup & management
+  - IAM users & roles
+  - S3 for storage
+  - Basic cloud security practices
+
+* 🔧 **Version Control**
+  - Git & GitHub workflows
+  - Branching & pull requests
+
+* 📊 **Monitoring & Support**
+  - Application & server monitoring basics
+  - Deployment issue resolution
+  - Root cause analysis (RCA)
 
 ---
 
-## 📂 Featured SDET & DSA Projects
+## 📂 Featured DevOps Projects
 
-### 🧪 Automation Testing Framework (Selenium + Java)
+### 🔁 CI/CD Pipeline Project (Jenkins + Docker + AWS)
 
-**Goal:** Build a scalable UI automation framework  
+**Goal:** Automate build, test, and deployment process  
 
-**Tech Stack:** Selenium, Java, TestNG, Maven  
+**Tech Stack:** Jenkins, Docker, GitHub, AWS EC2  
 **Features:**
-- Page Object Model (POM)
-- Reusable utilities
-- HTML test reports
-- CI/CD compatible execution  
+- Automated CI/CD pipeline
+- Dockerized application
+- Deployment on AWS EC2
+- Faster release cycle
 
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🔗 API Automation Testing Project
+### 🐧 Linux Server Administration Project
 
-**Goal:** Validate REST APIs using automated test cases  
+**Goal:** Manage and secure a Linux server  
 
-**Tech Stack:** Postman, REST API  
-**Coverage:**
-- Status code validation
-- Schema & negative testing
-- Edge-case handling  
-
-🔗 Repo: ADD_GITHUB_LINK
-
----
-
-### ♟️ C++ DSA Practice & Problem Solving
-
-**Goal:** Strengthen algorithmic thinking for SDET interviews  
-
-**Tech Stack:** C++ (STL)  
+**Tech Stack:** Linux, Bash  
 **Includes:**
-- LeetCode-style problems
-- Optimized solutions
-- Time & space complexity analysis  
+- User & permission setup
+- Process & service monitoring
+- Log analysis
+- Basic shell scripts
 
-🔗 Repo: ADD_GITHUB_LINK  
-🔗 LeetCode: https://leetcode.com/jha702251/
+🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🔁 CI/CD Integrated Automation Pipeline
+### ☁️ Cloud Deployment Project (AWS)
 
-**Goal:** Execute automated tests on every commit  
+**Goal:** Deploy and manage application on AWS  
 
-**Tech Stack:** Jenkins, GitHub, Selenium, Docker  
+**Tech Stack:** AWS EC2, S3, Linux  
 **Outcome:**
-- Automated regression testing
-- Faster feedback cycles
-- Improved software quality  
+- Secure cloud setup
+- Application hosting
+- Manual & automated deployments
+
+🔗 Repo: ADD_GITHUB_LINK
+
+---
+
+### 🔁 GitHub Actions CI Pipeline
+
+**Goal:** Run automated pipeline on every commit  
+
+**Tech Stack:** GitHub Actions, Docker  
+**Outcome:**
+- Automated testing & build
+- Continuous integration workflow
+- Improved deployment reliability
 
 🔗 Repo: ADD_GITHUB_LINK
 
@@ -120,20 +142,20 @@ SAL Institute of Technology — **CGPA: 7.55**
 ## 🏆 Certifications
 
 * DevOps Master Course
-* Automation Testing with Selenium
-* API Testing Fundamentals
 * Linux Administration
 * CI/CD with Jenkins
+* AWS Cloud Fundamentals
+* Docker for DevOps
 
 ---
 
 ## 🎯 Currently Focusing On
 
-* Advanced **SDET automation frameworks**
-* **C++ DSA for product-based interviews**
-* API & backend testing
-* CI/CD-driven quality engineering
-* SDET interview preparation
+* Advanced **CI/CD automation**
+* Docker & container orchestration basics
+* Cloud infrastructure (AWS)
+* Linux system engineering
+* Entry-level DevOps / Cloud interviews
 
 ---
 
@@ -145,4 +167,4 @@ SAL Institute of Technology — **CGPA: 7.55**
 
 ---
 
-<p align="center"><b>Testing with precision, coding with logic, and delivering quality at scale 🧪⚙️🚀</b></p>
+<p align="center"><b>Automating infrastructure, optimizing deployments, and building reliable systems ⚙️☁️🚀</b></p>
