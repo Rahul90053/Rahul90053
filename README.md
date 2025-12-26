@@ -1,104 +1,109 @@
-<h1 align="center">⚙️ Jha Rahul Kumar — DevOps Engineer</h1>
+<h1 align="center">📊 Jha Rahul Kumar — Data Analyst</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes;Linux+%7C+Cloud+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst;SQL+%7C+Python+%7C+Excel;Data+Visualization+%7C+Insights" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- ⚙️ Aspiring **DevOps Engineer**
-- 🐧 Strong fundamentals in **Linux & Shell scripting**
-- 🔁 Hands-on with **CI/CD pipelines**
-- 🐳 Experience with **Docker & containerization**
-- ☸️ Basic knowledge of **Kubernetes**
-- ☁️ Exposure to **AWS Cloud (EC2, deployment)**
-- 🔐 Familiar with **Git, GitHub & automation workflows**
+- 📊 Aspiring **Data Analyst**
+- 📈 Strong understanding of **data cleaning & analysis**
+- 🐍 Hands-on experience with **Python for data analysis**
+- 🗄️ Skilled in **SQL (MySQL, PostgreSQL)**
+- 📑 Advanced usage of **MS Excel**
+- 📊 Data visualization using **charts & dashboards**
 - 📍 Ahmedabad, India | Willing to relocate  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ DevOps Tech Stack
+## 🛠️ Data Analytics Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins,docker,kubernetes,aws,nginx,python,mysql,postgres,vscode&theme=light" height="140"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=light" height="130"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Cleaning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboarding-purple?style=for-the-badge"/>
+</p>
+
+
 
 ---
 
-## ⚙️ DevOps Skills
+## 📊 Data Analytics Skills
 
-### Linux & Scripting
-- User & permission management
-- Process & service monitoring
-- Log analysis & troubleshooting
-- Bash scripting basics
+### Data Analysis
+- Data collection & cleaning
+- Exploratory Data Analysis (EDA)
+- Trend & pattern identification
+- Business insights generation
 
-### Version Control
-- Git (branching, merging)
-- GitHub workflows
-- Repository management
+### SQL
+- SELECT, WHERE, JOIN, GROUP BY
+- Subqueries & aggregations
+- Database querying & optimization
 
-### CI/CD
-- Jenkins pipelines
-- GitHub Actions
-- Automated build & deployment
-- Faster release cycles
+### Python
+- Pandas & NumPy
+- Data manipulation
+- Statistical analysis basics
 
-### Containerization
-- Docker images & containers
-- Dockerfile creation
-- Container-based deployments
+### Excel
+- Pivot tables
+- VLOOKUP / XLOOKUP
+- Charts & dashboards
+- Data validation
 
-### Kubernetes
-- Pods, Deployments, Services (basic)
-- Container orchestration concepts
-
-### Cloud (AWS)
-- EC2 instance setup
-- Application deployment
-- Linux-based cloud environments
+### Data Visualization
+- Bar, line & pie charts
+- KPI dashboards
+- Reporting & storytelling
 
 ---
 
 ## 📂 Projects
 
-### 🔁 CI/CD Pipeline Project
-- Automated build & deployment
-- Jenkins / GitHub Actions
-- Integrated Docker  
+### 📊 Sales Data Analysis
+- Cleaned & analyzed sales dataset
+- Identified trends & growth metrics
+- Visualized monthly performance  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🐳 Dockerized Application
-- Application containerization
-- Dockerfile & image optimization
-- Local & cloud deployment  
+### 📈 Excel Dashboard Project
+- Interactive Excel dashboard
+- Pivot tables & charts
+- Business insights report  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### ☸️ Kubernetes Deployment
-- Container orchestration basics
-- Deployment & service setup
-- Scalable architecture  
+### 🗄️ SQL Case Study
+- Complex queries & joins
+- Data extraction & reporting
+- Performance analysis  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🐧 Linux Automation Project
-- Shell scripting
-- System monitoring
-- Log analysis & automation  
+### 🐍 Python Data Analysis Project
+- Data cleaning using Pandas
+- Exploratory data analysis
+- Visualized insights  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
@@ -114,19 +119,19 @@ SAL Institute of Technology | CGPA: 7.55
 ---
 
 ## 🏆 Certifications
-- DevOps Master Course  
-- Linux Administration  
-- AWS Cloud Fundamentals  
-- Git & GitHub  
-- CI/CD Fundamentals  
+- Data Analytics Fundamentals  
+- Python for Data Analysis  
+- SQL for Data Analysis  
+- MS Excel Advanced  
+- Business Intelligence Basics  
 
 ---
 
 ## 🎯 Currently Learning
-- Advanced CI/CD pipelines
-- Kubernetes hands-on
-- Cloud DevOps practices
-- DevOps interview preparation
+- Advanced SQL
+- Power BI / Tableau
+- Real-world analytics case studies
+- Data Analyst interview preparation
 
 ---
 
@@ -135,4 +140,4 @@ SAL Institute of Technology | CGPA: 7.55
 - 🔗 GitHub: https://github.com/Rahul90053  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jha-rahul-kumar/
 
-<p align="center"><b>Automating infrastructure & deployments ⚙️🚀</b></p>
+<p align="center"><b>Turning raw data into meaningful insights 📊🚀</b></p>
