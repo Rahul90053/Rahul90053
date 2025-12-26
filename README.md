@@ -1,109 +1,98 @@
-<h1 align="center">📊 Jha Rahul Kumar — Data Analyst</h1>
+<h1 align="center">🧪 Jha Rahul Kumar — QA / Automation Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst;SQL+%7C+Python+%7C+Excel;Data+Visualization+%7C+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;QA+%7C+Automation+Engineer;Manual+Testing+%7C+Automation+Testing;CI%2FCD+%7C+Linux+%7C+Cloud" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 📊 Aspiring **Data Analyst**
-- 📈 Strong understanding of **data cleaning & analysis**
-- 🐍 Hands-on experience with **Python for data analysis**
-- 🗄️ Skilled in **SQL (MySQL, PostgreSQL)**
-- 📑 Advanced usage of **MS Excel**
-- 📊 Data visualization using **charts & dashboards**
+- 🧪 Aspiring **QA / Automation Engineer**
+- 🔍 Strong knowledge of **Manual Testing, SDLC, STLC**
+- 🤖 Basic experience in **Automation Testing & CI/CD**
+- 🐧 Comfortable with **Linux systems & log analysis**
+- ☁️ Basic exposure to **AWS Cloud (EC2)**
 - 📍 Ahmedabad, India | Willing to relocate  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ Data Analytics Tech Stack
+## 🛠️ QA / Automation Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=light" height="130"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins,docker,python,java,selenium,cypress,postman,aws,nginx,mysql,postgres,vscode,idea&theme=light" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-Automation-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JMeter-Performance%20Testing-orange?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dashboarding-purple?style=for-the-badge"/>
-</p>
-
 
 
 ---
 
-## 📊 Data Analytics Skills
+## 🧪 QA & Automation Skills
 
-### Data Analysis
-- Data collection & cleaning
-- Exploratory Data Analysis (EDA)
-- Trend & pattern identification
-- Business insights generation
+### Manual Testing
+- Requirement analysis
+- Test case writing & execution
+- Smoke, sanity, regression testing
+- Bug reporting & tracking
 
-### SQL
-- SELECT, WHERE, JOIN, GROUP BY
-- Subqueries & aggregations
-- Database querying & optimization
+### Automation Testing
+- Automation testing basics
+- Writing simple automation scripts
+- CI/CD-based test execution
 
-### Python
-- Pandas & NumPy
-- Data manipulation
-- Statistical analysis basics
+### CI/CD & Tools
+- Jenkins (test pipelines)
+- GitHub Actions
+- Git & GitHub
 
-### Excel
-- Pivot tables
-- VLOOKUP / XLOOKUP
-- Charts & dashboards
-- Data validation
+### Linux
+- Running tests on Linux
+- Log analysis
+- Process & service monitoring
+- Bash scripting basics
 
-### Data Visualization
-- Bar, line & pie charts
-- KPI dashboards
-- Reporting & storytelling
+### Cloud
+- AWS EC2 (test environment setup)
+- Application deployment for testing
 
 ---
 
 ## 📂 Projects
 
-### 📊 Sales Data Analysis
-- Cleaned & analyzed sales dataset
-- Identified trends & growth metrics
-- Visualized monthly performance  
+### 🧪 Manual Testing Project
+- Test plan & test cases
+- Functional & regression testing
+- Bug reports with severity & priority  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 📈 Excel Dashboard Project
-- Interactive Excel dashboard
-- Pivot tables & charts
-- Business insights report  
+### 🤖 Automation Testing Project
+- Automated test scripts
+- Reduced manual effort
+- CI/CD integrated testing  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🗄️ SQL Case Study
-- Complex queries & joins
-- Data extraction & reporting
-- Performance analysis  
+### 🔁 CI/CD Automation Pipeline
+- Automated test execution
+- Jenkins / GitHub Actions
+- Faster feedback cycle  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🐍 Python Data Analysis Project
-- Data cleaning using Pandas
-- Exploratory data analysis
-- Visualized insights  
+### 🐧 Linux QA Project
+- Linux-based testing
+- Logs & troubleshooting
+- Automation execution  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
@@ -119,19 +108,19 @@ SAL Institute of Technology | CGPA: 7.55
 ---
 
 ## 🏆 Certifications
-- Data Analytics Fundamentals  
-- Python for Data Analysis  
-- SQL for Data Analysis  
-- MS Excel Advanced  
-- Business Intelligence Basics  
+- Software Testing Fundamentals  
+- Automation Testing Basics  
+- DevOps Master Course  
+- Linux Administration  
+- AWS Cloud Fundamentals  
 
 ---
 
 ## 🎯 Currently Learning
-- Advanced SQL
-- Power BI / Tableau
-- Real-world analytics case studies
-- Data Analyst interview preparation
+- Advanced Automation Testing
+- CI/CD Testing
+- Linux for QA
+- Entry-level QA interviews
 
 ---
 
@@ -140,4 +129,4 @@ SAL Institute of Technology | CGPA: 7.55
 - 🔗 GitHub: https://github.com/Rahul90053  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jha-rahul-kumar/
 
-<p align="center"><b>Turning raw data into meaningful insights 📊🚀</b></p>
+<p align="center"><b>Ensuring quality through testing & automation 🧪🚀</b></p>
