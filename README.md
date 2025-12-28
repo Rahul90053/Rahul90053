@@ -1,101 +1,111 @@
-<h1 align="center">🚀 Jha Rahul Kumar — DevOps Engineer</h1>
+<h1 align="center">🧪 Jha Rahul Kumar — QA Manual & Automation Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;DevOps+Engineer;CI%2FCD+%7C+Cloud+%7C+Automation;Linux+%7C+Docker+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;QA+Manual+%7C+Automation+Engineer;Selenium+%7C+API+Testing+%7C+CI%2FCD;Python+%7C+Java+%7C+SQL" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Aspiring **DevOps Engineer**
-- 🐧 Strong foundation in **Linux & Shell Scripting**
-- 🔁 Hands-on with **CI/CD pipelines**
-- 🐳 Experience with **Docker & Containers**
-- ☸️ Basic knowledge of **Kubernetes**
-- ☁️ AWS Cloud (EC2, basic services)
-- 🔧 Automation mindset with testing & monitoring basics  
+- 🧪 Aspiring **QA Manual & Automation Engineer**
+- 🧠 Strong understanding of **Software Testing Life Cycle (STLC)**
+- 📝 Expertise in **Manual Testing concepts**
+- 🤖 Hands-on experience with **Automation Testing**
+- 🌐 Experience in **Web & API Testing**
+- 🔁 Knowledge of **CI/CD integration for automation**
+- 🐧 Basic Linux knowledge for testing environments
 - 📍 Ahmedabad, India | Willing to relocate  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ DevOps Tech Stack (All Tools)
+## 🛠️ QA & Automation Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins,docker,kubernetes,aws,nginx,terraform,ansible,prometheus,grafana,python,java,nodejs,maven,selenium,postman,mysql,postgres,vscode,idea&theme=light" height="150"/>
+  <img src="https://skillicons.dev/icons?i=java,python,selenium,cypress,postman,git,github,githubactions,jenkins,linux,bash,mysql,postgres,vscode,idea&theme=light" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Infrastructure-As%20Code-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manual%20Testing-STLC-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-Selenium%20%7C%20Cypress-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-Postman-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔧 DevOps Skills
+## 🔍 QA Skills
 
-### 🐧 Linux & Scripting
-- Linux commands & administration
-- Process & service management
-- Log monitoring & troubleshooting
-- Bash scripting basics
+### 📝 Manual Testing
+- SDLC & STLC
+- Test Plan & Test Strategy
+- Test Scenario & Test Case Design
+- Smoke, Sanity, Regression Testing
+- Functional, Non-Functional Testing
+- Bug Life Cycle & Defect Tracking
+- Test Metrics & Reports
 
-### 🔁 CI/CD
-- Jenkins pipelines
-- GitHub Actions workflows
-- Build, test & deploy automation
-- Artifact & version control
+### 🤖 Automation Testing
+- Selenium WebDriver (Java)
+- Cypress (Basics)
+- TestNG / JUnit
+- Page Object Model (POM)
+- Data-Driven & Keyword-Driven Testing
+- Cross-Browser Testing
+- Automation Framework Design
 
-### 🐳 Containers & Orchestration
-- Docker images & containers
-- Docker Compose
-- Kubernetes basics (Pods, Deployments, Services)
+### 🌐 API Testing
+- REST API Testing
+- Postman collections
+- Request methods (GET, POST, PUT, DELETE)
+- Response validation
+- Status codes & assertions
 
-### ☁️ Cloud (AWS)
-- EC2 instance management
-- Application deployment
-- Environment setup for Dev/Test
+### 🔁 CI/CD & Tools
+- Jenkins integration with Selenium
+- GitHub Actions for automation runs
+- Maven build tool
+- Git & GitHub version control
 
-### 📈 Monitoring & Automation
-- Prometheus & Grafana (basics)
-- Automated testing in pipelines
-- System health checks
+### 🗄️ Database & OS
+- SQL queries for data validation
+- MySQL & PostgreSQL
+- Linux basic commands for testing environments
 
 ---
 
-## 📂 DevOps Projects
+## 📂 QA Projects
 
-### 🚀 CI/CD Pipeline Project
-- Jenkins + GitHub Actions
-- Automated build & testing
-- Dockerized deployment  
+### 🧪 Manual Testing Project
+- Test scenarios & test cases
+- Bug reports & RTM
+- Functional & regression testing  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🐳 Dockerized Application
-- Dockerfile & image optimization
-- Multi-container setup
-- Production-ready deployment  
+### 🤖 Selenium Automation Framework
+- Java + Selenium + TestNG
+- Page Object Model
+- Maven project structure
+- Jenkins integration  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### ☸️ Kubernetes Deployment
-- Pod & deployment configs
-- Service exposure
-- Rolling updates  
+### 🌐 API Testing Project
+- REST API testing using Postman
+- Automated collections
+- Environment variables & reports  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🐧 Linux Automation Project
-- Bash scripts
-- Log analysis
-- Cron jobs & monitoring  
+### 🔁 CI/CD Automation Project
+- Selenium automation triggered via Jenkins
+- GitHub Actions workflow
+- Automated test execution & reports  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
@@ -111,18 +121,18 @@ SAL Institute of Technology | CGPA: 7.55
 ---
 
 ## 🏆 Certifications
-- DevOps Master Course  
-- Linux Administration  
-- AWS Cloud Fundamentals  
-- Software Testing & Automation Basics  
+- Software Testing & Automation
+- Selenium Automation
+- API Testing with Postman
+- DevOps Fundamentals (CI/CD basics)
 
 ---
 
 ## 🎯 Currently Learning
-- Advanced Kubernetes
-- Terraform & IaC
-- Cloud DevOps best practices
-- DevOps interview preparation
+- Advanced Selenium Frameworks
+- Cypress Automation
+- API Automation
+- QA Interview Preparation
 
 ---
 
@@ -131,4 +141,4 @@ SAL Institute of Technology | CGPA: 7.55
 - 🔗 GitHub: https://github.com/Rahul90053  
 - 🔗 LinkedIn: https://www.linkedin.com/in/jha-rahul-kumar/
 
-<p align="center"><b>Automating everything, one pipeline at a time 🚀⚙️</b></p>
+<p align="center"><b>Quality is never an accident — it is engineered 🧪⚙️</b></p>
