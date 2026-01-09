@@ -1,143 +1,107 @@
-<h1 align="center">🚀 Jha Rahul Kumar — QA Manual & Automation Engineer</h1>
+<h1 align="center">🚀 Jha Rahul Kumar — DevOps & Cloud Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;QA+Manual+%26+Automation+Engineer;Test+Planning+%7C+Automation+%7C+CI%2FCD;Selenium+%7C+API+Testing+%7C+Linux" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;DevOps+%26+Cloud+Engineer;CI%2FCD+%7C+Cloud+%7C+Automation;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧪 Aspiring **QA Manual & Automation Engineer**
-- 📝 Strong knowledge of **Manual Testing concepts**
-- 🤖 Hands-on with **Automation Testing**
-- 🔍 Expertise in **Test Case & Test Scenario Design**
-- 🌐 Experience in **Web Application Testing**
-- 🧰 Familiar with **CI/CD pipelines for automation**
-- 🐧 Basic Linux & shell commands
+- 🚀 Aspiring **DevOps & Cloud Engineer**
+- 🐧 Strong foundation in **Linux & Shell Scripting**
+- 🔁 Hands-on with **CI/CD pipelines**
+- 🐳 Experience with **Docker & Containers**
+- ☸️ Working knowledge of **Kubernetes**
+- ☁️ **AWS Cloud** (EC2, IAM, S3, basic networking)
+- 🧰 Automation mindset with monitoring & logging basics
 - 📍 Ahmedabad, India | Willing to relocate  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ QA Tech Stack (All Tools)
+## 🛠️ DevOps & Cloud Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,selenium,postman,linux,git,github,githubactions,jenkins,maven,mysql,postgres,aws,docker,vscode,idea&theme=light" height="150"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins,docker,kubernetes,aws,nginx,terraform,ansible,prometheus,grafana,python,java,maven,nodejs,mysql,postgres,vscode,idea&theme=light" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Testing-Expert-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation%20Testing-Selenium-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure-As%20Code-success?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔧 QA Skills
+## 🔧 Core Skills
 
-### 📝 Manual Testing
-- SDLC & STLC
-- Test Plan, Test Case & Test Scenario writing
-- Smoke, Sanity, Regression & Re-testing
-- Functional & Non-functional testing
-- Bug life cycle & defect reporting
-- Test metrics & reports
+### 🐧 Linux & Scripting
+- Linux administration & commands
+- Process, service & user management
+- Log monitoring & troubleshooting
+- Bash scripting basics
 
-### 🤖 Automation Testing
-- Selenium WebDriver
-- TestNG / JUnit basics
-- Maven project structure
-- Data-driven & keyword-driven testing
-- Cross-browser testing
-- Automation framework basics
-
-### 🌐 API Testing
-- REST API testing using Postman
-- Request/Response validation
-- Status codes & headers
-- API collections & environments
-
-### 🔁 CI/CD for QA
-- Jenkins automation jobs
+### 🔁 CI/CD
+- Jenkins pipelines (Declarative & Scripted basics)
 - GitHub Actions workflows
-- Automated test execution
-- Test reports integration
+- Build, test & deploy automation
+- Artifact management & version control
 
-### 🐧 Linux & Tools
-- Basic Linux commands
-- Log analysis
-- Git & GitHub version control
-- Docker basics for test environments
+### 🐳 Containers & Orchestration
+- Docker images & containers
+- Docker Compose
+- Kubernetes fundamentals (Pods, Deployments, Services)
+- Rolling updates & scaling
+
+### ☁️ Cloud (AWS)
+- EC2 instance provisioning & management
+- IAM users, roles & policies (basics)
+- S3 storage & access control
+- Application deployment on cloud VMs
+
+### 📈 Monitoring & Automation
+- Prometheus & Grafana (basics)
+- System health checks
+- Log-based troubleshooting
+- Automation-first approach
 
 ---
 
-## 📂 QA Projects
+## 📂 DevOps & Cloud Projects
 
-### 🧪 Manual Testing Project
-- Requirement analysis
-- Test scenarios & test cases
-- Defect tracking & reporting
-- Test summary report  
+### 🚀 CI/CD Pipeline Project
+- Jenkins + GitHub Actions
+- Automated build, test & deployment
+- Dockerized application delivery  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🤖 Selenium Automation Project
-- Java + Selenium WebDriver
-- TestNG framework
-- Maven build automation
-- Automated regression suite  
+### 🐳 Dockerized Application
+- Dockerfile creation & optimization
+- Multi-container setup using Docker Compose
+- Production-ready deployment  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🌐 API Testing Project
-- REST API testing with Postman
-- CRUD operations validation
-- Environment variables & collections  
+### ☸️ Kubernetes Deployment
+- Pod & Deployment YAMLs
+- Service exposure (ClusterIP / NodePort)
+- Rolling updates & scaling  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🔁 CI/CD Automation Project
-- Jenkins pipeline for automation
-- GitHub Actions workflow
-- Automated test execution on push  
+### ☁️ AWS Cloud Project
+- EC2-based application hosting
+- Secure access using IAM
+- Environment setup for Dev/Test  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-## 📚 Education
-
-**B.Tech – Computer Engineering (2025)**  
-Aditya Silver Oak University | CGPA: 7.88  
-
-**Diploma – Computer Engineering (2022)**  
-SAL Institute of Technology | CGPA: 7.55  
-
----
-
-## 🏆 Certifications
-- Software Testing & Automation Course  
-- Selenium Automation Training  
-- Manual Testing Certification  
-- DevOps & CI/CD Basics  
-
----
-
-## 🎯 Currently Learning
-- Advanced Selenium frameworks
-- API Automation
-- Performance Testing (JMeter)
-- QA interview preparation
-
----
-
-## 📫 Contact
-- 📧 Email: jha702251@gmail.com  
-- 🔗 GitHub: https://github.com/Rahul90053  
-- 🔗 LinkedIn: https://www.linkedin.com/in/jha-rahul-kumar/
-
-<p align="center"><b>Ensuring quality, one test case at a time 🧪🚀</b></p>
+### 🐧 Linux Automation Project
+- Bash automation scrip
