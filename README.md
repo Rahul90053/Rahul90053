@@ -1,107 +1,120 @@
-<h1 align="center">🚀 Jha Rahul Kumar — DevOps & Cloud Engineer</h1>
+<h1 align="center">🚀 Jha Rahul Kumar — WordPress & Shopify Freelancer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;DevOps+%26+Cloud+Engineer;CI%2FCD+%7C+Cloud+%7C+Automation;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;WordPress+%26+Shopify+Freelancer;Business+%7C+Ecommerce+%7C+Portfolio+Websites;Fast+%7C+Secure+%7C+SEO-Friendly" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Aspiring **DevOps & Cloud Engineer**
-- 🐧 Strong foundation in **Linux & Shell Scripting**
-- 🔁 Hands-on with **CI/CD pipelines**
-- 🐳 Experience with **Docker & Containers**
-- ☸️ Working knowledge of **Kubernetes**
-- ☁️ **AWS Cloud** (EC2, IAM, S3, basic networking)
-- 🧰 Automation mindset with monitoring & logging basics
-- 📍 Ahmedabad, India | Willing to relocate  
+- 🌐 **Freelance WordPress & Shopify Developer**
+- 🧩 Expert in **Elementor & Theme Customization**
+- 🛒 E-commerce specialist (**WooCommerce & Shopify Stores**)
+- ⚡ Speed-optimized & mobile-friendly websites
+- 🔐 Secure, scalable & SEO-ready solutions
+- 🛠️ Website redesign, bug fixing & maintenance
+- 📍 Ahmedabad, India | Remote & Global Clients Welcome  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ DevOps & Cloud Tech Stack
+## 🛠️ WordPress & Shopify Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins,docker,kubernetes,aws,nginx,terraform,ansible,prometheus,grafana,python,java,maven,nodejs,mysql,postgres,vscode,idea&theme=light" height="150"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,mysql,nodejs,git,github,vscode&theme=light" height="120"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Infrastructure-As%20Code-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WordPress-Elementor-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Shopify-Ecommerce-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SEO-Optimized-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🔧 Core Skills
 
-### 🐧 Linux & Scripting
-- Linux administration & commands
-- Process, service & user management
-- Log monitoring & troubleshooting
-- Bash scripting basics
+### 🌐 WordPress Development
+- WordPress installation & configuration
+- Elementor page builder (Expert)
+- Custom themes & plugin integration
+- Website migration & redesign
+- Speed optimization (Core Web Vitals)
 
-### 🔁 CI/CD
-- Jenkins pipelines (Declarative & Scripted basics)
-- GitHub Actions workflows
-- Build, test & deploy automation
-- Artifact management & version control
+### 🛒 Shopify Development
+- Shopify store setup from scratch
+- Theme customization
+- Product, collection & payment setup
+- Shopify app integration
+- Store performance optimization
 
-### 🐳 Containers & Orchestration
-- Docker images & containers
-- Docker Compose
-- Kubernetes fundamentals (Pods, Deployments, Services)
-- Rolling updates & scaling
+### 🎨 Frontend & Customization
+- HTML5, CSS3, JavaScript
+- Responsive & mobile-first design
+- UI/UX improvements
+- Landing pages & funnels
 
-### ☁️ Cloud (AWS)
-- EC2 instance provisioning & management
-- IAM users, roles & policies (basics)
-- S3 storage & access control
-- Application deployment on cloud VMs
-
-### 📈 Monitoring & Automation
-- Prometheus & Grafana (basics)
-- System health checks
-- Log-based troubleshooting
-- Automation-first approach
+### 🔍 SEO & Performance
+- On-page SEO optimization
+- Image & asset optimization
+- Page speed & caching
+- Security hardening
 
 ---
 
-## 📂 DevOps & Cloud Projects
+## 📂 Freelancing Projects
 
-### 🚀 CI/CD Pipeline Project
-- Jenkins + GitHub Actions
-- Automated build, test & deployment
-- Dockerized application delivery  
+### 🌐 Business Website (WordPress)
+- Fully responsive WordPress website
+- Elementor-based custom design
+- Contact forms & SEO optimization  
+🔗 Demo: ADD_LIVE_LINK  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🐳 Dockerized Application
-- Dockerfile creation & optimization
-- Multi-container setup using Docker Compose
-- Production-ready deployment  
+### 🛒 WooCommerce Store
+- Product & payment gateway integration
+- Secure checkout setup
+- Performance & speed optimization  
+🔗 Demo: ADD_LIVE_LINK  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### ☸️ Kubernetes Deployment
-- Pod & Deployment YAMLs
-- Service exposure (ClusterIP / NodePort)
-- Rolling updates & scaling  
-🔗 Repo: ADD_GITHUB_LINK
+### 🛍️ Shopify E-commerce Store
+- Shopify theme customization
+- Product catalog & collections
+- Payment & shipping configuration  
+🔗 Demo: ADD_LIVE_LINK
 
 ---
 
-### ☁️ AWS Cloud Project
-- EC2-based application hosting
-- Secure access using IAM
-- Environment setup for Dev/Test  
-🔗 Repo: ADD_GITHUB_LINK
+### 🔧 Website Fix & Redesign
+- Bug fixing & layout improvements
+- Speed & SEO enhancements
+- Mobile optimization  
+🔗 Before/After: ADD_LINK
 
 ---
 
-### 🐧 Linux Automation Project
-- Bash automation scrip
+## 🤝 Why Hire Me?
+
+✔ Client-focused communication  
+✔ Clean & modern designs  
+✔ Fast delivery & revisions  
+✔ Affordable & scalable solutions  
+
+---
+
+## 📬 Let’s Work Together
+
+If you’re looking for a **professional WordPress or Shopify website**, feel free to connect.
+
+📧 **Email:** jha702251@gmail.com  
+🔗 **GitHub:** https://github.com/Rahul90053  
+💼 **Open to Freelance & Long-Term Projects**
+
+⭐ Don’t forget to star my repositories!
