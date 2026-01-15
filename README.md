@@ -1,124 +1,119 @@
-<h1 align="center">🚀 Jha Rahul Kumar — Software Development Engineer</h1>
+<h1 align="center">🚀 Jha Rahul Kumar — DevOps, Cloud & Linux Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Problem+Solving+%7C+Backend+%7C+Cloud;C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;DevOps+%26+Cloud+Engineer;CI%2FCD+%7C+Linux+%7C+AWS+%7C+Automation;Docker+%7C+Kubernetes+%7C+Monitoring" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 **Aspiring Software Development Engineer (SDE)**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🧩 Experience with **Backend & Web Development**
-- 🔧 Hands-on with **system design basics & APIs**
-- 🌐 Familiar with **cloud-based application deployment**
-- 🚀 Passionate about writing clean, efficient & scalable code
+- 🚀 **Aspiring DevOps, Cloud & Linux Engineer**
+- 🐧 Strong foundation in **Linux system administration**
+- 🔁 Hands-on experience with **CI/CD pipelines**
+- 🐳 Skilled in **Docker & containerization**
+- ☸️ Working knowledge of **Kubernetes**
+- ☁️ Experience with **AWS cloud services**
+- 📊 Familiar with **monitoring & logging tools**
+- 🔧 Automation-focused mindset
 - 📍 Ahmedabad, India | Willing to Relocate  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ DevOps, Cloud & Linux Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,nodejs,react,mysql,postgres,git,github,linux,vscode,idea&theme=light" height="140"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions,jenkins,docker,kubernetes,aws,nginx,terraform,ansible,prometheus,grafana,python,mysql,vscode&theme=light" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Development-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Basics-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-System%20Administration-success?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🔧 Core Skills
 
-### 🧠 Data Structures & Algorithms
-- Arrays, Strings, Linked Lists
-- Stacks, Queues, Trees & Graphs
-- Recursion & Backtracking
-- Sorting & Searching algorithms
-- Time & Space Complexity
+### 🐧 Linux & Scripting
+- Linux system administration
+- User, process & service management
+- File systems, permissions & networking basics
+- Log monitoring & troubleshooting
+- Bash scripting (basics)
 
-### 💻 Programming Languages
-- **C++** (DSA & problem solving)
-- **Java** (OOP & backend basics)
-- **Python** (scripting & logic building)
-- **JavaScript** (frontend & backend)
+### 🔁 CI/CD & Version Control
+- Jenkins pipelines (Declarative & basics)
+- GitHub Actions workflows
+- Build, test & deployment automation
+- Git branching & version control
 
-### 🌐 Web & Backend Development
-- RESTful APIs
-- Backend logic & routing
-- Authentication & validation
-- Database design & queries
-- MVC architecture basics
+### 🐳 Containers & Orchestration
+- Docker images & containers
+- Dockerfile & Docker Compose
+- Kubernetes fundamentals (Pods, Deployments, Services)
+- Rolling updates & scaling
 
-### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- CRUD operations
-- Joins & indexing basics
+### ☁️ Cloud (AWS)
+- EC2 provisioning & management
+- IAM users, roles & policies (basic)
+- S3 storage & access control
+- Application deployment on cloud VMs
 
-### 🐧 Tools & Platforms
-- Git & GitHub
-- Linux command line
-- VS Code & IntelliJ IDEA
-- Debugging & testing basics
+### 📊 Monitoring & Automation
+- Prometheus & Grafana (basic)
+- System health monitoring
+- Log-based issue analysis
+- Automation-first approach
 
 ---
 
-## 📂 Software Development Projects
+## 📂 DevOps & Cloud Projects
 
-### 🚀 DSA & Algorithm Practice
-- Solved multiple DSA problems
-- Focus on optimized solutions
-- Clean & readable code  
+### 🚀 CI/CD Pipeline Project
+- Built automated CI/CD pipeline using **Jenkins / GitHub Actions**
+- Integrated Git-based source control
+- Dockerized application deployment
+- Automated build, test & deployment process  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🌐 Backend Application
-- REST API development
-- Database integration
-- Authentication & validation  
+### 🐳 Dockerized Application
+- Created optimized Dockerfiles
+- Built multi-container setup using Docker Compose
+- Containerized application for production deployment  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 💻 Full Stack Web Project
-- Frontend using HTML, CSS, JavaScript / React
-- Backend using Node.js / Java
-- Database integration  
+### ☁️ AWS Cloud Infrastructure Project
+- Hosted application on AWS EC2
+- Configured IAM roles & security
+- Managed storage using S3
+- Cloud-based deployment setup  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### ☁️ Cloud-Based Application (Optional)
-- Application deployed on cloud VM
-- Basic server configuration
-- Production-ready setup  
-🔗 Repo: ADD_GITHUB_LINK
+## 🤝 Why Hire Me as a DevOps Engineer?
 
----
-
-## 🤝 Why Hire Me as an SDE?
-
-✔ Strong problem-solving mindset  
-✔ Clean & maintainable code  
-✔ Quick learner & adaptable  
-✔ Team player with ownership attitude  
+✔ Strong Linux & automation fundamentals  
+✔ Hands-on CI/CD & cloud exposure  
+✔ Quick learner & problem solver  
+✔ Ownership-driven mindset  
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively looking for **Software Development Engineer roles, internships, and entry-level opportunities**.
+I’m actively looking for **DevOps Engineer / Cloud Engineer / Linux Engineer roles** and internships.
 
 📧 **Email:** jha702251@gmail.com  
 🔗 **GitHub:** https://github.com/Rahul90053  
 💼 **Open to Full-Time & Internship Roles**
 
-⭐ If you like my work, feel free to star my repositories!
+⭐ If you find my work useful, feel free to star my repositories!
