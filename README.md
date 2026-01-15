@@ -1,120 +1,124 @@
-<h1 align="center">🚀 Jha Rahul Kumar — WordPress & Shopify Freelancer</h1>
+<h1 align="center">🚀 Jha Rahul Kumar — Software Development Engineer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;WordPress+%26+Shopify+Freelancer;Business+%7C+Ecommerce+%7C+Portfolio+Websites;Fast+%7C+Secure+%7C+SEO-Friendly" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Problem+Solving+%7C+Backend+%7C+Cloud;C%2B%2B+%7C+Java+%7C+Python+%7C+Web+Development" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌐 **Freelance WordPress & Shopify Developer**
-- 🧩 Expert in **Elementor & Theme Customization**
-- 🛒 E-commerce specialist (**WooCommerce & Shopify Stores**)
-- ⚡ Speed-optimized & mobile-friendly websites
-- 🔐 Secure, scalable & SEO-ready solutions
-- 🛠️ Website redesign, bug fixing & maintenance
-- 📍 Ahmedabad, India | Remote & Global Clients Welcome  
+- 💻 **Aspiring Software Development Engineer (SDE)**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🧩 Experience with **Backend & Web Development**
+- 🔧 Hands-on with **system design basics & APIs**
+- 🌐 Familiar with **cloud-based application deployment**
+- 🚀 Passionate about writing clean, efficient & scalable code
+- 📍 Ahmedabad, India | Willing to Relocate  
 - 📧 Email: **jha702251@gmail.com**  
 - 🔗 GitHub: **https://github.com/Rahul90053**
 
 ---
 
-## 🛠️ WordPress & Shopify Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,php,mysql,nodejs,git,github,vscode&theme=light" height="120"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,nodejs,react,mysql,postgres,git,github,linux,vscode,idea&theme=light" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-Elementor-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shopify-Ecommerce-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SEO-Optimized-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Development-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Basics-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🔧 Core Skills
 
-### 🌐 WordPress Development
-- WordPress installation & configuration
-- Elementor page builder (Expert)
-- Custom themes & plugin integration
-- Website migration & redesign
-- Speed optimization (Core Web Vitals)
+### 🧠 Data Structures & Algorithms
+- Arrays, Strings, Linked Lists
+- Stacks, Queues, Trees & Graphs
+- Recursion & Backtracking
+- Sorting & Searching algorithms
+- Time & Space Complexity
 
-### 🛒 Shopify Development
-- Shopify store setup from scratch
-- Theme customization
-- Product, collection & payment setup
-- Shopify app integration
-- Store performance optimization
+### 💻 Programming Languages
+- **C++** (DSA & problem solving)
+- **Java** (OOP & backend basics)
+- **Python** (scripting & logic building)
+- **JavaScript** (frontend & backend)
 
-### 🎨 Frontend & Customization
-- HTML5, CSS3, JavaScript
-- Responsive & mobile-first design
-- UI/UX improvements
-- Landing pages & funnels
+### 🌐 Web & Backend Development
+- RESTful APIs
+- Backend logic & routing
+- Authentication & validation
+- Database design & queries
+- MVC architecture basics
 
-### 🔍 SEO & Performance
-- On-page SEO optimization
-- Image & asset optimization
-- Page speed & caching
-- Security hardening
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- CRUD operations
+- Joins & indexing basics
+
+### 🐧 Tools & Platforms
+- Git & GitHub
+- Linux command line
+- VS Code & IntelliJ IDEA
+- Debugging & testing basics
 
 ---
 
-## 📂 Freelancing Projects
+## 📂 Software Development Projects
 
-### 🌐 Business Website (WordPress)
-- Fully responsive WordPress website
-- Elementor-based custom design
-- Contact forms & SEO optimization  
-🔗 Demo: ADD_LIVE_LINK  
+### 🚀 DSA & Algorithm Practice
+- Solved multiple DSA problems
+- Focus on optimized solutions
+- Clean & readable code  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🛒 WooCommerce Store
-- Product & payment gateway integration
-- Secure checkout setup
-- Performance & speed optimization  
-🔗 Demo: ADD_LIVE_LINK  
+### 🌐 Backend Application
+- REST API development
+- Database integration
+- Authentication & validation  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🛍️ Shopify E-commerce Store
-- Shopify theme customization
-- Product catalog & collections
-- Payment & shipping configuration  
-🔗 Demo: ADD_LIVE_LINK
+### 💻 Full Stack Web Project
+- Frontend using HTML, CSS, JavaScript / React
+- Backend using Node.js / Java
+- Database integration  
+🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🔧 Website Fix & Redesign
-- Bug fixing & layout improvements
-- Speed & SEO enhancements
-- Mobile optimization  
-🔗 Before/After: ADD_LINK
+### ☁️ Cloud-Based Application (Optional)
+- Application deployed on cloud VM
+- Basic server configuration
+- Production-ready setup  
+🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-## 🤝 Why Hire Me?
+## 🤝 Why Hire Me as an SDE?
 
-✔ Client-focused communication  
-✔ Clean & modern designs  
-✔ Fast delivery & revisions  
-✔ Affordable & scalable solutions  
+✔ Strong problem-solving mindset  
+✔ Clean & maintainable code  
+✔ Quick learner & adaptable  
+✔ Team player with ownership attitude  
 
 ---
 
-## 📬 Let’s Work Together
+## 📬 Let’s Connect
 
-If you’re looking for a **professional WordPress or Shopify website**, feel free to connect.
+I’m actively looking for **Software Development Engineer roles, internships, and entry-level opportunities**.
 
 📧 **Email:** jha702251@gmail.com  
 🔗 **GitHub:** https://github.com/Rahul90053  
-💼 **Open to Freelance & Long-Term Projects**
+💼 **Open to Full-Time & Internship Roles**
 
-⭐ Don’t forget to star my repositories!
+⭐ If you like my work, feel free to star my repositories!
