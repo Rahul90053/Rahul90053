@@ -24,13 +24,13 @@
 ## 🛠️ SDE Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,git,github,linux,docker,githubactions,jenkins,aws,mysql,mongodb,postman,vscode&theme=light" height="150"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,tailwind,js,react,spring,django,git,github,githubactions,linux,docker,mysql,postgres,vscode&theme=light" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-DSA-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Development-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Apps-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-SDE-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-orange?style=for-the-badge"/>
 </p>
 
 ---
