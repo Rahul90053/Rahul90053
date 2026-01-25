@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst+%7C+Business+Analyst;Data+%7C+Insights+%7C+Decisions;Analytics+%7C+Visualization+%7C+Storytelling;Python+%7C+SQL+%7C+PowerBI+%7C+Excel" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
