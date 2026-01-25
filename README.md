@@ -1,7 +1,7 @@
-# 📊 Jha Rahul Kumar — Data Analyst / Business Analyst
+# 🚀 Jha Rahul Kumar — Software Development Engineer (SDE)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst+%7C+Business+Analyst;Data+%7C+Insights+%7C+Decisions;Analytics+%7C+Visualization+%7C+Storytelling;Python+%7C+SQL+%7C+PowerBI+%7C+Excel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;SDE+%7C+Problem+Solver;DSA+%7C+System+Design+%7C+Development;C%2B%2B+%7C+Python+%7C+SQL+%7C+Backend" />
 </p>
 
 <p align="center">
@@ -12,154 +12,146 @@
 
 ## 👨‍💻 About Me
 
-* 📊 **Aspiring Data Analyst & Business Analyst**
-* 🧠 Strong foundation in **Data Analysis, Statistics & Business Intelligence**
-* 📈 Skilled in **Data-driven decision making & insight generation**
-* 🧮 Passionate about **analytics, storytelling & problem solving**
-* 📊 Focused on **business growth through data**
-* 🧠 Analytical mindset with business understanding
+* 🚀 **Aspiring Software Development Engineer (SDE)**
+* 🧠 Strong foundation in **Data Structures, Algorithms & Problem Solving**
+* 💻 Passionate about **software engineering, scalable systems & backend development**
+* 🧮 Logical thinker with strong analytical ability
+* 📈 Focused on **building efficient, reliable, and scalable applications**
 * 📍 Ahmedabad, India | Willing to Relocate
 * 📧 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
 * 🔗 GitHub: **[https://github.com/Rahul90053](https://github.com/Rahul90053)**
-* 🧠 Kaggle: **ADD_KAGGLE_LINK**
 * 💼 LinkedIn: **ADD_LINKEDIN_LINK**
+* 🧠 LeetCode: **[https://leetcode.com/jha702251](https://leetcode.com/jha702251)**
 
 ---
 
-<h2 align="center">⚡ Data Analyst / Business Analyst Tech Stack</h2>
+<h2 align="center">⚡ Software Engineer Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQL-0064A5?style=for-the-badge&logo=sql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Seaborn-3767A6?style=for-the-badge&logo=seaborn&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
 </p>
 
 ---
 
-## 🔧 Core Skills
+## 🧠 Core Skills
 
-### 📊 Data Analysis
+### 💻 Software Engineering
 
-* Data Cleaning
-* Data Validation
-* Exploratory Data Analysis (EDA)
-* Data Transformation
-* KPI Analysis
-* Business Metrics
+* Object-Oriented Programming (OOP)
+* Clean Code Practices
+* Modular Design
+* Debugging
+* Code Optimization
+* Scalable Architecture
 
-### 📈 Business Analysis
+### 🧮 Data Structures & Algorithms
 
-* Requirement Gathering
-* Stakeholder Analysis
-* Business Process Mapping
-* Problem Identification
-* Decision Support Systems
-* Reporting & Documentation
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Graphs
+* Recursion
+* Dynamic Programming
+* Greedy Algorithms
 
-### 📉 Visualization
+### 🛠 Development
 
-* Dashboards
-* Reports
-* Data Storytelling
-* Interactive Visuals
-* Executive Presentations
+* REST API Development
 
-### 🧮 Programming & Tools
+* Frontend Development (HTML, CSS, JS)
 
-* Python
-* SQL
-* Excel
-* Power BI
-* Tableau
-* Pandas
-* NumPy
+* Client-Server Architecture
+
+* Backend Development
+
+* REST APIs
+
+* Database Design
+
+* Version Control
+
+* Linux Environment
 
 ---
 
 ## 📂 Projects
 
-### 📊 Sales Analytics Dashboard
+### 🚀 DSA Practice Repository
 
-* Data cleaning
-* KPI tracking
-* Dashboard creation
-* Business insights
+* 300+ problems
+* Pattern-based learning
+* Optimized solutions
+* Interview focused
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 📈 Business Performance Analysis
+### 💻 Backend Application Project
 
-* Business metrics
-* Trend analysis
-* Reporting system
-* Decision insights
+* API development
+* Database integration
+* Authentication
+* CRUD operations
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🧠 Customer Segmentation Project
+### 🛒 Mini E-Commerce System
 
-* Data preprocessing
-* Clustering
-* Customer profiling
-* Business strategy insights
-  🔗 Repo: ADD_GITHUB_LINK
-
----
-
-### 📉 Financial Data Analysis
-
-* Data modeling
-* Visualization
-* Forecasting
-* Business recommendations
+* Product management
+* Order system
+* User roles
+* Database design
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Data Analyst
-* Business Analyst
-* Business Intelligence Analyst
-* Product Analyst
-* Operations Analyst
-* Analytics Consultant
+* Software Development Engineer (SDE)
+* Backend Developer
+* Full Stack Developer
+* Platform Engineer
+* Systems Engineer
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Business + Data mindset
-✔ Analytical thinking
-✔ Decision-oriented analysis
-✔ Strong problem-solving
-✔ Clear communication
-✔ Insight-driven approach
-✔ Growth mindset
-✔ Business impact focus
+✔ Strong DSA foundation
+✔ Problem-solving mindset
+✔ Engineering thinking
+✔ Clean code habits
+✔ Fast learner
+✔ Scalable system mindset
+✔ Discipline & consistency
+✔ Long-term growth focus
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively looking for **Data Analyst / Business Analyst / Business Intelligence roles** and internships.
+I’m actively looking for **SDE / Backend / Software Engineer roles and internships**.
 
 📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
 🔗 **GitHub:** [https://github.com/Rahul90053](https://github.com/Rahul90053)
-🧠 **Kaggle:** ADD_KAGGLE_LINK
 💼 **LinkedIn:** ADD_LINKEDIN_LINK
+🧠 **LeetCode:** [https://leetcode.com/jha702251](https://leetcode.com/jha702251)
 
-⭐ If you find my projects useful, feel free to star my repositories!
+⭐ If you find my repositories useful, feel free to star them!
