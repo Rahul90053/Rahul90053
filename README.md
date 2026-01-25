@@ -1,19 +1,19 @@
-<h1 align="center">🤖 Jha Rahul Kumar — Generative AI / Data Scientist</h1>
+# 📊 Jha Rahul Kumar — Data Analyst / Business Analyst
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Generative+AI+Developer+%7C+Data+Scientist;AI+%7C+LLMs+%7C+ML+%7C+Deep+Learning;Data+%7C+Models+%7C+Intelligence;Python+%7C+SQL+%7C+AI+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst+%7C+Business+Analyst;Data+%7C+Insights+%7C+Decisions;Analytics+%7C+Visualization+%7C+Storytelling;Python+%7C+SQL+%7C+PowerBI+%7C+Excel" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🤖 **Aspiring Generative AI Developer & Data Scientist**
-* 🧠 Strong foundation in **Machine Learning, Data Science & AI**
-* 📊 Skilled in **Data Analysis, Modeling & Insight Generation**
-* 🧬 Passionate about **LLMs, AI Agents & Intelligent Systems**
-* 📈 Focused on **Data-driven + AI-driven decision making**
-* 🔍 Research-oriented mindset with engineering approach
+* 📊 **Aspiring Data Analyst & Business Analyst**
+* 🧠 Strong foundation in **Data Analysis, Statistics & Business Intelligence**
+* 📈 Skilled in **Data-driven decision making & insight generation**
+* 🧮 Passionate about **analytics, storytelling & problem solving**
+* 📊 Focused on **business growth through data**
+* 🧠 Analytical mindset with business understanding
 * 📍 Ahmedabad, India | Willing to Relocate
 * 📧 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
 * 🔗 GitHub: **[https://github.com/Rahul90053](https://github.com/Rahul90053)**
@@ -22,171 +22,136 @@
 
 ---
 
-<h2 align="center">⚡ Data Scientist AI Tech Stack</h2>
+<h2 align="center">⚡ Data Analyst / Business Analyst Tech Stack</h2>
 
 <p align="center">
-  <!-- AI + ML -->
-  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=ffffff&animation=wave" />
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-SQL-0064A5?style=for-the-badge&logo=sql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=ffffff" />
 </p>
 
 <p align="center">
-  <!-- Data Science / Databases -->
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-SQL-0064A5?style=for-the-badge&logo=sql&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff&animation=wave" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Seaborn-3767A6?style=for-the-badge&logo=seaborn&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
 </p>
-
-<p align="center">
-  <!-- Visualization -->
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Seaborn-3767A6?style=for-the-badge&logo=seaborn&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Dash-1E90FF?style=for-the-badge&logo=dash&logoColor=ffffff&animation=wave" />
-</p>
-
-<p align="center">
-  <!-- Robotics / IoT -->
-  <img src="https://img.shields.io/badge/-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-RobotFramework-FF6600?style=for-the-badge&logo=robotframework&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-RaspberryPi-CA0000?style=for-the-badge&logo=raspberrypi&logoColor=ffffff&animation=wave" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=ffffff&animation=wave" />
-</p>
-
 
 ---
 
 ## 🔧 Core Skills
 
-### 🤖 Generative AI
-
-* Large Language Models (LLMs)
-* Prompt Engineering
-* AI Agents
-* RAG (Retrieval-Augmented Generation)
-* Vector Databases
-* AI Pipelines
-* Model Fine-tuning (Basics)
-
-### 🧠 Machine Learning
-
-* Supervised Learning
-* Unsupervised Learning
-* Regression
-* Classification
-* Clustering
-* Feature Engineering
-* Model Evaluation
-
-### 📊 Data Science
+### 📊 Data Analysis
 
 * Data Cleaning
-* EDA
+* Data Validation
+* Exploratory Data Analysis (EDA)
 * Data Transformation
-* Statistical Analysis
-* Business Insights
+* KPI Analysis
+* Business Metrics
 
-### 🧮 Programming
+### 📈 Business Analysis
+
+* Requirement Gathering
+* Stakeholder Analysis
+* Business Process Mapping
+* Problem Identification
+* Decision Support Systems
+* Reporting & Documentation
+
+### 📉 Visualization
+
+* Dashboards
+* Reports
+* Data Storytelling
+* Interactive Visuals
+* Executive Presentations
+
+### 🧮 Programming & Tools
 
 * Python
 * SQL
-* Pandas
-* NumPy
-* Scikit-learn
-* TensorFlow
-* PyTorch
-
-### 📈 Visualization
-
+* Excel
 * Power BI
 * Tableau
-* Matplotlib
-* Seaborn
-* Dashboards
+* Pandas
+* NumPy
 
 ---
 
-## 📂 AI / Data Projects
+## 📂 Projects
 
-### 🤖 AI Chatbot Project (LLM Based)
+### 📊 Sales Analytics Dashboard
 
-* Prompt engineering
-* LLM integration
-* Context handling
-* AI pipelines
+* Data cleaning
+* KPI tracking
+* Dashboard creation
+* Business insights
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🧠 Generative AI App
+### 📈 Business Performance Analysis
 
-* Text generation
-* AI workflows
-* Model integration
-* Intelligent automation
+* Business metrics
+* Trend analysis
+* Reporting system
+* Decision insights
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 📊 Data Science Project
+### 🧠 Customer Segmentation Project
 
-* EDA
-* Feature engineering
-* Model building
-* Evaluation
+* Data preprocessing
+* Clustering
+* Customer profiling
+* Business strategy insights
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 📈 ML Prediction System
+### 📉 Financial Data Analysis
 
-* Dataset preprocessing
-* Training pipeline
-* Prediction engine
-* Performance metrics
+* Data modeling
+* Visualization
+* Forecasting
+* Business recommendations
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Generative AI Developer
-* AI Engineer
-* Machine Learning Engineer
-* Data Scientist
-* Applied AI Engineer
-* AI Product Engineer
-* Research Engineer (AI)
+* Data Analyst
+* Business Analyst
+* Business Intelligence Analyst
+* Product Analyst
+* Operations Analyst
+* Analytics Consultant
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ AI-first mindset
-✔ Strong analytical thinking
-✔ Engineering + research approach
-✔ Problem solver
-✔ Fast learner
-✔ Scalable system thinking
-✔ Future-focused skills
+✔ Business + Data mindset
+✔ Analytical thinking
+✔ Decision-oriented analysis
+✔ Strong problem-solving
+✔ Clear communication
+✔ Insight-driven approach
 ✔ Growth mindset
+✔ Business impact focus
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively looking for **Generative AI Developer / AI Engineer / Data Scientist roles** and internships.
+I’m actively looking for **Data Analyst / Business Analyst / Business Intelligence roles** and internships.
 
 📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
 🔗 **GitHub:** [https://github.com/Rahul90053](https://github.com/Rahul90053)
