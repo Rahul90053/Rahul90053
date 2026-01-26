@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Software Development Engineer (SDE)
+# 🤖 Jha Rahul Kumar — Generative AI / Data Scientist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;SDE+%7C+Problem+Solver;DSA+%7C+System+Design+%7C+Development;C%2B%2B+%7C+Python+%7C+SQL+%7C+Backend" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Generative+AI+Engineer;Data+Scientist+%7C+AI+Engineer;ML+%7C+DL+%7C+LLMs+%7C+Analytics;Python+%7C+SQL+%7C+AI+%7C+Cloud" />
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 **Aspiring Software Development Engineer (SDE)**
-* 🧠 Strong foundation in **Data Structures, Algorithms & Problem Solving**
-* 💻 Passionate about **software engineering, scalable systems & backend development**
-* 🧮 Logical thinker with strong analytical ability
-* 📈 Focused on **building efficient, reliable, and scalable applications**
+* 🤖 **Aspiring Generative AI Engineer / Data Scientist**
+* 🧠 Strong foundation in **Machine Learning, Deep Learning & AI Systems**
+* 📊 Passionate about **data-driven decision making & intelligent systems**
+* 🧮 Strong analytical & statistical thinking
+* 🧠 Focused on **AI research, scalable ML systems & real-world AI products**
 * 📍 Ahmedabad, India | Willing to Relocate
 * 📧 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
 * 🔗 GitHub: **[https://github.com/Rahul90053](https://github.com/Rahul90053)**
@@ -25,129 +25,146 @@
 
 ---
 
-<h2 align="center">⚡ Software Engineer Tech Stack</h2>
+<h2 align="center">⚡ AI / Data Science Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-SQL-0064A5?style=for-the-badge&logo=sql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff" />
 </p>
 
 ---
 
 ## 🧠 Core Skills
 
-### 💻 Software Engineering
+### 🤖 Artificial Intelligence
 
-* Object-Oriented Programming (OOP)
-* Clean Code Practices
-* Modular Design
-* Debugging
-* Code Optimization
-* Scalable Architecture
+* Machine Learning
+* Deep Learning
+* Neural Networks
+* Model Training & Evaluation
+* Feature Engineering
+* Model Optimization
+* AI Pipelines
 
-### 🧮 Data Structures & Algorithms
+### 🧠 Generative AI
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Graphs
-* Recursion
-* Dynamic Programming
-* Greedy Algorithms
+* Large Language Models (LLMs)
 
-### 🛠 Development
+* LangChain Framework
 
-* REST API Development
+* Prompt Engineering
 
-* Frontend Development (HTML, CSS, JS)
+* RAG (Retrieval-Augmented Generation)
 
-* Client-Server Architecture
+* AI Agents
 
-* Backend Development
+* Fine-Tuning
 
-* REST APIs
+* Embeddings
 
-* Database Design
+* Vector Databases
 
-* Version Control
+* Large Language Models (LLMs)
 
-* Linux Environment
+* Prompt Engineering
+
+* RAG (Retrieval-Augmented Generation)
+
+* AI Agents
+
+* Fine-Tuning
+
+* Embeddings
+
+* Vector Databases
+
+### 📊 Data Science
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Visualization
+* Business Insights
 
 ---
 
 ## 📂 Projects
 
-### 🚀 DSA Practice Repository
+### 🤖 Generative AI Chatbot
 
-* 300+ problems
-* Pattern-based learning
-* Optimized solutions
-* Interview focused
+* LLM integration
+* Prompt engineering
+* RAG system
+* Vector database
+* AI agent workflow
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 💻 Backend Application Project
+### 📊 Data Science Project
 
-* API development
-* Database integration
-* Authentication
-* CRUD operations
+* Data preprocessing
+* Feature engineering
+* ML models
+* Evaluation metrics
+* Visualization dashboard
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🛒 Mini E-Commerce System
+### 🧠 Machine Learning System
 
-* Product management
-* Order system
-* User roles
-* Database design
+* End-to-end ML pipeline
+* Model training
+* Model deployment
+* API integration
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Software Development Engineer (SDE)
-* Backend Developer
-* Full Stack Developer
-* Platform Engineer
-* Systems Engineer
+* Generative AI Engineer
+* Data Scientist
+* Machine Learning Engineer
+* AI Engineer
+* Applied AI Researcher
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Strong DSA foundation
-✔ Problem-solving mindset
-✔ Engineering thinking
-✔ Clean code habits
+✔ AI-first mindset
+✔ Strong ML foundation
+✔ Research-driven thinking
+✔ Problem-solving ability
+✔ Engineering mindset
 ✔ Fast learner
-✔ Scalable system mindset
-✔ Discipline & consistency
-✔ Long-term growth focus
+✔ System-level thinking
+✔ Long-term AI career focus
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively looking for **SDE / Backend / Software Engineer roles and internships**.
+I’m actively looking for **Generative AI / Data Scientist / ML Engineer roles and internships**.
 
 📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
 🔗 **GitHub:** [https://github.com/Rahul90053](https://github.com/Rahul90053)
