@@ -1,4 +1,4 @@
-# 🚀 Jha Rahul Kumar — Software Development Engineer / Full Stack Developer
+# 🚀 Jha Rahul Kumar — Software Development Engineer 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Full+Stack+Developer;Problem+Solver+%7C+Builder;DSA+%7C+System+Design+%7C+Web+Development;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+SQL" />
