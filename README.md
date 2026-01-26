@@ -1,7 +1,7 @@
-# 🤖 Jha Rahul Kumar — Generative AI / Data Scientist
+# 🚀 Jha Rahul Kumar — Software Development Engineer / Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Generative+AI+Engineer;Data+Scientist+%7C+AI+Engineer;ML+%7C+DL+%7C+LLMs+%7C+Analytics;Python+%7C+SQL+%7C+AI+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Full+Stack+Developer;Problem+Solver+%7C+Builder;DSA+%7C+System+Design+%7C+Web+Development;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+SQL" />
 </p>
 
 <p align="center">
@@ -12,11 +12,12 @@
 
 ## 👨‍💻 About Me
 
-* 🤖 **Aspiring Generative AI Engineer / Data Scientist**
-* 🧠 Strong foundation in **Machine Learning, Deep Learning & AI Systems**
-* 📊 Passionate about **data-driven decision making & intelligent systems**
-* 🧮 Strong analytical & statistical thinking
-* 🧠 Focused on **AI research, scalable ML systems & real-world AI products**
+* 🚀 **Aspiring Software Development Engineer / Full Stack Developer**
+* 🧠 Strong foundation in **Data Structures, Algorithms & Problem Solving**
+* 💻 Passionate about **building scalable systems and real-world products**
+* 🏗 Strong interest in **system design, backend engineering & web architecture**
+* 🧮 Logical thinker with strong analytical skills
+* 📈 Focused on **clean code, performance & scalability**
 * 📍 Ahmedabad, India | Willing to Relocate
 * 📧 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
 * 🔗 GitHub: **[https://github.com/Rahul90053](https://github.com/Rahul90053)**
@@ -25,146 +26,129 @@
 
 ---
 
-<h2 align="center">⚡ AI / Data Science Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=ffffff" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/-SQL-0064A5?style=for-the-badge&logo=sql&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-OpenAI-000000?style=for-the-badge&logo=openai&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
 </p>
 
 ---
 
 ## 🧠 Core Skills
 
-### 🤖 Artificial Intelligence
+### 💻 Software Engineering
 
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* Model Training & Evaluation
-* Feature Engineering
-* Model Optimization
-* AI Pipelines
+* Object-Oriented Programming (OOP)
+* Clean Code
+* Modular Architecture
+* Debugging
+* Code Optimization
+* Scalable Design
+* System Thinking
 
-### 🧠 Generative AI
+### 🧮 Data Structures & Algorithms
 
-* Large Language Models (LLMs)
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Trees
+* Graphs
+* Recursion
+* Dynamic Programming
+* Greedy Algorithms
 
-* LangChain Framework
+### 🌐 Full Stack Development
 
-* Prompt Engineering
-
-* RAG (Retrieval-Augmented Generation)
-
-* AI Agents
-
-* Fine-Tuning
-
-* Embeddings
-
-* Vector Databases
-
-* Large Language Models (LLMs)
-
-* Prompt Engineering
-
-* RAG (Retrieval-Augmented Generation)
-
-* AI Agents
-
-* Fine-Tuning
-
-* Embeddings
-
-* Vector Databases
-
-### 📊 Data Science
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Visualization
-* Business Insights
+* Frontend Development (HTML, CSS, JS)
+* Backend Development
+* REST API Development
+* Client-Server Architecture
+* Authentication & Authorization
+* Database Design
+* Version Control
+* Linux Environment
 
 ---
 
 ## 📂 Projects
 
-### 🤖 Generative AI Chatbot
+### 🧠 DSA Practice Repository
 
-* LLM integration
-* Prompt engineering
-* RAG system
-* Vector database
-* AI agent workflow
+* 300+ problems
+* Pattern-based learning
+* Optimized solutions
+* Interview focused
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 📊 Data Science Project
+### 💻 Full Stack Web Application
 
-* Data preprocessing
-* Feature engineering
-* ML models
-* Evaluation metrics
-* Visualization dashboard
+* Frontend UI
+* Backend APIs
+* Database integration
+* Authentication
+* CRUD operations
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🧠 Machine Learning System
+### 🏗 Backend System Project
 
-* End-to-end ML pipeline
-* Model training
-* Model deployment
-* API integration
+* API development
+* Business logic
+* System design
+* Database modeling
+* Scalable architecture
   🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Generative AI Engineer
-* Data Scientist
-* Machine Learning Engineer
-* AI Engineer
-* Applied AI Researcher
+* Software Development Engineer (SDE)
+* Full Stack Developer
+* Backend Engineer
+* Platform Engineer
+* Systems Engineer
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ AI-first mindset
-✔ Strong ML foundation
-✔ Research-driven thinking
-✔ Problem-solving ability
+✔ Strong DSA foundation
 ✔ Engineering mindset
+✔ System design thinking
+✔ Clean code habits
+✔ Problem-solving mindset
 ✔ Fast learner
-✔ System-level thinking
-✔ Long-term AI career focus
+✔ Scalable systems focus
+✔ Long-term tech career vision
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m actively looking for **Generative AI / Data Scientist / ML Engineer roles and internships**.
+I’m actively looking for **SDE / Full Stack / Backend roles and internships**.
 
 📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
 🔗 **GitHub:** [https://github.com/Rahul90053](https://github.com/Rahul90053)
