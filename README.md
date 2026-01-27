@@ -21,7 +21,7 @@
 * 📍 Ahmedabad, India | Willing to Relocate  
 * 📧 Email: **jha702251@gmail.com**  
 * 🔗 GitHub: **https://github.com/Rahul90053**  
-* 💼 LinkedIn: **ADD_LINKEDIN_LINK**  
+* 💼 LinkedIn: **https://www.linkedin.com/in/jha-rahulkumar**  
 * 🧠 LeetCode: **https://leetcode.com/jha702251**
 
 ---
