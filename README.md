@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Data Analyst | Data Engineer | Analytics Engineer
+# 🚀 Jha Rahul Kumar — Software Development Engineer (SDE)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst;Data+Engineer;Analytics+Engineer;Big+Data+%7C+ETL+%7C+Cloud+Data;SQL+%7C+Python+%7C+Spark+%7C+Cloud" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Full+Stack+Developer;Backend+Engineer;DSA+%7C+System+Design+%7C+Scalability" />
 </p>
 
 <p align="center">
@@ -12,138 +12,133 @@
 
 ## 👨‍💻 About Me
 
-* 📊 **Aspiring Data Analyst | Data Engineer | Analytics Engineer**
-* 🔍 Passionate about **data-driven decision making**
-* 🧠 Strong in **data processing, analytics, and system design**
-* ⚙ Builder of **ETL pipelines, dashboards, and data platforms**
-* ☁ Focused on **cloud data engineering & big data systems**
-* 📈 Data reliability & quality-first mindset
-* 📍 Ahmedabad, India | Willing to Relocate
-* 📧 Email: **[jha702251@gmail.com](mailto:jha702251@gmail.com)**
-* 🔗 GitHub: [https://github.com/Rahul90053](https://github.com/Rahul90053)
-* 💼 LinkedIn: [https://www.linkedin.com/in/jha-rahulkumar](https://www.linkedin.com/in/jha-rahulkumar)
-* 🧠 LeetCode: [https://leetcode.com/jha702251](https://leetcode.com/jha702251)
+- 🚀 Aspiring **Software Development Engineer (SDE)**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 💻 Passionate about **problem solving & scalable systems**
+- 🌐 Interested in **backend, system design & cloud-native applications**
+- ⚙ Builder of **real-world, production-grade projects**
+- 📈 Growth mindset with disciplined learning approach  
+- 📍 Ahmedabad, India | Willing to Relocate  
+
+📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)  
+🔗 **GitHub:** https://github.com/Rahul90053  
+💼 **LinkedIn:** https://www.linkedin.com/in/jha-rahulkumar  
+🧠 **LeetCode:** https://leetcode.com/jha702251  
 
 ---
 
-<h2 align="center">📊 Data Analytics | Data Engineering Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
-## 🖥 Programming & Query Languages
-
+## 🖥 Programming Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 📊 Data Analysis Tools
-
+## 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
 
-## 🗄 Databases & Warehouses
-
+## 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-## ⚙ Data Engineering & Big Data
-
+## 🌐 Web & Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FFDE57?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 </p>
 
 ---
 
-## ☁ Cloud Data Platforms
-
+## ⚙ Tools & Platforms
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## ☁ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Data Projects
+## 🧱 Core CS Foundations
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Operating Systems  
+- Computer Networks  
+- Database Management Systems  
+- System Design Fundamentals  
 
-### 📊 Data Analytics Project
+---
 
-* Data cleaning & preprocessing
-* Exploratory Data Analysis (EDA)
-* SQL analytics
-* Dashboarding
-* Business insights
-  🔗 Repo: ADD_GITHUB_LINK
+## 📂 Projects
 
-### ⚙ Data Engineering Project
+### 🚀 Backend Project
+- REST APIs, Authentication & Authorization  
+- Database Integration  
+- Scalable Architecture  
+- Production-ready Structure  
+🔗 **Repo:** ADD_GITHUB_LINK  
 
-* ETL pipeline
-* Data ingestion
-* Data transformation
-* Cloud storage
-* Data warehouse integration
-* Automation workflows
-  🔗 Repo: ADD_GITHUB_LINK
+---
 
-### ☁ Big Data Project
-
-* Spark processing
-* Cloud data pipelines
-* Streaming data
-* Batch processing
-* Scalable architecture
-  🔗 Repo: ADD_GITHUB_LINK
+### 🌐 Full Stack Project
+- Frontend + Backend Integration  
+- Secure Authentication  
+- API & Database Connectivity  
+- Deployment Ready  
+🔗 **Repo:** ADD_GITHUB_LINK  
 
 ---
 
 ## 🎯 Career Focus
-
-* Data Analyst
-* Data Engineer
-* Analytics Engineer
-* Business Intelligence Engineer
-* Cloud Data Engineer
-* Big Data Engineer
+- Software Development Engineer (SDE)  
+- Backend Engineer  
+- Full Stack Developer  
+- Cloud / Platform Engineer  
 
 ---
 
 ## 🤝 Why Hire Me?
-
-✔ Data-driven mindset
-✔ Strong SQL & Python
-✔ ETL & pipeline builder
-✔ Cloud data systems
-✔ Scalable data architecture
-✔ Business analytics focus
-✔ Production-oriented data engineering
+✔ Strong problem-solving mindset  
+✔ Solid CS fundamentals  
+✔ Clean & maintainable code  
+✔ Scalable system thinking  
+✔ Continuous learner  
 
 ---
 
 ## 📬 Let’s Connect
+📧 Email: [jha702251@gmail.com](mailto:jha702251@gmail.com)  
+🔗 GitHub: https://github.com/Rahul90053  
+💼 LinkedIn: https://www.linkedin.com/in/jha-rahulkumar  
+🧠 LeetCode: https://leetcode.com/jha702251  
 
-📧 Email: [jha702251@gmail.com](mailto:jha702251@gmail.com)
-🔗 GitHub: [https://github.com/Rahul90053](https://github.com/Rahul90053)
-💼 LinkedIn: [https://www.linkedin.com/in/jha-rahulkumar](https://www.linkedin.com/in/jha-rahulkumar)
-🧠 LeetCode: [https://leetcode.com/jha702251](https://leetcode.com/jha702251)
-
-⭐ If you find my repositories useful, feel free to star them!
+⭐ If you like my work, don’t forget to **star** ⭐ my repositories!
