@@ -1,4 +1,4 @@
-# 🚀 Jha Rahul Kumar — Data Analyst|Business Analyst| Data Scientist
+# 🚀 Jha Rahul Kumar — Data Analyst | Business Analys
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Analyst;Business+Analyst;Data+Scientist;Data+Analytics+%7C+BI+%7C+Insights" />
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 📊 Aspiring **Data Analyst | Business Analyst | Data Scientist**
+- 📊 Aspiring **Data Analyst | Business Analyst **
 - 🧠 Strong foundation in **data analysis, statistics & problem solving**
 - 📈 Passionate about **turning raw data into actionable business insights**
 - 🧹 Experienced in **data cleaning, transformation & visualization**
