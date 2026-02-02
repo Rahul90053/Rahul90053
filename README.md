@@ -1,4 +1,4 @@
-# 🚀 Jha Rahul Kumar — Data Scientist | Generative AI Engineer
+# 🤖 Jha Rahul Kumar — Data Scientist | Generative AI Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1100&lines=Jha+Rahul+Kumar;Data+Scientist;Generative+AI+Engineer;Machine+Learning;Python+%7C+SQL+%7C+LLMs" />
