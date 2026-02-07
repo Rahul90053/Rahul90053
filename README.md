@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Software Development Engineer (SDE)
+# 🚀 Jha Rahul Kumar — Data Analyst | Business Analyst
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Backend+Developer;Problem+Solver;C%2B%2B+%7C+Python+%7C+JavaScript;DSA+%7C+OOP+%7C+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Data+Analyst;Business+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau+%7C+Statistics;Data+Driven+Decision+Making" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-* 💻 Aspiring **Software Development Engineer (SDE)**
-* 🧠 Strong foundation in **Data Structures & Algorithms**
-* 🧩 Passionate about **problem-solving & clean code**
-* ⚙️ Experience in **backend development & APIs**
-* 🏗 Knowledge of **OOP, DBMS, OS & Computer Networks**
-* 🚀 Hands-on with **real-world projects & GitHub workflows**
+* 📊 Aspiring **Data Analyst / Business Analyst**
+* 🧠 Strong foundation in **data analysis, statistics & business insights**
+* 📈 Passionate about **turning raw data into actionable decisions**
+* 🧮 Hands-on experience with **SQL, Excel & Python**
+* 📊 Experience in **dashboarding & reporting**
+* 📑 Familiar with **business requirements & stakeholder reporting**
 * 📍 Ahmedabad, India | Willing to Relocate
 
 📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)  
@@ -26,42 +26,49 @@
 
 ---
 
-<h2 align="center">⚡ Software Development Tech Stack</h2>
+<h2 align="center">⚡ Data Analytics / Business Analytics Tech Stack</h2>
 
-## 🧠 Programming Languages
+## 🧮 Programming & Query Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## 🧩 Data Structures & Algorithms
+## 📊 Data Analysis & Visualization Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arrays-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linked_List-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack_&_Queue-3F51B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Trees_&_Graphs-FF5722?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Recursion_&_DP-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
 
-## 🏗 Core CS Fundamentals
+## 🧠 Statistics & Analytics Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OOP-795548?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-607D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating_System-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Probability-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-FF5722?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄 Databases
+## 🐍 Python Libraries for Data Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄 Databases & Data Handling
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -70,91 +77,58 @@
 
 ---
 
-## ⚙️ Development Tools & Platforms
+## ⚙️ Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 🚀 DevOps & Cloud Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge"/>
-</p>
-
 ---
 
-## 🧪 Testing & Quality Assurance Tools
+## 📂 Data Analyst / Business Analyst Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Manual_Testing-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge"/>
-</p>
+### 📊 Sales Performance Analysis Dashboard
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_Testing-673AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unit_Testing-795548?style=for-the-badge"/>
-</p>
+* Cleaned and analyzed large sales datasets  
+* Built interactive dashboards using Power BI  
+* Identified KPIs, trends & growth opportunities  
+* Delivered actionable business insights  
 
----
-
-
-## 📂 Software Development Projects
-
-### 🔹 DSA Problem Solving Repository
-
-* Solved **300+ DSA problems**
-* Optimized solutions with **time & space complexity**
-* Focus on interview-level questions  
-
-**Tech:** C++, STL  
+**Tech:** SQL, Power BI, Excel  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🔹 Backend CRUD Application
+### 🧮 Customer Behavior & Segmentation Analysis
 
-* Developed RESTful APIs
-* Implemented database integration
-* Followed clean architecture principles  
+* Performed EDA using Python  
+* Applied statistical techniques for segmentation  
+* Visualized insights using Matplotlib & Seaborn  
+* Generated business-ready reports  
 
-**Tech:** Python / Node.js, SQL, Git  
+**Tech:** Python, Pandas, NumPy, Statistics  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Software Development Engineer (SDE)
-* Backend Developer
-* Junior Software Engineer
-* Product Engineer (Fresher)
+* Data Analyst (Fresher)  
+* Business Analyst  
+* Reporting Analyst  
+* Product / Operations Analyst  
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Strong DSA & problem-solving skills  
-✔ Solid CS fundamentals  
-✔ Clean, maintainable code mindset  
-✔ Fast learner & consistent contributor  
-✔ Ready for real-world engineering challenges  
+✔ Strong analytical & problem-solving skills  
+✔ Excellent SQL & Excel foundation  
+✔ Dashboard-driven storytelling mindset  
+✔ Business-focused data interpretation  
+✔ Fast learner with real-world data exposure  
 
 ---
 
