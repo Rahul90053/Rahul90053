@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Data Analyst | Business Analyst
+# 🚀 Jha Rahul Kumar — DevOps Engineer | SRE | Platform Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Data+Analyst;Business+Analyst;SQL+%7C+Python+%7C+Excel;Power+BI+%7C+Tableau+%7C+Statistics;Data+Driven+Decision+Making" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;DevOps+Engineer;Site+Reliability+Engineer;Platform+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Cloud+Infrastructure" />
 </p>
 
 <p align="center">
@@ -12,23 +12,96 @@
 
 ## 👨‍💻 About Me
 
-* 📊 Aspiring **Data Analyst / Business Analyst**
-* 🧠 Strong foundation in **data analysis, statistics & business insights**
-* 📈 Passionate about **turning raw data into actionable decisions**
-* 🧮 Hands-on experience with **SQL, Excel & Python**
-* 📊 Experience in **dashboarding & reporting**
-* 📑 Familiar with **business requirements & stakeholder reporting**
+* ⚙️ Aspiring **DevOps Engineer / SRE / Platform Engineer**
+* 🐧 Strong foundation in **Linux, system operations & networking basics**
+* 🔄 Passionate about **automation, CI/CD, and reliable infrastructure**
+* ☁️ Hands-on with **AWS cloud services & containerized deployments**
+* 🚀 Experience building **end-to-end DevOps projects**
+* 📊 Interested in **monitoring, logging & incident response**
 * 📍 Ahmedabad, India | Willing to Relocate
 
-📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)  
+📧 **Email:** jha702251@gmail.com  
 🔗 **GitHub:** https://github.com/Rahul90053  
 💼 **LinkedIn:** https://www.linkedin.com/in/jha-rahulkumar  
 
 ---
 
-<h2 align="center">⚡ Data Analytics / Business Analytics Tech Stack</h2>
+<h2 align="center">⚡ DevOps | SRE | Platform Engineering Tech Stack</h2>
 
-## 🧮 Programming & Query Languages
+---
+
+## 🐧 Operating Systems & Scripting
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+## ☁️ Cloud Platforms & Services
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IAM-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPC-0A66C2?style=for-the-badge"/>
+</p>
+
+---
+
+## 📦 Containers & Orchestration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+---
+
+## 🔄 CI/CD & Version Control
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+---
+
+## 🏗 Infrastructure as Code & Configuration (Learning + Practice)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+---
+
+## 🔍 Monitoring, Logging & Reliability
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Networking & Web
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load_Balancing-607D8B?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧰 Programming & Utilities
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,98 +110,48 @@
 
 ---
 
-## 📊 Data Analysis & Visualization Tools
+## 📂 DevOps / SRE Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+### 🚀 End-to-End CI/CD Pipeline (AWS + Docker)
 
----
+* Automated build & deployment using GitHub Actions
+* Dockerized application and deployed on AWS EC2
+* Implemented CI → CD workflow with version control
+* Followed DevOps best practices and automation mindset
 
-## 🧠 Statistics & Analytics Concepts
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Statistics-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Probability-673AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hypothesis_Testing-FF5722?style=for-the-badge"/>
-</p>
-
----
-
-## 🐍 Python Libraries for Data Analysis
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge"/>
-</p>
-
----
-
-## 🗄 Databases & Data Handling
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## ⚙️ Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-## 📂 Data Analyst / Business Analyst Projects
-
-### 📊 Sales Performance Analysis Dashboard
-
-* Cleaned and analyzed large sales datasets  
-* Built interactive dashboards using Power BI  
-* Identified KPIs, trends & growth opportunities  
-* Delivered actionable business insights  
-
-**Tech:** SQL, Power BI, Excel  
+**Tech:** Linux, GitHub Actions, Docker, AWS EC2  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🧮 Customer Behavior & Segmentation Analysis
+### ☸️ Kubernetes Deployment & Operations
 
-* Performed EDA using Python  
-* Applied statistical techniques for segmentation  
-* Visualized insights using Matplotlib & Seaborn  
-* Generated business-ready reports  
+* Deployed containerized application on Kubernetes cluster
+* Created Deployments, Services & ConfigMaps
+* Implemented rolling updates and basic scaling
+* Performed troubleshooting using logs and metrics
 
-**Tech:** Python, Pandas, NumPy, Statistics  
+**Tech:** Kubernetes, Docker, Linux  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Data Analyst (Fresher)  
-* Business Analyst  
-* Reporting Analyst  
-* Product / Operations Analyst  
+* Junior DevOps Engineer  
+* Site Reliability Engineer (SRE – Entry Level)  
+* Cloud / Platform Engineer  
+* Operations & Infrastructure Engineer  
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Strong analytical & problem-solving skills  
-✔ Excellent SQL & Excel foundation  
-✔ Dashboard-driven storytelling mindset  
-✔ Business-focused data interpretation  
-✔ Fast learner with real-world data exposure  
+✔ Strong Linux & cloud fundamentals  
+✔ Hands-on DevOps project experience  
+✔ Automation & CI/CD mindset  
+✔ Production & reliability awareness  
+✔ Continuous learner with growth mindset  
 
 ---
 
