@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — DevOps Engineer | SRE | Platform Engineer
+# 🚀 Jha Rahul Kumar — Software Development Engineer 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;DevOps+Engineer;Site+Reliability+Engineer;Platform+Engineer;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Cloud+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00CED1&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Full+Stack+Developer;Backend+Focused+Engineer;Java+%7C+Python+%7C+JavaScript;Spring+Boot+%7C+Node.js+%7C+React;REST+APIs+%7C+SQL+%7C+Cloud" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-* ⚙️ Aspiring **DevOps Engineer / SRE / Platform Engineer**
-* 🐧 Strong foundation in **Linux, system operations & networking basics**
-* 🔄 Passionate about **automation, CI/CD, and reliable infrastructure**
-* ☁️ Hands-on with **AWS cloud services & containerized deployments**
-* 🚀 Experience building **end-to-end DevOps projects**
-* 📊 Interested in **monitoring, logging & incident response**
+* 💻 Aspiring **Software Development Engineer (SDE – Full Stack)**
+* 🧠 Strong foundation in **DSA, OOP & problem solving**
+* ⚙️ Backend-focused with hands-on **API & database development**
+* 🌐 Experience building **end-to-end full stack applications**
+* ☁️ Cloud-aware with basic **DevOps & deployment exposure**
+* 🚀 Passionate about **scalable, clean & maintainable code**
 * 📍 Ahmedabad, India | Willing to Relocate
 
 📧 **Email:** jha702251@gmail.com  
@@ -26,132 +26,123 @@
 
 ---
 
-<h2 align="center">⚡ DevOps | SRE | Platform Engineering Tech Stack</h2>
+<h2 align="center">⚡ Software Engineering / Full Stack Tech Stack</h2>
 
 ---
 
-## 🐧 Operating Systems & Scripting
+## 🧠 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## ☁️ Cloud Platforms & Services
+## 🧩 Backend Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎨 Frontend Frameworks & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Backend Development Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄 Databases & ORM
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Deployment
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IAM-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VPC-0A66C2?style=for-the-badge"/>
-</p>
-
----
-
-## 📦 Containers & Orchestration
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
 ---
 
-## 🔄 CI/CD & Version Control
+## 🔄 Version Control
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 ---
 
-## 🏗 Infrastructure as Code & Configuration (Learning + Practice)
+## 📂 Software Engineering Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-</p>
+### 🚀 Full Stack Web Application
 
----
+* Developed responsive UI using **React & Bootstrap**
+* Built secure backend using **Spring Boot / Node.js**
+* Implemented **JWT-based authentication**
+* Integrated SQL database with ORM
+* Deployed on **AWS using Docker**
 
-## 🔍 Monitoring, Logging & Reliability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 Networking & Web
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DNS-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Load_Balancing-607D8B?style=for-the-badge"/>
-</p>
-
----
-
-## 🧰 Programming & Utilities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## 📂 DevOps / SRE Projects
-
-### 🚀 End-to-End CI/CD Pipeline (AWS + Docker)
-
-* Automated build & deployment using GitHub Actions
-* Dockerized application and deployed on AWS EC2
-* Implemented CI → CD workflow with version control
-* Followed DevOps best practices and automation mindset
-
-**Tech:** Linux, GitHub Actions, Docker, AWS EC2  
+**Tech:** React, Spring Boot / Node.js, SQL, Docker, AWS  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### ☸️ Kubernetes Deployment & Operations
+### 📊 Backend REST API Project
 
-* Deployed containerized application on Kubernetes cluster
-* Created Deployments, Services & ConfigMaps
-* Implemented rolling updates and basic scaling
-* Performed troubleshooting using logs and metrics
+* Designed REST APIs with clean architecture
+* Implemented CRUD operations and validations
+* Used layered architecture (Controller → Service → Repository)
+* Added basic exception handling & logging
 
-**Tech:** Kubernetes, Docker, Linux  
+**Tech:** Spring Boot / Node.js, SQL  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* Junior DevOps Engineer  
-* Site Reliability Engineer (SRE – Entry Level)  
-* Cloud / Platform Engineer  
-* Operations & Infrastructure Engineer  
+* Software Development Engineer (SDE-I)
+* Backend / Full Stack Developer
+* Cloud-ready Software Engineer
+* Entry-level Product Engineer
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Strong Linux & cloud fundamentals  
-✔ Hands-on DevOps project experience  
-✔ Automation & CI/CD mindset  
-✔ Production & reliability awareness  
-✔ Continuous learner with growth mindset  
+✔ Strong CS & backend fundamentals  
+✔ Hands-on framework experience  
+✔ Clean, scalable code mindset  
+✔ DevOps & cloud awareness  
+✔ Fast learner & team player  
 
 ---
 
