@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Full Stack Engineer | MERN Stack | DevOps Enthusiast  
+# 🚀 Jha Rahul Kumar — DevOps Engineer | Cloud | CI/CD | Automation  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Full+Stack+Engineer;MERN+Stack+Developer;Frontend+%7C+Backend+%7C+DevOps;React+%7C+Node+%7C+MongoDB;Docker+%7C+AWS+%7C+CI/CD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;DevOps+Engineer;CI%2FCD+Specialist;Docker+%7C+Kubernetes+%7C+AWS;Linux+%7C+Jenkins+%7C+Terraform;Automation+%7C+Cloud+Infrastructure" />
 </p>
 
 <p align="center">
@@ -12,12 +12,13 @@
 
 ## 👨‍💻 About Me
 
-* 💻 Passionate **Full Stack Developer (MERN Stack)**
-* 🌐 Strong knowledge of **Frontend & Backend Development**
-* ⚙ Experience building **REST APIs & Microservices**
-* 🐳 Hands-on with **Docker & CI/CD Pipelines**
-* ☁ Familiar with **AWS Cloud Deployment**
-* 📍 Ahmedabad, India | Willing to Relocate
+* 🚀 Aspiring **DevOps Engineer**
+* 🐧 Strong knowledge of **Linux & System Administration**
+* ☁️ Hands-on experience with **AWS Cloud Services**
+* 🔄 Skilled in **CI/CD Pipeline Implementation**
+* 📦 Experience in **Containerization & Orchestration**
+* 🏗 Infrastructure Automation using **Terraform**
+* 📍 Ahmedabad, India | Willing to Relocate  
 
 📧 **Email:** jha702251@gmail.com  
 🔗 **GitHub:** https://github.com/Rahul90053  
@@ -25,113 +26,139 @@
 
 ---
 
-<h2 align="center">⚡ Full Stack Tech Stack</h2>
+<h2 align="center">⚡ DevOps Tech Stack</h2>
 
 ---
 
-## 🎨 Frontend Development
+## 🐧 Operating Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-## 🖥 Backend Development
+## ☁️ Cloud Platform
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT_Authentication-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🗄 Database
+## 🔄 CI/CD
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
 
-## 🔄 DevOps & Cloud
+## 📦 Containerization & Orchestration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge"/>
+</p>
+
+---
+
+## 🏗 Infrastructure as Code (IaC)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Monitoring & Logging
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔐 Version Control & SCM
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
 
-## 💻 Programming Languages
+## 💻 Programming & Scripting
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📂 Full Stack Projects
+## 📂 DevOps Projects
 
-### 🛒 E-Commerce MERN Stack Project
+### 🚀 CI/CD Pipeline for Microservices Application
 
-* Built complete authentication system (JWT Based)
-* Developed REST APIs using Node & Express
-* Integrated MongoDB for product & user data
-* Implemented cart & order management system
-* Deployed using Docker & AWS
+* Built CI/CD pipeline using Jenkins & GitHub
+* Dockerized application & pushed images to Docker Hub
+* Deployed containers on Kubernetes cluster
+* Infrastructure provisioning using Terraform on AWS
+* Integrated monitoring using Prometheus & Grafana
 
-**Tech Used:** React, Node.js, Express, MongoDB, Docker, AWS  
-🔗 Repo: ADD_GITHUB_LINK
+**Tech Used:** AWS, Docker, Kubernetes, Jenkins, Terraform  
+
+🔗 Repo: ADD_GITHUB_LINK  
 
 ---
 
-### 🚀 CI/CD Deployment Project
+### ☁️ Three-Tier Architecture Deployment on AWS
 
-* Containerized Full Stack App using Docker
-* Created CI/CD Pipeline with GitHub Actions
-* Automated Build, Test & Deployment
-* Deployed on AWS EC2
+* Configured VPC, Subnets, Route Tables & Security Groups
+* Deployed Web, App & Database layers
+* Implemented Load Balancer & Auto Scaling
+* Monitored system using CloudWatch
 
-**Tech Used:** Docker, GitHub Actions, AWS, Nginx  
-🔗 Repo: ADD_GITHUB_LINK
+**Tech Used:** AWS EC2, S3, IAM, VPC, CloudWatch  
+
+🔗 Repo: ADD_GITHUB_LINK  
 
 ---
 
 ## 🎯 Career Focus
 
-* Full Stack Developer (MERN)
-* Backend Developer
-* Frontend Developer
-* DevOps Engineer
+* DevOps Engineer  
+* Cloud Engineer  
+* Site Reliability Engineer (SRE)  
+* Platform Engineer  
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Strong understanding of Full Stack Architecture  
-✔ Hands-on experience with MERN Stack  
-✔ DevOps & CI/CD Knowledge  
-✔ Cloud Deployment Experience  
-✔ Problem-Solving & Clean Code Approach  
+✔ Strong Linux & Networking Fundamentals  
+✔ Hands-on CI/CD Pipeline Implementation  
+✔ Cloud Infrastructure & Automation Skills  
+✔ Containerization & Kubernetes Deployment  
+✔ Problem-Solving & Continuous Learning Mindset  
 
 ---
 
-⭐ Passionate about building scalable, secure, and high-performance web applications.
+⭐ Passionate about building scalable, automated, and reliable infrastructure.
