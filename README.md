@@ -1,24 +1,24 @@
-# 🚀 Jha Rahul Kumar — QA Engineer | Manual Testing | Automation Testing  
+# 🚀 Jha Rahul Kumar — DevOps Engineer | Cloud | Automation  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=FF5733&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;QA+Engineer;Manual+Testing+Specialist;Automation+Test+Engineer;Selenium+%7C+Cypress+%7C+API+Testing;JIRA+%7C+Postman+%7C+TestNG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;DevOps+Engineer;CI/CD+Specialist;Docker+%7C+Kubernetes+%7C+AWS;Automation+%7C+Cloud+%7C+Infrastructure" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=ff5733&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🧪 Aspiring **QA Engineer (Manual & Automation)**
-* 🔍 Strong knowledge of **Software Testing Life Cycle (STLC) & SDLC**
-* 🐞 Skilled in **Bug Tracking & Defect Management**
-* 🤖 Hands-on with **Automation Testing Tools**
-* 🌐 Experience in **Web & API Testing**
-* 📊 Knowledge of **Test Case Design & Execution**
-* 📍 Ahmedabad, India | Willing to Relocate
+* 🚀 Aspiring **DevOps Engineer**
+* ⚙️ Skilled in **CI/CD, Containerization & Cloud Technologies**
+* 🐧 Strong foundation in **Linux & System Administration**
+* 🐳 Hands-on experience with **Docker & Kubernetes (Basic)**
+* ☁️ Familiar with **AWS Cloud (EC2, S3, IAM)**
+* 🔄 Experience in **Automation using Python & GitHub Actions**
+* 📍 Ahmedabad, India | Willing to Relocate  
 
 📧 **Email:** jha702251@gmail.com  
 🔗 **GitHub:** https://github.com/Rahul90053  
@@ -26,66 +26,62 @@
 
 ---
 
-<h2 align="center">⚡ QA / Automation Tech Stack</h2>
+<h2 align="center">⚡ DevOps Tech Stack</h2>
 
 ---
 
-## 🧪 Manual Testing
+## 🐧 Operating Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STLC-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Test_Case_Design-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Black_Box_Testing-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/White_Box_Testing-795548?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Regression_Testing-E91E63?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Smoke_Testing-607D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sanity_Testing-3F51B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UAT-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Defect_Life_Cycle-F44336?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_Linux-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
-## 🤖 Automation Testing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 API Testing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge"/>
-</p>
-
----
-
-## 🛠 Bug Tracking & Test Management
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TestRail-00AEEF?style=for-the-badge"/>
-</p>
-
----
-
-## 🔄 CI/CD & Version Control
+## 🔧 Version Control & CI/CD
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+---
+
+## 🐳 Containerization & Orchestration
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+---
+
+## ☁️ Cloud Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Monitoring & Logging
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+## 🏗 Infrastructure as Code
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </p>
 
 ---
@@ -93,56 +89,54 @@
 ## 💻 Programming & Scripting
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 📂 QA Projects
+## 📂 DevOps Projects
 
-### 🧪 E-Commerce Website Testing Project
+### 🚀 End-to-End DevOps Pipeline
 
-* Designed detailed test cases & test scenarios
-* Performed Functional, Regression & Smoke Testing
-* Logged defects in JIRA with proper severity & priority
-* Conducted API Testing using Postman
+* Built a complete **CI/CD pipeline using GitHub Actions**
+* Automated build and deployment process
+* Containerized application using Docker
+* Deployed application on **AWS EC2**
+* Integrated version control using Git & GitHub
 
-**Tech Used:** Manual Testing, JIRA, Postman  
+**Tech Used:** GitHub Actions, Docker, AWS, Git  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 🤖 Selenium Automation Framework Project
+### 🐳 Dockerized Application Deployment
 
-* Built automation framework using Selenium & TestNG
-* Implemented Page Object Model (POM)
-* Automated login, checkout & form validation flows
-* Integrated with Jenkins for CI execution
+* Containerized a web application using Docker
+* Created and optimized Dockerfile
+* Built and pushed images to Docker Hub
+* Managed containers in local and cloud environments
 
-**Tech Used:** Selenium, Java, TestNG, Jenkins  
+**Tech Used:** Docker, Linux  
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
 ## 🎯 Career Focus
 
-* QA Engineer (Manual & Automation)
-* Automation Test Engineer
-* Software Test Engineer
-* API Test Engineer
+* DevOps Engineer  
+* Cloud Engineer  
+* Site Reliability Engineer (SRE)  
 
 ---
 
 ## 🤝 Why Hire Me?
 
-✔ Strong understanding of Testing Concepts  
-✔ Experience in Automation Framework Development  
-✔ API & UI Testing Expertise  
-✔ Defect Tracking & Reporting Skills  
-✔ Detail-Oriented & Quality-Driven  
+✔ Strong understanding of DevOps fundamentals  
+✔ Hands-on experience with CI/CD & Docker  
+✔ Basic knowledge of Kubernetes & AWS  
+✔ Quick learner with problem-solving mindset  
+✔ Passionate about automation & cloud technologies  
 
 ---
 
-⭐ Passionate about delivering high-quality, bug-free and reliable software products.
+⭐ Passionate about building scalable, automated, and efficient systems.
