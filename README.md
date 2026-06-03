@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Software Development Engineer | DSA | Full Stack  
+# 🚀 Jha Rahul Kumar — Business Analyst | Data Analyst | Business Intelligence
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Software+Development+Engineer;DSA+%7C+Problem+Solving;C%2B%2B+%7C+Java+%7C+Python;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Business+Analyst;Data+Analysis+%7C+Business+Insights;SQL+%7C+Excel+%7C+Power+BI;Business+Intelligence+Professional" />
 </p>
 
 <p align="center">
@@ -10,62 +10,65 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💼 About Me
 
-- 💻 Aspiring **Software Development Engineer**
-- 🚀 Strong knowledge of **Data Structures & Algorithms**
-- ⚡ Skilled in **C++, Java, Python**
-- 🌐 Hands-on experience in **Frontend & Backend Development**
-- 🛢 Good understanding of **DBMS, SQL & MySQL**
-- 🔧 Familiar with **Git, GitHub & Software Development Lifecycle**
-- 🧠 Problem-solving mindset with coding passion
-- 📍 Ahmedabad, India | Willing to Relocate  
+* 📊 Aspiring **Business Analyst & Data Analyst**
+* 📈 Passionate about transforming data into actionable business insights
+* 💡 Skilled in business problem-solving and requirement analysis
+* 📊 Strong understanding of data visualization and reporting
+* 🧠 Analytical mindset with decision-making abilities
+* 🔍 Knowledge of SDLC, Agile & Business Process Analysis
+* 📉 Experienced in data handling, dashboards & reporting
+* 📍 Ahmedabad, India | Willing to Relocate
 
-📧 **Email:** jha702251@gmail.com  
-🔗 **GitHub:** https://github.com/Rahul90053  
-💼 **LinkedIn:** https://www.linkedin.com/in/jha-rahulkumar  
-
----
-
-<h2 align="center">⚡ Tech Stack</h2>
+📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
+🔗 **GitHub:** https://github.com/Rahul90053
+💼 **LinkedIn:** https://www.linkedin.com/in/jha-rahulkumar
 
 ---
 
-## 💻 Programming Languages
+<h2 align="center">⚡ Business Analytics Tech Stack</h2>
+
+---
+
+## 📊 Data Analytics & Visualization
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Frontend Development
+## 🛢 Database & Query Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
----
-
-## ⚙ Backend Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
----
-
-## 🛢 Database
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Programming & Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+## 📋 Business Analysis Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visio-3955A3?style=for-the-badge"/>
 </p>
 
 ---
@@ -81,68 +84,95 @@
 
 ---
 
-## 🧠 Core CS Subjects
+# 🧠 Core Business Analyst Skills
 
-- Data Structures & Algorithms  
-- Object Oriented Programming  
-- DBMS  
-- Operating System  
-- Computer Networks  
-- Software Engineering  
+* Business Requirement Gathering
+* Requirement Analysis
+* Data Analysis & Interpretation
+* Dashboard Creation
+* Report Generation
+* KPI Tracking & Reporting
+* Business Process Modeling
+* SDLC & Agile Methodology
+* Stakeholder Communication
+* Problem Solving & Decision Making
+* Documentation & Reporting
+* Data Visualization
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-### 🚀 Full Stack E-Commerce Website
+## 📊 Sales Dashboard Analysis
 
-- User authentication system
-- Product listing and cart management
-- Responsive frontend UI
-- Backend APIs and database integration
+* Developed interactive sales dashboards
+* Analyzed customer purchasing trends
+* Created KPI reports for business decisions
+* Improved reporting efficiency
 
-**Tech Used:** React, Node.js, Express.js, MySQL  
+**Tech Used:** Power BI, Excel, SQL
 
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-### 💻 Student Management System
+## 📈 Business Performance Analysis
 
-- Add, update, delete student records
-- Search functionality
-- SQL database integration
-- Clean UI interface
+* Analyzed business growth and revenue trends
+* Created detailed reports and charts
+* Identified business improvement opportunities
+* Performed data cleaning and transformation
 
-**Tech Used:** Java / Python / MySQL  
+**Tech Used:** Python, Pandas, Excel, SQL
 
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-## 🏆 Coding Profiles
+# 🏆 Certifications
 
-🔗 LeetCode: https://leetcode.com/u/jha702251/  
-
----
-
-## 🎯 Career Focus
-
-- Software Development Engineer (SDE)  
-- Backend Developer  
-- Full Stack Developer  
-- Java Developer  
+* Business Analytics Certification
+* Data Analytics Training
+* SQL & Excel for Data Analysis
+* Power BI Dashboard Development
 
 ---
 
-## 🤝 Why Hire Me?
+# 📊 Career Focus
 
-✔ Strong DSA & Problem Solving Skills  
-✔ Good Programming Knowledge  
-✔ Hands-on Project Experience  
-✔ Fast Learner & Team Player  
-✔ Passionate About Coding  
+* Business Analyst
+* Data Analyst
+* Business Intelligence Analyst
+* Reporting Analyst
+* Product Analyst
 
 ---
 
-⭐ Passionate about building scalable software and solving real-world problems.
+# 🤝 Why Hire Me?
+
+✔ Strong Analytical & Problem-Solving Skills
+✔ Good Understanding of Business Processes
+✔ Data-Driven Decision Making
+✔ Dashboard & Reporting Expertise
+✔ Fast Learner & Team Player
+✔ Passionate About Business Insights
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul90053&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ Passionate about using data, analytics, and business intelligence to drive smarter business decisions and improve organizational growth.
