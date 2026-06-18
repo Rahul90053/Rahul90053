@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — DevOps Engineer | Cloud Engineer | Infrastructure Automation
+<h1 align="center">🚀 Jha Rahul Kumar — Business Analyst | Data Analyst | Business Intelligence</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=34&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;DevOps+Engineer;Cloud+Engineer+%7C+Infrastructure+Automation;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Terraform" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Business+Analyst;Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Python+%7C+Tableau+%7C+Statistics;Turning+Data+Into+Business+Insights" />
 </p>
 
 <p align="center">
@@ -12,140 +12,209 @@
 
 # 👨‍💻 About Me
 
-* 🚀 Aspiring **DevOps Engineer & Cloud Engineer**
-* ☁️ Passionate about Cloud Computing and Infrastructure Automation
-* 🔄 Skilled in CI/CD Pipeline Development and Deployment Automation
-* 🐳 Hands-on knowledge of Docker and Kubernetes
-* 🛠️ Strong understanding of Linux Administration and Scripting
-* ⚙️ Knowledge of Infrastructure as Code (IaC) and Cloud Services
-* 📊 Interested in Monitoring, Logging, and Performance Optimization
-* 📍 Ahmedabad, India | Willing to Relocate
+- 📊 Aspiring Business Analyst & Data Analyst
+- 📈 Passionate about Data Analytics and Business Intelligence
+- 📋 Skilled in Requirement Gathering and Business Process Analysis
+- 📉 Transforming Raw Data into Actionable Insights
+- 📊 Building Interactive Dashboards and Reports
+- 🚀 Interested in Product Analytics and Data-Driven Decision Making
+- 📍 Ahmedabad, India | Willing to Relocate
 
-📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
+📧 **Email:** jha702251@gmail.com
+
 🔗 **GitHub:** https://github.com/Rahul90053
+
 💼 **LinkedIn:** https://www.linkedin.com/in/jha-rahulkumar
 
 ---
 
-<h2 align="center">⚡ DevOps & Cloud Tech Stack</h2>
+# ⚡ Analytics & Business Analysis Tech Stack
 
----
-
-## 🐧 Operating Systems
+## 📊 Spreadsheet & Reporting Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge"/>
 </p>
 
 ---
 
-## ☁️ Cloud Platforms
+## 🗄 Database & Query Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Business Intelligence & Visualization
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qlik_Sense-009845?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+</p>
+
+---
+
+## 🐍 Programming & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+## 📉 Statistics & Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/A%2FB_Testing-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression_Analysis-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Forecasting-00599C?style=for-the-badge"/>
+</p>
+
+---
+
+## 📋 Business Analysis Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lucidchart-F58220?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔄 Agile & Project Management
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sprint_Planning-FF9800?style=for-the-badge"/>
+</p>
+
+---
+
+## ☁️ Cloud & Modern Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔄 CI/CD & Version Control
+# 🧠 Core Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+### Business Analysis
+- Requirement Gathering
+- Stakeholder Management
+- Business Process Mapping
+- BRD Documentation
+- FRD Documentation
+- Gap Analysis
+- SWOT Analysis
+- Root Cause Analysis
+- Use Case Development
+- User Story Writing
 
----
+### Data Analytics
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Dashboard Development
+- KPI Design
+- Data Visualization
+- Reporting Automation
+- Trend Analysis
+- Forecasting
 
-## 🐳 Containerization & Orchestration
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
----
-
-## 🏗 Infrastructure as Code & Configuration Management
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-</p>
-
----
-
-## 📊 Monitoring & Logging
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
+### Technical Skills
+- Excel
+- SQL
+- Power BI
+- Tableau
+- Python
+- Statistics
+- Data Modeling
+- ETL Concepts
 
 ---
 
-# 🧠 Core DevOps Skills
+# 📂 Featured Projects
 
-* Linux Administration
-* AWS Cloud Services
-* Git & GitHub
-* CI/CD Pipeline Automation
-* Jenkins Pipeline Development
-* Docker & Containerization
-* Kubernetes Deployment
-* Infrastructure as Code (Terraform)
-* Configuration Management (Ansible)
-* Shell Scripting (Bash)
-* Monitoring & Logging
-* Cloud Security Basics
-* Application Deployment & Troubleshooting
-* Agile & DevOps Practices
+## 📊 Sales Analytics Dashboard
 
----
+### Overview
+Developed an interactive Power BI dashboard for sales performance monitoring.
 
-# 📂 Projects
+### Features
+- KPI Tracking
+- Revenue Analysis
+- Regional Performance
+- Product Insights
+- Executive Reporting
 
-## 🚀 End-to-End CI/CD Pipeline for Web Application
-
-* Built and automated CI/CD pipelines using Jenkins.
-* Integrated GitHub for source code management.
-* Automated build, test, and deployment workflows.
-* Containerized the application using Docker.
-
-**Tech Used:** Jenkins, Git, GitHub, Docker, Maven, Linux
+### Tech Stack
+Power BI • SQL • Excel
 
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-## ☁️ Three-Tier Web Application Deployment on AWS
+## 🛒 Customer Behavior Analytics
 
-* Designed and deployed a three-tier architecture on AWS.
-* Containerized frontend and backend services using Docker.
-* Deployed application workloads using Kubernetes.
-* Configured monitoring with Prometheus and Grafana.
+### Overview
+Analyzed customer purchasing behavior and generated actionable business insights.
 
-**Tech Used:** AWS, Docker, Kubernetes, Linux, Prometheus, Grafana
+### Features
+- Customer Segmentation
+- Retention Analysis
+- Revenue Insights
+- Customer Lifetime Value
+
+### Tech Stack
+Python • SQL • Power BI
 
 🔗 Repo: ADD_GITHUB_LINK
 
 ---
 
-## 🏗 AWS Infrastructure Automation
+## 📈 Business Performance Dashboard
 
-* Provisioned AWS infrastructure using Terraform.
-* Automated creation of EC2, VPC, Security Groups, and S3 resources.
-* Managed infrastructure as code and version control.
+### Overview
+Built executive dashboards for strategic business decision-making.
 
-**Tech Used:** Terraform, AWS, Git, Linux
+### Features
+- KPI Monitoring
+- Trend Analysis
+- Forecasting
+- Business Reporting
+
+### Tech Stack
+Tableau • Excel • SQL
 
 🔗 Repo: ADD_GITHUB_LINK
 
@@ -153,49 +222,62 @@
 
 # 🏆 Certifications
 
-* DevOps Master Course
-* AWS Cloud Fundamentals
-* Docker & Kubernetes Essentials
-* Jenkins CI/CD Pipeline Fundamentals
+- Business Analytics Professional Certificate
+- Data Analytics Professional Certificate
+- SQL for Data Analysis
+- Power BI Data Analyst
+- Advanced Excel for Business Analytics
+- Agile & Scrum Fundamentals
 
 ---
 
 # 🎯 Career Focus
 
-* DevOps Engineer
-* Cloud Engineer
-* Site Reliability Engineer (SRE)
-* Platform Engineer
-* Cloud Support Engineer
-* Infrastructure Engineer
-
----
-
-# 🤝 Why Hire Me?
-
-✔ Strong Linux & Cloud Fundamentals
-✔ Hands-on Experience with CI/CD Pipelines
-✔ Practical Knowledge of Docker & Kubernetes
-✔ AWS Cloud & Infrastructure Automation Skills
-✔ Passion for Continuous Learning & Automation
-✔ Fast Learner, Team Player & Problem Solver
+- Business Analyst
+- Data Analyst
+- BI Analyst
+- Product Analyst
+- Reporting Analyst
+- Strategy Analyst
+- Functional Analyst
+- Business Intelligence Developer
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul90053&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul90053&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul90053&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul90053&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-⭐ Passionate about building scalable cloud infrastructure, automating software delivery, and implementing modern DevOps practices to create reliable and efficient systems.
+# 🤝 Why Hire Me?
+
+✔ Strong Analytical Thinking
+
+✔ Data-Driven Decision Making
+
+✔ Business Process Understanding
+
+✔ Dashboard & Reporting Expertise
+
+✔ SQL & Data Analysis Skills
+
+✔ Excellent Communication Skills
+
+✔ Stakeholder Collaboration
+
+✔ Problem Solver & Fast Learner
+
+---
+
+⭐ Passionate about transforming business data into actionable insights that drive growth, efficiency, and strategic decision-making.
