@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — DevOps Engineer | Cloud Engineer | Infrastructure Automation
+# 🚀 Jha Rahul Kumar — QA Automation Engineer | SDET | Software Test Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;DevOps+Engineer;Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code;Linux+%7C+Bash+%7C+Python;Monitoring+%26+Observability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;QA+Automation+Engineer;SDET;Selenium+%7C+Java+%7C+TestNG;API+Testing+%7C+Postman;CI%2FCD+Testing;Manual+%26+Automation+Testing;Quality+Engineering" />
 </p>
 
 <p align="center">
@@ -12,14 +12,15 @@
 
 # 👨‍💻 About Me
 
-* 🚀 Aspiring DevOps Engineer passionate about Cloud Computing & Infrastructure Automation
-* ☁️ Hands-on experience with AWS Cloud Services
-* 🐳 Building containerized applications using Docker & Kubernetes
-* ⚙️ Automating CI/CD Pipelines with Jenkins & GitHub Actions
-* 🏗️ Provisioning infrastructure using Terraform
-* 🐧 Strong Linux Administration & Shell Scripting knowledge
-* 📊 Interested in Monitoring, Logging & Site Reliability Engineering (SRE)
-* 💻 Passionate about Infrastructure as Code (IaC), Automation & Cloud Native Technologies
+* 💻 Aspiring QA Automation Engineer & Software Development Engineer in Test (SDET)
+* ✅ Passionate about delivering high-quality software through automation
+* 🧪 Hands-on experience with Selenium WebDriver, Java & TestNG
+* 🌐 Experience in API Testing using Postman
+* ⚡ Building Automation Frameworks using Maven & TestNG
+* 🔄 Familiar with CI/CD integration using Jenkins & GitHub Actions
+* 🐞 Strong understanding of Manual Testing, SDLC & STLC
+* 📊 Knowledge of SQL, Bug Tracking & Test Management
+* 🚀 Passionate about Continuous Testing & Quality Engineering
 * 📍 Ahmedabad, India | Willing to Relocate
 
 📧 **Email:** jha702251@gmail.com
@@ -30,99 +31,89 @@
 
 ---
 
-# 💻 Programming & Scripting Languages
+# 💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-# ☁️ Cloud Platforms
+# 🧪 Automation Testing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Appium-47216B?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🐳 Containers & Orchestration
+# 🌐 API Testing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ---
 
-# 🚀 CI/CD & Automation
+# ⚡ Performance Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Load_Testing-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance_Testing-3F51B5?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 CI/CD & DevOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 🏗️ Infrastructure as Code
+# 🐞 Bug Tracking & Test Management
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zephyr-1E88E5?style=for-the-badge"/>
 </p>
 
 ---
 
-# 📊 Monitoring, Logging & Observability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Loki-F2CC0C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge"/>
-</p>
-
----
-
-# 💾 Databases
+# 💾 Database
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
-# 🔧 Version Control & Development Tools
+# 💻 Development & Testing Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
 ---
@@ -130,48 +121,44 @@
 # 🖥️ Operating Systems
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
-# 🧠 Core DevOps Concepts
+# 📚 QA & Testing Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git_Workflow-F05032?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-00BCD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SRE-00ACC1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Monitoring-E6522C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Networking-1976D2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-43A047?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manual_Testing-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation_Testing-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Testing-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UI_Testing-03A9F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression_Testing-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Smoke_Testing-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sanity_Testing-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cross_Browser_Testing-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDLC-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STLC-FF5722?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-8BC34A?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🎯 Career Focus
 
-- DevOps Engineer
-- Cloud Engineer
-- AWS Cloud Engineer
-- Platform Engineer
-- Site Reliability Engineer (SRE)
-- Infrastructure Engineer
-- Build & Release Engineer
-- CI/CD Engineer
-- Kubernetes Engineer
-- Cloud Infrastructure Engineer
+- QA Automation Engineer
+- Software Development Engineer in Test (SDET)
+- Test Automation Engineer
+- Software Test Engineer
+- QA Engineer
+- Automation Test Engineer
+- API Test Engineer
+- Performance Test Engineer
+- Quality Assurance Engineer
 
 ---
 
-⭐ Passionate about DevOps, Cloud Computing, Infrastructure Automation, CI/CD, Kubernetes, Docker, AWS, Linux Administration, Infrastructure as Code, Monitoring, Observability, Site Reliability Engineering (SRE), and building scalable cloud-native platforms.
+⭐ Passionate about Software Testing, Test Automation, Selenium WebDriver, Java, TestNG, API Testing, REST Assured, JMeter, Jenkins, GitHub Actions, SQL, Quality Engineering, Continuous Testing, and building reliable automation frameworks.
