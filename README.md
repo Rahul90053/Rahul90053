@@ -1,7 +1,7 @@
-# 🚀 Jha Rahul Kumar — Software Engineer | Full Stack Developer 
+# 🚀 Jha Rahul Kumar — QA Automation Engineer | SDET | Software Test Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Software+Development+Engineer;Full+Stack+Developer;Java+%7C+C%2B%2B+%7C+Python;Data+Structures+%26+Algorithms;React+%7C+Node.js;Cloud+%7C+AWS+%7C+Docker;Building+Scalable+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;QA+Automation+Engineer;Software+Test+Engineer+(SDET);Manual+%26+Automation+Testing;Selenium+%7C+Java+%7C+TestNG;API+Testing+%7C+Postman;REST+Assured+%7C+JMeter;Building+High+Quality+Software" />
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@
 
 # 👨‍💻 About Me
 
-- 💻 Aspiring Software Development Engineer (SDE)
-- 🚀 Passionate about building scalable, efficient, and user-friendly applications
-- 💡 Strong foundation in Data Structures & Algorithms
-- 🌐 Skilled in Full Stack Web Development
-- ☁️ Hands-on experience with Cloud Computing & DevOps fundamentals
-- ⚡ Enthusiastic about System Design, Clean Code, and Software Architecture
-- 🔄 Continuous learner focused on solving real-world problems
+- 🧪 Aspiring QA Automation Engineer / SDET
+- 🚀 Passionate about delivering high-quality, reliable software
+- 💡 Strong understanding of Manual Testing and Automation Testing
+- 🤖 Hands-on experience with Selenium WebDriver using Java
+- 🔍 Skilled in API Testing, Bug Reporting, and Test Case Design
+- ⚡ Enthusiastic about Test Automation Frameworks, CI/CD, and Agile Methodologies
+- 📈 Continuous learner focused on improving software quality and automation efficiency
 - 📍 Ahmedabad, Gujarat, India | Willing to Relocate
 
 📧 **Email:** jha702251@gmail.com
@@ -32,7 +32,6 @@
 # 💻 Programming Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,26 +40,51 @@
 
 ---
 
-# 🌐 Frontend Development
+# 🧪 Manual Testing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Test_Cases-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test_Planning-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression_Testing-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Smoke_Testing-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sanity_Testing-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Functional_Testing-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Integration_Testing-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UAT-795548?style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚙️ Backend Development
+# 🤖 Automation Testing
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Page_Object_Model-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Driven_Framework-009688?style=for-the-badge"/>
+</p>
+
+---
+
+# 🔗 API Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_Assured-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-03A9F4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json"/>
+</p>
+
+---
+
+# ⚡ Performance Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Load_Testing-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance_Testing-FF9800?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,49 +94,47 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 </p>
 
 ---
 
-# ☁️ Cloud & DevOps
+# ☁️ DevOps & CI/CD
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
 
-# 🛠 Development Tools
+# 🛠 Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
 
-# 📚 Computer Science Fundamentals
+# 📚 Testing Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Structures-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-FF9800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating_Systems-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Networks-3F51B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-795548?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System_Design-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Design_Patterns-607D8B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-673AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-03A9F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDLC-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STLC-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test_Execution-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bug_Lifecycle-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Defect_Tracking-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java_Collections-009688?style=for-the-badge"/>
 </p>
 
 ---
@@ -129,15 +151,15 @@
 
 # 🎯 Career Focus
 
-- Software Development Engineer (SDE)
-- Full Stack Developer
-- Backend Developer
-- Java Developer
-- C++ Developer
-- Software Engineer
-- Application Developer
-- Cloud-Native Developer
+- QA Automation Engineer
+- Software Test Engineer (SDET)
+- QA Engineer
+- Automation Test Engineer
+- Manual Test Engineer
+- Selenium Automation Engineer
+- API Test Engineer
+- Quality Assurance Engineer
 
 ---
 
-⭐ Passionate about Software Engineering, Data Structures & Algorithms, Full Stack Development, Java, C++, Python, React, Node.js, SQL, AWS, Docker, Kubernetes, System Design, Microservices, and building scalable, high-performance applications.
+⭐ Passionate about Software Quality, Manual Testing, Automation Testing, Selenium WebDriver, Java, TestNG, REST Assured, Postman, JMeter, SQL, Jenkins, Git, CI/CD, Agile Methodologies, and building robust automation frameworks.
