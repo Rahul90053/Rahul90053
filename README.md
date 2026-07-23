@@ -1,6 +1,6 @@
-<h3 align="center">
+<h4 align="center">
 🚀 Jha Rahul Kumar — Software Engineer | Full Stack Developer | Java Developer
-</h3>
+</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Software+Engineer;Full+Stack+Developer;Java+Developer;Java+%7C+Spring+Boot;React+%7C+Node.js;DSA+%7C+System+Design;Building+Scalable+Applications" />
