@@ -1,14 +1,257 @@
-<h4 align="center">
-🚀 Jha Rahul Kumar — Software Engineer | MERN Stack Developer | Full Stack Developer
-</h4>
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=Jha+Rahul+Kumar;Software+Engineer;MERN+Stack+Developer;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Express.js+%7C+MongoDB+%7C+REST+APIs;DSA+%7C+OOPs+%7C+System+Design" />
-</p>
+* 🚀 Aspiring **DevOps Engineer** passionate about cloud infrastructure, automation, and reliable software delivery
+* ☁️ Cloud & DevOps enthusiast with hands-on experience in **AWS and infrastructure automation**
+* 🐧 Skilled in **Linux administration, Bash scripting, server management, and troubleshooting**
+* 🐳 Experienced with **Docker, Docker Compose, and containerized application deployment**
+* ☸️ Familiar with **Kubernetes, deployments, services, container orchestration, and networking**
+* 🔄 Experienced with **CI/CD pipelines using Jenkins and GitHub Actions**
+* 🏗️ Familiar with **Infrastructure as Code using Terraform and AWS CloudFormation**
+* ⚙️ Knowledge of **Ansible for configuration management and infrastructure automation**
+* 📊 Familiar with **Prometheus, Grafana, and AWS CloudWatch** for monitoring and observability
+* 🌐 Understanding of **AWS EC2, S3, IAM, VPC, Load Balancers, DNS, HTTP, and TCP/IP**
+* 🔧 Experienced with **Git, GitHub, Jenkins, Docker, Kubernetes, Terraform, Ansible, and Linux CLI**
+* 📈 Continuously learning **Cloud Architecture, DevOps practices, automation, Kubernetes, security, and system reliability**
+* 📍 Ahmedabad, Gujarat, India | Willing to Relocate
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rahul90053&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
-</p>
+📧 **Email:** [jha702251@gmail.com](mailto:jha702251@gmail.com)
+
+🔗 **GitHub:** [Rahul90053](https://github.com/Rahul90053)
+
+💼 **LinkedIn:** [Jha Rahul Kumar](https://www.linkedin.com/in/jha-rahulkumar)
+
+---
+
+# ☁️ Cloud & AWS
+
+* AWS EC2
+* AWS S3
+* AWS IAM
+* AWS VPC
+* AWS ELB / Load Balancer
+* AWS Auto Scaling
+* AWS CloudWatch
+* AWS CloudFormation
+* AWS CLI
+* Security Groups
+* Public & Private Subnets
+* IAM Roles & Policies
+* Cloud Networking Fundamentals
+
+---
+
+# 🐧 Linux & System Administration
+
+* Linux / Ubuntu
+* Amazon Linux
+* Linux Command Line
+* Bash Shell Scripting
+* SSH
+* User & Permission Management
+* Process Management
+* Package Management
+* Service Management
+* Log Management
+* Disk & Storage Management
+* Server Monitoring
+* System Troubleshooting
+
+---
+
+# 🐳 Containers & Orchestration
+
+* Docker
+* Dockerfile
+* Docker Images & Containers
+* Docker Compose
+* Container Networking
+* Container Volumes
+* Docker Registry
+* Kubernetes
+* Pods
+* Deployments
+* Services
+* ConfigMaps
+* Secrets
+* Namespaces
+* Kubernetes Networking
+* Helm
+
+---
+
+# 🔄 CI/CD & Automation
+
+* Jenkins
+* GitHub Actions
+* CI/CD Pipeline Design
+* Continuous Integration
+* Continuous Delivery
+* Build Automation
+* Deployment Automation
+* Jenkinsfile
+* GitHub Actions Workflows
+* Automated Deployments
+* Pipeline Troubleshooting
+
+---
+
+# 🏗️ Infrastructure as Code
+
+* Terraform
+* Terraform Providers
+* Variables & Outputs
+* Terraform State
+* Terraform Modules
+* Infrastructure Provisioning
+* AWS Infrastructure Automation
+* AWS CloudFormation
+* Infrastructure as Code (IaC)
+
+---
+
+# ⚙️ Configuration Management
+
+* Ansible
+* Ansible Playbooks
+* Inventory Management
+* Variables
+* Roles
+* Server Configuration
+* Application Deployment
+* Configuration Automation
+
+---
+
+# 📊 Monitoring & Observability
+
+* Prometheus
+* Grafana
+* AWS CloudWatch
+* Infrastructure Monitoring
+* Application Monitoring
+* Metrics & Dashboards
+* Log Monitoring
+* System Health Monitoring
+* Basic Alerting
+
+---
+
+# 🌐 Networking & Web Technologies
+
+* TCP/IP
+* HTTP / HTTPS
+* DNS
+* SSH
+* IP Addressing
+* Subnetting Basics
+* AWS VPC
+* Security Groups
+* Load Balancing
+* Nginx
+* Reverse Proxy
+* Network Troubleshooting
+
+---
+
+# 🛠️ Development & Version Control
+
+* Git
+* GitHub
+* Git Branching
+* Pull Requests
+* Merge & Conflict Resolution
+* YAML
+* JSON
+* Bash
+* Python — Basics
+* AWS CLI
+* VS Code
+* Postman
+
+---
+
+# 🚀 DevOps & Cloud Projects
+
+### 🔹 End-to-End CI/CD Pipeline on AWS
+
+* Built an automated **CI/CD pipeline using GitHub Actions, Docker, Kubernetes, and AWS**
+* Containerized applications using **Docker**
+* Automated build, test, and deployment workflows
+* Deployed containerized workloads using **Kubernetes**
+* Provisioned and managed AWS cloud infrastructure
+* Used Git and GitHub for version control and collaborative development
+* Implemented automated application deployment through CI/CD workflows
+
+### 🔹 Dockerized Multi-Container Application
+
+* Containerized a multi-service application using **Docker and Docker Compose**
+* Configured **Nginx as a reverse proxy**
+* Created container networking and service communication
+* Managed application configuration and environment variables
+* Automated application startup using Docker Compose
+* Troubleshot container, networking, and application issues
+
+---
+
+# 📌 Core DevOps Skills
+
+* 🔹 AWS Cloud Infrastructure
+* 🔹 CI/CD Pipeline Automation
+* 🔹 Linux System Administration
+* 🔹 Docker Containerization
+* 🔹 Kubernetes Orchestration
+* 🔹 Infrastructure as Code
+* 🔹 Terraform Automation
+* 🔹 Ansible Configuration Management
+* 🔹 Jenkins
+* 🔹 GitHub Actions
+* 🔹 Server Deployment & Troubleshooting
+* 🔹 Monitoring & Observability
+* 🔹 Git & GitHub
+* 🔹 Bash Scripting
+* 🔹 Infrastructure Automation
+* 🔹 Networking Fundamentals
+* 🔹 IAM & Cloud Security Fundamentals
+* 🔹 Application Deployment
+* 🔹 Cloud Operations
+
+---
+
+# 🎯 Career Focus
+
+* DevOps Engineer
+* Cloud Engineer
+* Junior DevOps Engineer
+* DevOps Trainee
+* Cloud Engineer Trainee
+* AWS Cloud Engineer
+* Infrastructure Engineer
+* Site Reliability Engineer (SRE)
+* Cloud Support Engineer
+* Cloud Operations Engineer
+* Linux System Administrator
+* Platform Engineer
+
+---
+
+# 📚 Currently Learning
+
+* Advanced AWS Cloud Architecture
+* Kubernetes Administration
+* Terraform Best Practices
+* CI/CD Pipeline Optimization
+* Cloud Security
+* Infrastructure Monitoring
+* Site Reliability Engineering
+* Infrastructure Automation
+* System Design
+
+---
+
+⭐ Passionate about **DevOps, Cloud Computing, AWS, Linux, Docker, Kubernetes, Terraform, Jenkins, Ansible, CI/CD, Infrastructure as Code, Monitoring, Automation, and scalable cloud infrastructure**.
+
+I enjoy automating repetitive tasks, improving deployment pipelines, troubleshooting infrastructure, and building **reliable, secure, and scalable cloud environments** that enable faster and more efficient software delivery.
+
 
 ---
 
